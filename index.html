@@ -9,99 +9,261 @@
     body {
       margin: 0;
       font-family: Arial, sans-serif;
-      background: #f7f5ef;
-      color: #26352d;
+      background: #f6f4ed;
+      color: #26392f;
+      line-height: 1.8;
     }
     header {
-      background: #234b3a;
+      background: #24513e;
       color: white;
-      padding: 28px 18px;
       text-align: center;
+      padding: 30px 16px;
     }
-    header h1 { margin: 0 0 10px; }
-    header p { margin: 0; }
-    main { max-width: 900px; margin: auto; padding: 22px; }
-    input {
-      width: 100%;
-      padding: 13px;
+    header h1 { margin: 0; }
+    main { max-width: 900px; margin: auto; padding: 20px; }
+    input, select, button {
+      font: inherit;
+      padding: 10px;
+      border-radius: 8px;
+    }
+    input, select {
       border: 1px solid #ccc;
-      border-radius: 10px;
-      font-size: 16px;
-      margin-bottom: 20px;
-    }
-    h2 { margin-top: 28px; }
-    .books {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
-      gap: 14px;
-    }
-    .book {
       background: white;
-      border-radius: 12px;
-      padding: 18px;
-      box-shadow: 0 2px 8px #0000000d;
+      width: 100%;
+      margin-bottom: 12px;
     }
-    .book h3 { margin-top: 0; }
-    .book p { color: #666; }
-    footer {
-      text-align: center;
-      padding: 24px;
-      color: #777;
+    .categories {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin: 16px 0;
+    }
+    button {
+      cursor: pointer;
+      border: 0;
+      background: #24513e;
+      color: white;
+    }
+    .card {
+      background: white;
+      padding: 18px;
+      border-radius: 12px;
+      margin: 12px 0;
+      box-shadow: 0 2px 8px #0001;
+    }
+    .card h3 { margin-top: 0; }
+    .pinyin { color: #347451; }
+    .translation {
+      background: #faf4e8;
+      padding: 10px;
+      border-radius: 8px;
+    }
+    .controls {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin: 15px 0;
+    }
+    .controls button { background: #557464; }
+    .hidden { display: none; }
+    .book-text {
+      border-bottom: 1px solid #ddd;
+      padding: 12px 0;
     }
   </style>
 </head>
 <body>
   <header>
     <h1>📚 ห้องสมุดออนไลน์</h1>
-    <p>อ่านนิทาน เรียนภาษาจีน และพัฒนาตัวเองทุกวัน</p>
+    <p>อ่านนิทานจีน นิทานไทย และฝึกภาษาจีน HSK</p>
   </header>
+
   <main>
-    <input id="search" type="search"
-      placeholder="ค้นหาหนังสือหรือชื่อเรื่อง..."
-      oninput="searchBooks()">
-    <h2>🇨🇳 นิทานจีน</h2>
-    <div class="books">
-      <article class="book">
-        <h3>画蛇添足</h3>
-        <p>วาดงูเติมขา — เรียนรู้ว่าการทำเกินความจำเป็นอาจทำให้เสียเรื่อง</p>
-      </article>
-      <article class="book">
-        <h3>守株待兔</h3>
-        <p>รอกระต่ายที่ตอไม้ — อย่าหวังพึ่งโชคโดยไม่ลงมือทำ</p>
-      </article>
+    <input id="search" placeholder="ค้นหาชื่อหนังสือ..." />
+
+    <select id="category">
+      <option value="ทั้งหมด">หนังสือทุกหมวด</option>
+      <option value="นิทานจีน">นิทานจีน</option>
+      <option value="นิทานไทย">นิทานไทย</option>
+      <option value="บทอ่าน HSK">บทอ่าน HSK</option>
+    </select>
+
+    <div class="categories">
+      <button onclick="chooseCategory('ทั้งหมด')">ทั้งหมด</button>
+      <button onclick="chooseCategory('นิทานจีน')">🇨🇳 นิทานจีน</button>
+      <button onclick="chooseCategory('นิทานไทย')">🇹🇭 นิทานไทย</button>
+      <button onclick="chooseCategory('บทอ่าน HSK')">📖 บทอ่าน HSK</button>
     </div>
-    <h2>🇹🇭 นิทานไทย</h2>
-    <div class="books">
-      <article class="book">
-        <h3>กระต่ายกับเต่า</h3>
-        <p>ความพยายามอย่างสม่ำเสมอมีความสำคัญ</p>
-      </article>
-      <article class="book">
-        <h3>ราชสีห์กับหนู</h3>
-        <p>อย่าดูถูกความสามารถของผู้อื่น</p>
-      </article>
-    </div>
-    <h2>📖 บทอ่าน HSK</h2>
-    <div class="books">
-      <article class="book">
-        <h3>我的中国朋友</h3>
-        <p>เพื่อนชาวจีนของฉัน — ฝึกอ่านภาษาจีน</p>
-      </article>
-      <article class="book">
-        <h3>我的未来计划</h3>
-        <p>แผนอนาคตของฉัน — ฝึกคำศัพท์ HSK</p>
-      </article>
-    </div>
+
+    <h2>รายการหนังสือ</h2>
+    <div id="bookList">กำลังโหลดหนังสือ...</div>
   </main>
-  <footer>ห้องสมุดออนไลน์ · เรียนรู้ได้ทุกวัน</footer>
+
+  <script src="books.js"></script>
   <script>
-    function searchBooks() {
-      const query = document.getElementById("search").value.toLowerCase();
-      document.querySelectorAll(".book").forEach(book => {
-        book.style.display = book.textContent.toLowerCase().includes(query)
-          ? "" : "none";
+    const list = document.getElementById("bookList");
+    const search = document.getElementById("search");
+    const category = document.getElementById("category");
+
+    let selectedBook = null;
+    let showPinyin = true;
+    let showThai = true;
+
+    function chooseCategory(value) {
+      category.value = value;
+      renderBooks();
+    }
+
+    function renderBooks() {
+      if (!window.libraryBooks) {
+        list.textContent = "ยังโหลดหนังสือไม่ได้ กรุณาตรวจสอบไฟล์ books.js";
+        return;
+      }
+
+      const keyword = search.value.trim().toLowerCase();
+      const books = window.libraryBooks.filter(book =>
+        (category.value === "ทั้งหมด" ||
+          book.category === category.value) &&
+        (book.title + " " + (book.subtitle || ""))
+          .toLowerCase().includes(keyword)
+      );
+
+      list.innerHTML = "";
+
+      if (books.length === 0) {
+        list.textContent = "ไม่พบหนังสือในหมวดนี้";
+        return;
+      }
+
+      books.forEach(book => {
+        const card = document.createElement("div");
+        card.className = "card";
+
+        const title = document.createElement("h3");
+        title.textContent = book.title;
+
+        const subtitle = document.createElement("p");
+        subtitle.textContent = book.subtitle || book.category;
+
+        const button = document.createElement("button");
+        button.textContent = "อ่านเรื่องนี้";
+        button.onclick = () => openBook(book);
+
+        card.append(title, subtitle, button);
+        list.appendChild(card);
       });
     }
+
+    function openBook(book) {
+      selectedBook = book;
+      showPinyin = true;
+      showThai = true;
+      renderStory();
+    }
+
+    function renderStory() {
+      list.innerHTML = "";
+
+      const back = document.createElement("button");
+      back.textContent = "← กลับไปหน้ารายการ";
+      back.onclick = renderBooks;
+      list.appendChild(back);
+
+      const title = document.createElement("h2");
+      title.textContent = selectedBook.title;
+      list.appendChild(title);
+
+      const controls = document.createElement("div");
+      controls.className = "controls";
+
+      const pinyinButton = document.createElement("button");
+      pinyinButton.textContent = showPinyin
+        ? "ซ่อนพินอิน"
+        : "แสดงพินอิน";
+      pinyinButton.onclick = () => {
+        showPinyin = !showPinyin;
+        renderStory();
+      };
+
+      const thaiButton = document.createElement("button");
+      thaiButton.textContent = showThai
+        ? "ซ่อนคำแปลไทย"
+        : "แสดงคำแปลไทย";
+      thaiButton.onclick = () => {
+        showThai = !showThai;
+        renderStory();
+      };
+
+      controls.append(pinyinButton, thaiButton);
+      list.appendChild(controls);
+
+      selectedBook.sections.forEach(section => {
+        const paragraph = document.createElement("div");
+        paragraph.className = "book-text";
+
+        const original = document.createElement("p");
+        original.textContent = section.text;
+        paragraph.appendChild(original);
+
+        if (showPinyin && section.pinyin) {
+          const pinyin = document.createElement("p");
+          pinyin.className = "pinyin";
+          pinyin.textContent = section.pinyin;
+          paragraph.appendChild(pinyin);
+        }
+
+        if (showThai && section.thai) {
+          const thai = document.createElement("p");
+          thai.className = "translation";
+          thai.textContent = section.thai;
+          paragraph.appendChild(thai);
+        }
+
+        list.appendChild(paragraph);
+      });
+
+      const vocabTitle = document.createElement("h3");
+      vocabTitle.textContent = "คำศัพท์สำคัญ";
+      list.appendChild(vocabTitle);
+
+      (selectedBook.vocabulary || []).forEach(word => {
+        const item = document.createElement("div");
+        item.className = "card";
+        item.textContent =
+          word.word + " · " +
+          (word.pinyin || "") + " · " +
+          (word.meaning || "");
+
+        if (word.example) {
+          item.textContent += " | ตัวอย่าง: " + word.example;
+        }
+
+        list.appendChild(item);
+      });
+
+      const quote = document.createElement("div");
+      quote.className = "card";
+      quote.textContent = "ข้อคิด: " + (selectedBook.quote || "");
+      list.appendChild(quote);
+
+      if (selectedBook.questions) {
+        const heading = document.createElement("h3");
+        heading.textContent = "คำถามทบทวน";
+        list.appendChild(heading);
+
+        selectedBook.questions.forEach(question => {
+          const item = document.createElement("p");
+          item.textContent = question[0] + " — " + question[1];
+          list.appendChild(item);
+        });
+      }
+
+      window.scrollTo(0, 0);
+    }
+
+    search.addEventListener("input", renderBooks);
+    category.addEventListener("change", renderBooks);
+    renderBooks();
   </script>
 </body>
 </html>
