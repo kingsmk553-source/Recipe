@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ห้องสมุดออนไลน์</title>
+  <style>
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f7f5ef;
+      color: #26352d;
+    }
+    header {
+      background: #234b3a;
+      color: white;
+      padding: 28px 18px;
+      text-align: center;
+    }
+    header h1 { margin: 0 0 10px; }
+    header p { margin: 0; }
+    main { max-width: 900px; margin: auto; padding: 22px; }
+    input {
+      width: 100%;
+      padding: 13px;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      font-size: 16px;
+      margin-bottom: 20px;
+    }
+    h2 { margin-top: 28px; }
+    .books {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+      gap: 14px;
+    }
+    .book {
+      background: white;
+      border-radius: 12px;
+      padding: 18px;
+      box-shadow: 0 2px 8px #0000000d;
+    }
+    .book h3 { margin-top: 0; }
+    .book p { color: #666; }
+    footer {
+      text-align: center;
+      padding: 24px;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>📚 ห้องสมุดออนไลน์</h1>
+    <p>อ่านนิทาน เรียนภาษาจีน และพัฒนาตัวเองทุกวัน</p>
+  </header>
+  <main>
+    <input id="search" type="search"
+      placeholder="ค้นหาหนังสือหรือชื่อเรื่อง..."
+      oninput="searchBooks()">
+    <h2>🇨🇳 นิทานจีน</h2>
+    <div class="books">
+      <article class="book">
+        <h3>画蛇添足</h3>
+        <p>วาดงูเติมขา — เรียนรู้ว่าการทำเกินความจำเป็นอาจทำให้เสียเรื่อง</p>
+      </article>
+      <article class="book">
+        <h3>守株待兔</h3>
+        <p>รอกระต่ายที่ตอไม้ — อย่าหวังพึ่งโชคโดยไม่ลงมือทำ</p>
+      </article>
+    </div>
+    <h2>🇹🇭 นิทานไทย</h2>
+    <div class="books">
+      <article class="book">
+        <h3>กระต่ายกับเต่า</h3>
+        <p>ความพยายามอย่างสม่ำเสมอมีความสำคัญ</p>
+      </article>
+      <article class="book">
+        <h3>ราชสีห์กับหนู</h3>
+        <p>อย่าดูถูกความสามารถของผู้อื่น</p>
+      </article>
+    </div>
+    <h2>📖 บทอ่าน HSK</h2>
+    <div class="books">
+      <article class="book">
+        <h3>我的中国朋友</h3>
+        <p>เพื่อนชาวจีนของฉัน — ฝึกอ่านภาษาจีน</p>
+      </article>
+      <article class="book">
+        <h3>我的未来计划</h3>
+        <p>แผนอนาคตของฉัน — ฝึกคำศัพท์ HSK</p>
+      </article>
+    </div>
+  </main>
+  <footer>ห้องสมุดออนไลน์ · เรียนรู้ได้ทุกวัน</footer>
+  <script>
+    function searchBooks() {
+      const query = document.getElementById("search").value.toLowerCase();
+      document.querySelectorAll(".book").forEach(book => {
+        book.style.display = book.textContent.toLowerCase().includes(query)
+          ? "" : "none";
+      });
+    }
+  </script>
+</body>
+</html>
