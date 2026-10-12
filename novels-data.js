@@ -45,7 +45,24 @@ window.novelLibrary = [
   quotePinyin: "Bùguǎn duō máng, dōu bú yào wàngjì zìjǐ de mèngxiǎng.",
   quoteTh: "ไม่ว่าจะยุ่งแค่ไหน ก็อย่าลืมความฝันของตัวเอง"
 },
-      { number: 3, titleZh: "没有说出口的话", titleTh: "คำพูดที่ไม่เคยเอ่ย", textZh: "", pinyin: "", textTh: "", vocabulary: [], quoteZh: "", quotePinyin: "", quoteTh: "" },
+{
+  number: 3,
+  titleZh: "突然下起的雨",
+  titleTh: "ฝนที่ตกลงมาอย่างกะทันหัน",
+  textZh: "下午，林安和苏晴一起去镇上的书店。他们一边走，一边说起小时候的事情。天气本来很好，可是没过多久，天空突然变黑，下起了大雨。两个人没有带伞，只好跑到路边的一家小店里躲雨。苏晴看着外面的雨，笑着说：“以前每次下雨，都是我把伞借给你。”林安不好意思地笑了：“那时候我总是忘记带伞，现在想起来，真有点儿好笑。”过了一会儿，雨还是没有停。林安发现苏晴的衣服湿了一点儿，就把自己的外套递给她。苏晴有些惊讶，问：“那你怎么办？”林安回答：“没关系，我不怕冷。”苏晴接过外套，心里觉得很温暖。雨声越来越小，他们准备继续往书店走。走到门口时，林安认真地说：“以前都是你帮助我，以后也让我帮助你吧。”苏晴看着他，轻轻地点了点头。",
+  pinyin: "Xiàwǔ, Lín Ān hé Sū Qíng yìqǐ qù zhèn shàng de shūdiàn. Tāmen yìbiān zǒu, yìbiān shuō qǐ xiǎoshíhou de shìqing. Tiānqì běnlái hěn hǎo, kěshì méi guò duō jiǔ, tiānkōng tūrán biàn hēi, xià qǐ le dà yǔ. Liǎng ge rén méiyǒu dài sǎn, zhǐhǎo pǎo dào lùbiān de yì jiā xiǎodiàn lǐ duǒ yǔ. Sū Qíng kànzhe wàimiàn de yǔ, xiào zhe shuō: “Yǐqián měi cì xià yǔ, dōu shì wǒ bǎ sǎn jiè gěi nǐ.” Lín Ān bù hǎoyìsi de xiào le: “Nà shíhou wǒ zǒng shì wàngjì dài sǎn, xiànzài xiǎng qǐlái, zhēn yǒudiǎnr hǎoxiào.” Guò le yíhuìr, yǔ háishi méiyǒu tíng. Lín Ān fāxiàn Sū Qíng de yīfu shī le yìdiǎnr, jiù bǎ zìjǐ de wàitào dì gěi tā. Sū Qíng yǒuxiē jīngyà, wèn: “Nà nǐ zěnme bàn?” Lín Ān huídá: “Méi guānxi, wǒ bú pà lěng.” Sū Qíng jiēguò wàitào, xīn lǐ juéde hěn wēnnuǎn. Yǔ shēng yuèláiyuè xiǎo, tāmen zhǔnbèi jìxù wǎng shūdiàn zǒu. Zǒu dào ménkǒu shí, Lín Ān rènzhēn de shuō: “Yǐqián dōu shì nǐ bāngzhù wǒ, yǐhòu yě ràng wǒ bāngzhù nǐ ba.” Sū Qíng kànzhe tā, qīngqīng de diǎn le diǎn tóu.",
+  textTh: "ช่วงบ่าย หลินอันกับซูฉิงไปที่ร้านหนังสือในเมืองเล็ก ๆ ด้วยกัน ระหว่างเดิน พวกเขาก็คุยถึงเรื่องสมัยเด็ก ตอนแรกอากาศยังดีอยู่ แต่ไม่นานท้องฟ้าก็มืดลงและฝนก็ตกหนัก ทั้งสองไม่ได้พกร่มมา จึงต้องวิ่งไปหลบฝนในร้านเล็ก ๆ ริมถนน ซูฉิงมองฝนด้านนอกแล้วยิ้มพูดว่า “เมื่อก่อนทุกครั้งที่ฝนตก ฉันเป็นคนให้เธอยืมร่มตลอดเลย” หลินอันยิ้มอย่างเขิน ๆ “ตอนนั้นฉันลืมพกร่มอยู่เสมอ พอนึกถึงตอนนี้ก็รู้สึกตลกเหมือนกัน” ผ่านไปสักพักฝนก็ยังไม่หยุด หลินอันเห็นว่าเสื้อของซูฉิงเปียกเล็กน้อย จึงยื่นเสื้อคลุมของตัวเองให้เธอ ซูฉิงประหลาดใจเล็กน้อยแล้วถามว่า “แล้วเธอล่ะจะทำยังไง?” หลินอันตอบว่า “ไม่เป็นไร ฉันไม่กลัวหนาว” ซูฉิงรับเสื้อคลุมมาและรู้สึกอบอุ่นในใจ เสียงฝนค่อย ๆ เบาลง พวกเขาจึงเตรียมเดินต่อไปยังร้านหนังสือ เมื่อเดินถึงหน้าร้าน หลินอันพูดอย่างจริงจังว่า “เมื่อก่อนเธอเป็นคนช่วยฉันมาตลอด ต่อไปให้ฉันช่วยเธอบ้างนะ” ซูฉิงมองเขาแล้วพยักหน้าเบา ๆ",
+  vocabulary: [
+    { word: "突然", pinyin: "tūrán", meaningTh: "ทันใดนั้น" },
+    { word: "躲雨", pinyin: "duǒ yǔ", meaningTh: "หลบฝน" },
+    { word: "借", pinyin: "jiè", meaningTh: "ยืม, ให้ยืม" },
+    { word: "外套", pinyin: "wàitào", meaningTh: "เสื้อคลุม" },
+    { word: "温暖", pinyin: "wēnnuǎn", meaningTh: "อบอุ่น" }
+  ],
+  quoteZh: "我希望自己也能帮助你。",
+  quotePinyin: "Wǒ xīwàng zìjǐ yě néng bāngzhù nǐ.",
+  quoteTh: "ฉันหวังว่าตัวเองจะสามารถช่วยเธอได้เหมือนกัน"
+},
       { number: 4, titleZh: "雨中的伞", titleTh: "ร่มคันเดียวกลางสายฝน", textZh: "", pinyin: "", textTh: "", vocabulary: [], quoteZh: "", quotePinyin: "", quoteTh: "" },
       { number: 5, titleZh: "她的梦想", titleTh: "ความฝันของเธอ", textZh: "", pinyin: "", textTh: "", vocabulary: [], quoteZh: "", quotePinyin: "", quoteTh: "" },
       { number: 6, titleZh: "迟到的解释", titleTh: "คำอธิบายที่มาช้า", textZh: "", pinyin: "", textTh: "", vocabulary: [], quoteZh: "", quotePinyin: "", quoteTh: "" },
