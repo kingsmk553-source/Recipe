@@ -153,7 +153,7 @@
       ${
         chapter.vocabulary?.length
           ? `<ul>${chapter.vocabulary.map(word =>
-              `<li>${escapeHTML(word.zh || "")} (${escapeHTML(word.pinyin || "")}) — ${escapeHTML(word.th || "")}</li>`
+              `<li>${escapeHTML(word.word || word.zh || "")} (${escapeHTML(word.pinyin || "")}) — ${escapeHTML(word.meaningTh || word.th || "")}</li>`
             ).join("")}</ul>`
           : "<p>ยังไม่ได้เพิ่มคำศัพท์</p>"
       }
