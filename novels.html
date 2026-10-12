@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ห้องสมุดนิยายไทย–จีน</title>
+  <style>
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f8f5ef;
+      color: #342c2a;
+    }
+
+    header {
+      padding: 30px 18px;
+      text-align: center;
+      color: white;
+      background: linear-gradient(135deg, #593c65, #a56b80);
+    }
+
+    header h1 {
+      margin: 0 0 10px;
+      font-size: 28px;
+    }
+
+    header p {
+      margin: 0;
+      line-height: 1.8;
+    }
+
+    main {
+      width: min(100% - 28px, 960px);
+      margin: 24px auto;
+    }
+
+    .intro, .library {
+      padding: 20px;
+      margin-bottom: 20px;
+      background: white;
+      border-radius: 16px;
+      box-shadow: 0 3px 14px #0000000a;
+    }
+
+    .search {
+      width: 100%;
+      padding: 13px;
+      margin: 12px 0;
+      border: 1px solid #ddd1d8;
+      border-radius: 10px;
+      font-size: 16px;
+    }
+
+    .categories {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin: 16px 0;
+    }
+
+    .categories button {
+      padding: 9px 13px;
+      border: 1px solid #e2d4de;
+      border-radius: 20px;
+      background: #fff9fc;
+      color: #593c65;
+      cursor: pointer;
+    }
+
+    .categories button.active {
+      background: #593c65;
+      color: white;
+    }
+
+    .empty {
+      padding: 28px 12px;
+      text-align: center;
+      line-height: 1.9;
+      color: #766b72;
+      background: #fcf9fb;
+      border-radius: 12px;
+    }
+
+    footer {
+      padding: 22px;
+      text-align: center;
+      color: #766b72;
+      font-size: 13px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>📚 ห้องสมุดนิยายไทย–จีน</h1>
+    <p>อ่านนิยายสองภาษา เรียนรู้ภาษา และเปิดโลกแห่งเรื่องราว</p>
+    <p>中文小说 · 泰国小说 · 双语阅读</p>
+  </header>
+
+  <main>
+    <section class="intro">
+      <h2>ยินดีต้อนรับสู่ห้องสมุดนิยาย</h2>
+      <p>
+        อ่านนิยายจีนพร้อมคำแปลไทย หรือนิยายไทยพร้อมคำแปลจีน
+        พร้อมรูปประกอบและระบบอ่านทีละบท
+      </p>
+    </section>
+
+    <section class="library">
+      <h2>ค้นหานิยาย</h2>
+      <input
+        class="search"
+        id="searchInput"
+        type="search"
+        placeholder="ค้นหาชื่อเรื่อง หรือชื่อภาษาจีน..."
+      >
+
+      <div class="categories" id="categories">
+        <button class="active" data-category="all">ทั้งหมด</button>
+        <button data-category="chinese">นิยายจีนแปลไทย</button>
+        <button data-category="thai">นิยายไทยแปลจีน</button>
+        <button data-category="romance">โรแมนติก</button>
+        <button data-category="fantasy">แฟนตาซี</button>
+        <button data-category="wuxia">กำลังภายใน</button>
+        <button data-category="history">ประวัติศาสตร์</button>
+      </div>
+
+      <div class="empty" id="novelList">
+        <h3>📖 กำลังเตรียมห้องสมุดของเรา</h3>
+        <p>ขั้นต่อไปเราจะเพิ่มข้อมูลนิยายและระบบเปิดอ่านแต่ละบท</p>
+        <p>นิยายจีนแปลไทย · นิยายไทยแปลจีน</p>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    ห้องสมุดนิยายไทย–จีน · พัฒนาสำหรับการอ่านและเรียนรู้ภาษา
+  </footer>
+</body>
+</html>
