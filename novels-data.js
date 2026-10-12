@@ -171,10 +171,60 @@ window.novelLibrary = [
   quotePinyin: "Xìnrèn bǐ cāicè gèng zhòngyào.",
   quoteTh: "ความเชื่อใจสำคัญกว่าการคาดเดา"
 },
-
-      { number: 10, titleZh: "河边的夜谈", titleTh: "บทสนทนาริมแม่น้ำยามค่ำ", textZh: "", pinyin: "", textTh: "", vocabulary: [], quoteZh: "", quotePinyin: "", quoteTh: "" },
-      { number: 11, titleZh: "远方的机会", titleTh: "โอกาสจากแดนไกล", textZh: "", pinyin: "", textTh: "", vocabulary: [], quoteZh: "", quotePinyin: "", quoteTh: "" },
-      { number: 12, titleZh: "选择与勇气", titleTh: "การเลือกและความกล้า", textZh: "", pinyin: "", textTh: "", vocabulary: [], quoteZh: "", quotePinyin: "", quoteTh: "" },
+{
+  number: 10,
+  titleZh: "一起修好的窗户",
+  titleTh: "หน้าต่างที่ช่วยกันซ่อม",
+  textZh: "一天晚上，镇上突然刮起了大风。书店的窗户被风吹得不停地响，最后一块玻璃裂开了。第二天早上，苏晴来到书店，发现地上有很多碎玻璃。她很担心，因为如果不尽快修好窗户，雨水可能会进入书店，把书弄湿。林安知道以后，马上赶了过来。他先帮苏晴清理地上的碎玻璃，然后一起去买新的玻璃和修理工具。刚开始，他们不知道应该怎么做，只好一边看说明，一边慢慢尝试。虽然过程有些困难，但是他们没有放弃。林安负责固定窗框，苏晴小心地整理工具。忙了几个小时以后，窗户终于修好了。苏晴看着明亮的窗户，开心地说：“我们真的做到了！”林安笑着回答：“只要一起想办法，总能找到解决问题的方法。”两个人坐在店里休息，看着阳光照进书店。苏晴觉得，这扇窗户不只是被修好了，也让她更加相信，只要有人愿意陪自己努力，再困难的事情也有希望。",
+  pinyin: "Yì tiān wǎnshang, zhèn shàng tūrán guā qǐ le dà fēng. Shūdiàn de chuānghu bèi fēng chuī de bù tíng de xiǎng, zuìhòu yí kuài bōli lièkāi le. Dì èr tiān zǎoshang, Sū Qíng láidào shūdiàn, fāxiàn dì shàng yǒu hěn duō suì bōli. Tā hěn dānxīn, yīnwèi rúguǒ bù jǐnkuài xiū hǎo chuānghu, yǔshuǐ kěnéng huì jìnrù shūdiàn, bǎ shū nòng shī. Lín Ān zhīdào yǐhòu, mǎshàng gǎn le guòlái. Tā xiān bāng Sū Qíng qīnglǐ dì shàng de suì bōli, ránhòu yìqǐ qù mǎi xīn de bōli hé xiūlǐ gōngjù. Gāng kāishǐ, tāmen bù zhīdào yīnggāi zěnme zuò, zhǐhǎo yìbiān kàn shuōmíng, yìbiān mànmàn chángshì. Suīrán guòchéng yǒuxiē kùnnan, dànshì tāmen méiyǒu fàngqì. Lín Ān fùzé gùdìng chuāngkuāng, Sū Qíng xiǎoxīn de zhěnglǐ gōngjù. Máng le jǐ ge xiǎoshí yǐhòu, chuānghu zhōngyú xiū hǎo le. Sū Qíng kànzhe míngliàng de chuānghu, kāixīn de shuō: “Wǒmen zhēn de zuòdào le!” Lín Ān xiào zhe huídá: “Zhǐyào yìqǐ xiǎng bànfǎ, zǒng néng zhǎodào jiějué wèntí de fāngfǎ.” Liǎng ge rén zuò zài diàn lǐ xiūxi, kànzhe yángguāng zhào jìn shūdiàn. Sū Qíng juéde, zhè shàn chuānghu bù zhǐ shì bèi xiū hǎo le, yě ràng tā gèngjiā xiāngxìn, zhǐyào yǒu rén yuànyì péi zìjǐ nǔlì, zài kùnnan de shìqing yě yǒu xīwàng.",
+  textTh: "คืนหนึ่ง จู่ ๆ ก็มีลมแรงพัดผ่านเมืองเล็ก ๆ หน้าต่างร้านหนังสือสั่นเสียงดังเพราะแรงลม และในที่สุดกระจกก็แตกร้าว เช้าวันต่อมา ซูฉิงมาถึงร้านและพบเศษกระจกเต็มพื้น เธอกังวลมาก เพราะถ้าไม่รีบซ่อมหน้าต่าง น้ำฝนอาจเข้ามาทำให้หนังสือเปียกได้ เมื่อหลินอันรู้เรื่อง เขาก็รีบมาช่วยทันที เขาช่วยซูฉิงเก็บเศษกระจกก่อน จากนั้นทั้งสองก็ไปซื้อกระจกใหม่และเครื่องมือซ่อม ตอนแรกพวกเขาไม่รู้ว่าต้องทำอย่างไร จึงต้องอ่านคำแนะนำไปพร้อมกับลองทำทีละน้อย แม้จะมีปัญหาบ้าง แต่พวกเขาก็ไม่ยอมแพ้ หลินอันรับหน้าที่ยึดกรอบหน้าต่าง ส่วนซูฉิงจัดเครื่องมืออย่างระมัดระวัง หลังจากทำงานอยู่หลายชั่วโมง ในที่สุดหน้าต่างก็ซ่อมเสร็จ ซูฉิงมองหน้าต่างที่กลับมาสวยงามแล้วยิ้มพูดว่า “พวกเราทำสำเร็จจริง ๆ ด้วย!” หลินอันตอบพร้อมรอยยิ้มว่า “ถ้าช่วยกันหาทาง เราก็จะพบวิธีแก้ปัญหาได้เสมอ” ทั้งสองนั่งพักในร้าน มองแสงแดดที่ส่องเข้ามา ซูฉิงรู้สึกว่าหน้าต่างบานนี้ไม่เพียงได้รับการซ่อมแซม แต่ยังทำให้เธอเชื่อมั่นมากขึ้นว่า หากมีใครสักคนเต็มใจพยายามไปด้วยกัน แม้เป็นเรื่องยากก็ยังมีความหวัง",
+  vocabulary: [
+    { word: "玻璃", pinyin: "bōli", meaningTh: "กระจก" },
+    { word: "碎", pinyin: "suì", meaningTh: "แตกเป็นชิ้นเล็ก ๆ" },
+    { word: "工具", pinyin: "gōngjù", meaningTh: "เครื่องมือ" },
+    { word: "固定", pinyin: "gùdìng", meaningTh: "ยึดให้แน่น" },
+    { word: "解决", pinyin: "jiějué", meaningTh: "แก้ไข, แก้ปัญหา" }
+  ],
+  quoteZh: "只要有人愿意陪你一起努力，再困难的事情也有希望。",
+  quotePinyin: "Zhǐyào yǒu rén yuànyì péi nǐ yìqǐ nǔlì, zài kùnnan de shìqing yě yǒu xīwàng.",
+  quoteTh: "ขอเพียงมีคนเต็มใจพยายามไปกับเรา แม้เรื่องยากก็ยังมีความหวัง"
+},
+{
+  number: 11,
+  titleZh: "离开的消息",
+  titleTh: "ข่าวการจากลา",
+  textZh: "一个星期以后，林安收到了一封邮件。邮件告诉他，一家大公司的实习机会已经通过了，他可以去大城市学习新的知识和工作方法。这个消息让他很高兴，因为这是他一直以来的梦想。但是，他也开始担心苏晴。晚上，他来到书店，坐了很久才把消息告诉她。苏晴听完以后，先是愣了一下，然后微笑着说：“这是一个很好的机会，你应该去试一试。”林安看着她，问：“可是，如果我离开了，你怎么办？书店还有很多事情需要帮忙。”苏晴告诉他，自己会努力照顾好书店，也会继续举办读书活动。她不希望林安因为担心自己而放弃机会。林安心里很感动，却也舍不得离开。两个人坐在窗边，聊了很多关于未来的事情。他们都明白，成长有时候需要离开熟悉的地方，去看看更大的世界。临走前，苏晴送给林安一本小笔记本，让他把实习期间的故事写下来。林安答应她，无论走到哪里，都不会忘记自己的家乡和这家书店。",
+  pinyin: "Yí ge xīngqī yǐhòu, Lín Ān shōudào le yì fēng yóujiàn. Yóujiàn gàosu tā, yì jiā dà gōngsī de shíxí jīhuì yǐjīng tōngguò le, tā kěyǐ qù dà chéngshì xuéxí xīn de zhīshi hé gōngzuò fāngfǎ. Zhège xiāoxi ràng tā hěn gāoxìng, yīnwèi zhè shì tā yìzhí yǐlái de mèngxiǎng. Dànshì, tā yě kāishǐ dānxīn Sū Qíng. Wǎnshang, tā láidào shūdiàn, zuò le hěn jiǔ cái bǎ xiāoxi gàosu tā. Sū Qíng tīng wán yǐhòu, xiān shì lèng le yíxià, ránhòu wēixiào zhe shuō: “Zhè shì yí ge hěn hǎo de jīhuì, nǐ yīnggāi qù shì yí shì.” Lín Ān kànzhe tā, wèn: “Kěshì, rúguǒ wǒ líkāi le, nǐ zěnme bàn? Shūdiàn hái yǒu hěn duō shìqing xūyào bāngmáng.” Sū Qíng gàosu tā, zìjǐ huì nǔlì zhàogù hǎo shūdiàn, yě huì jìxù jǔbàn dúshū huódòng. Tā bù xīwàng Lín Ān yīnwèi dānxīn zìjǐ ér fàngqì jīhuì. Lín Ān xīn lǐ hěn gǎndòng, què yě shěbude líkāi. Liǎng ge rén zuò zài chuāngbiān, liáo le hěn duō guānyú wèilái de shìqing. Tāmen dōu míngbai, chéngzhǎng yǒu shíhou xūyào líkāi shúxī de dìfang, qù kànkan gèng dà de shìjiè. Línzǒu qián, Sū Qíng sòng gěi Lín Ān yì běn xiǎo bǐjìběn, ràng tā bǎ shíxí qījiān de gùshi xiě xiàlái. Lín Ān dāying tā, wúlùn zǒu dào nǎli, dōu bú huì wàngjì zìjǐ de jiāxiāng hé zhè jiā shūdiàn.",
+  textTh: "หนึ่งสัปดาห์ต่อมา หลินอันได้รับอีเมลฉบับหนึ่ง ในนั้นแจ้งว่าเขาผ่านการคัดเลือกเข้าฝึกงานในบริษัทใหญ่แห่งหนึ่ง เขาจะได้ไปเรียนรู้ความรู้และวิธีทำงานใหม่ ๆ ในเมืองใหญ่ ข่าวนี้ทำให้เขาดีใจมาก เพราะเป็นความฝันที่เขามีมานาน แต่เขาก็เริ่มเป็นห่วงซูฉิงเช่นกัน ตอนเย็นเขามาที่ร้านหนังสือและนั่งอยู่นานกว่าจะบอกข่าวนี้กับเธอ ซูฉิงฟังแล้วนิ่งไปครู่หนึ่ง ก่อนจะยิ้มและพูดว่า “นี่เป็นโอกาสที่ดีมาก เธอควรลองดูนะ” หลินอันมองเธอแล้วถามว่า “แต่ถ้าฉันไปแล้ว เธอจะทำอย่างไร? ที่ร้านยังมีหลายเรื่องที่ต้องช่วยกันนะ” ซูฉิงบอกว่าเธอจะพยายามดูแลร้านให้ดีและจัดกิจกรรมอ่านหนังสือต่อไป เธอไม่อยากให้หลินอันเสียโอกาสเพราะเป็นห่วงเธอ หลินอันซาบซึ้งใจมาก แต่ก็ไม่อยากจากไป ทั้งสองนั่งคุยเรื่องอนาคตกันริมหน้าต่าง พวกเขาเข้าใจว่าบางครั้งการเติบโตจำเป็นต้องออกจากสถานที่คุ้นเคย เพื่อไปเห็นโลกที่กว้างขึ้น ก่อนเดินทาง ซูฉิงมอบสมุดบันทึกเล่มเล็กให้หลินอัน เพื่อให้เขาเขียนเรื่องราวระหว่างฝึกงาน หลินอันสัญญาว่าไม่ว่าจะไปที่ไหน เขาจะไม่ลืมบ้านเกิดและร้านหนังสือแห่งนี้",
+  vocabulary: [
+    { word: "邮件", pinyin: "yóujiàn", meaningTh: "อีเมล" },
+    { word: "实习", pinyin: "shíxí", meaningTh: "ฝึกงาน" },
+    { word: "机会", pinyin: "jīhuì", meaningTh: "โอกาส" },
+    { word: "成长", pinyin: "chéngzhǎng", meaningTh: "เติบโต" },
+    { word: "舍不得", pinyin: "shěbude", meaningTh: "ตัดใจจากไม่ได้" }
+  ],
+  quoteZh: "你应该去追求自己的梦想。",
+  quotePinyin: "Nǐ yīnggāi qù zhuīqiú zìjǐ de mèngxiǎng.",
+  quoteTh: "เธอควรออกไปไล่ตามความฝันของตัวเอง"
+},
+{
+  number: 12,
+  titleZh: "诚实的心",
+  titleTh: "หัวใจที่ซื่อตรง",
+  textZh: "林安离开的日子越来越近了。一天晚上，他和苏晴坐在桃花树下，一起翻看小时候的笔记本。翻到最后一页时，他们看见林安以前写下的一句话：“长大以后，我希望能成为一个勇敢的人。”苏晴看着这句话，轻声问：“那你现在觉得自己勇敢吗？”林安想了很久，终于说：“我以前总是害怕说出自己的真实想法，因为我怕别人不理解我。可是现在，我不想再把重要的话藏在心里了。”苏晴听了，心跳得很快。她告诉林安，其实自己不希望他离开，但她更不希望他为了自己失去一个好机会。林安认真地看着她，说：“我也舍不得你。我想去实现梦想，也想让你知道，你对我来说很重要。”苏晴没有马上回答，只是低头看着手里的笔记本。过了一会儿，她抬起头，告诉林安，她会等他回来，也会努力实现自己的梦想。林安终于觉得轻松了一些。他明白，勇敢不只是面对困难，也是诚实地面对自己的心。分别虽然让人难过，但他们决定用信任和努力，一起面对未来。",
+  pinyin: "Lín Ān líkāi de rìzi yuèláiyuè jìn le. Yì tiān wǎnshang, tā hé Sū Qíng zuò zài táohuā shù xià, yìqǐ fānkàn xiǎoshíhou de bǐjìběn. Fān dào zuìhòu yì yè shí, tāmen kànjiàn Lín Ān yǐqián xiě xià de yí jù huà: “Zhǎngdà yǐhòu, wǒ xīwàng néng chéngwéi yí ge yǒnggǎn de rén.” Sū Qíng kànzhe zhè jù huà, qīngshēng wèn: “Nà nǐ xiànzài juéde zìjǐ yǒnggǎn ma?” Lín Ān xiǎng le hěn jiǔ, zhōngyú shuō: “Wǒ yǐqián zǒng shì hàipà shuō chū zìjǐ de zhēnshí xiǎngfǎ, yīnwèi wǒ pà biérén bù lǐjiě wǒ. Kěshì xiànzài, wǒ bù xiǎng zài bǎ zhòngyào de huà cáng zài xīn lǐ le.” Sū Qíng tīng le, xīn tiào de hěn kuài. Tā gàosu Lín Ān, qíshí zìjǐ bù xīwàng tā líkāi, dàn tā gèng bù xīwàng tā wèile zìjǐ shīqù yí ge hǎo jīhuì. Lín Ān rènzhēn de kànzhe tā, shuō: “Wǒ yě shěbude nǐ. Wǒ xiǎng qù shíxiàn mèngxiǎng, yě xiǎng ràng nǐ zhīdào, nǐ duì wǒ lái shuō hěn zhòngyào.” Sū Qíng méiyǒu mǎshàng huídá, zhǐ shì dī tóu kànzhe shǒu lǐ de bǐjìběn. Guò le yíhuìr, tā tái qǐ tóu, gàosu Lín Ān, tā huì děng tā huílái, yě huì nǔlì shíxiàn zìjǐ de mèngxiǎng. Lín Ān zhōngyú juéde qīngsōng le yìxiē. Tā míngbai, yǒnggǎn bù zhǐ shì miànduì kùnnan, yě shì chéngshí de miànduì zìjǐ de xīn. Fēnbié suīrán ràng rén nánguò, dàn tāmen juédìng yòng xìnrèn hé nǔlì, yìqǐ miànduì wèilái.",
+  textTh: "วันเดินทางของหลินอันใกล้เข้ามาทุกที คืนหนึ่ง เขากับซูฉิงนั่งอยู่ใต้ต้นดอกท้อและเปิดสมุดบันทึกสมัยเด็กดูด้วยกัน เมื่อเปิดถึงหน้าสุดท้าย พวกเขาพบประโยคที่หลินอันเคยเขียนไว้ว่า “เมื่อโตขึ้น ฉันหวังว่าจะเป็นคนที่กล้าหาญ” ซูฉิงมองข้อความนั้นแล้วถามเบา ๆ ว่า “แล้วตอนนี้เธอคิดว่าตัวเองกล้าหาญหรือยัง?” หลินอันคิดอยู่นาน ก่อนจะตอบว่า “เมื่อก่อนฉันกลัวการพูดความคิดที่แท้จริง เพราะกลัวว่าคนอื่นจะไม่เข้าใจ แต่ตอนนี้ฉันไม่อยากเก็บคำพูดสำคัญไว้ในใจอีกแล้ว” เมื่อซูฉิงได้ยิน หัวใจของเธอก็เต้นเร็วขึ้น เธอบอกว่าจริง ๆ แล้วเธอไม่อยากให้เขาจากไป แต่ยิ่งไม่อยากให้เขาเสียโอกาสดี ๆ เพราะเธอ หลินอันมองเธออย่างจริงจังแล้วพูดว่า “ฉันก็ไม่อยากจากเธอไปเหมือนกัน ฉันอยากทำความฝันให้เป็นจริง และอยากให้เธอรู้ว่าเธอสำคัญกับฉันมาก” ซูฉิงไม่ได้ตอบทันที เธอก้มมองสมุดบันทึกในมือ ผ่านไปสักพัก เธอเงยหน้าขึ้นและบอกว่าจะรอให้เขากลับมา พร้อมกับพยายามทำความฝันของตัวเองให้สำเร็จ หลินอันรู้สึกสบายใจขึ้น ในที่สุดเขาก็เข้าใจว่า ความกล้าหาญไม่ได้หมายถึงการเผชิญหน้ากับปัญหาเท่านั้น แต่ยังหมายถึงการซื่อตรงต่อหัวใจตัวเองด้วย แม้การจากลาจะทำให้เสียใจ แต่พวกเขาก็ตัดสินใจว่าจะใช้ความเชื่อใจและความพยายามร่วมกันเผชิญอนาคต",
+  vocabulary: [
+    { word: "真实", pinyin: "zhēnshí", meaningTh: "แท้จริง" },
+    { word: "勇敢", pinyin: "yǒnggǎn", meaningTh: "กล้าหาญ" },
+    { word: "理解", pinyin: "lǐjiě", meaningTh: "เข้าใจ" },
+    { word: "诚实", pinyin: "chéngshí", meaningTh: "ซื่อสัตย์, ซื่อตรง" },
+    { word: "分别", pinyin: "fēnbié", meaningTh: "การจากลา" }
+  ],
+  quoteZh: "诚实地面对自己的心，才不会留下遗憾。",
+  quotePinyin: "Chéngshí de miànduì zìjǐ de xīn, cái bú huì liúxià yíhàn.",
+  quoteTh: "การซื่อตรงต่อหัวใจตัวเอง จึงจะไม่ทิ้งความเสียใจไว้ภายหลัง"
+},
       { number: 13, titleZh: "一场小小的告别", titleTh: "การจากลาครั้งเล็ก ๆ", textZh: "", pinyin: "", textTh: "", vocabulary: [], quoteZh: "", quotePinyin: "", quoteTh: "" },
       { number: 14, titleZh: "城市里的消息", titleTh: "ข่าวจากเมืองใหญ่", textZh: "", pinyin: "", textTh: "", vocabulary: [], quoteZh: "", quotePinyin: "", quoteTh: "" },
       { number: 15, titleZh: "她终于明白", titleTh: "ในที่สุดเธอก็เข้าใจ", textZh: "", pinyin: "", textTh: "", vocabulary: [], quoteZh: "", quotePinyin: "", quoteTh: "" },
