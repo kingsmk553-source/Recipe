@@ -81,7 +81,24 @@ window.novelLibrary = [
   quotePinyin: "Zhǐyào yuànyì shuō chūlái, jiù hái bú suàn tài wǎn.",
   quoteTh: "ขอเพียงยอมพูดออกมา ก็ยังไม่ถือว่าสายเกินไป"
 },
-      { number: 5, titleZh: "她的梦想", titleTh: "ความฝันของเธอ", textZh: "", pinyin: "", textTh: "", vocabulary: [], quoteZh: "", quotePinyin: "", quoteTh: "" },
+{
+  number: 5,
+  titleZh: "一起准备的节日",
+  titleTh: "เทศกาลที่เตรียมด้วยกัน",
+  textZh: "桃花节快到了，小镇上的人们开始忙碌起来。苏晴的书店准备参加这次活动，她希望能让更多的人喜欢阅读。林安主动提出帮助她。他们一起设计海报，整理书籍，还准备了一个小小的读书活动。刚开始，两个人的想法不太一样。苏晴希望活动简单温暖，林安却觉得应该增加一些有趣的游戏。他们讨论了很久，最后决定把两种想法结合起来。白天，他们忙着准备东西；晚上，他们坐在书店里检查每一个细节。虽然很累，但是两个人都觉得很开心。活动前一天，苏晴看着贴满海报的墙，笑着说：“如果没有你帮忙，我一个人肯定做不好。”林安回答：“这是我们一起做的事情，不是你一个人的事。”第二天，桃花节终于开始了。很多人来到书店参加活动，孩子们开心地读书，大人们也认真地挑选自己喜欢的书。看到大家的笑容，苏晴觉得所有的努力都值得。林安站在她身边，也露出了满意的笑容。他们明白了，一起努力，不但能完成更多事情，也能让彼此的心靠得更近。",
+  pinyin: "Táohuā jié kuài dào le, xiǎozhèn shàng de rénmen kāishǐ mánglù qǐlái. Sū Qíng de shūdiàn zhǔnbèi cānjiā zhè cì huódòng, tā xīwàng néng ràng gèng duō de rén xǐhuan yuèdú. Lín Ān zhǔdòng tíchū bāngzhù tā. Tāmen yìqǐ shèjì hǎibào, zhěnglǐ shūjí, hái zhǔnbèi le yí ge xiǎoxiǎo de dúshū huódòng. Gāng kāishǐ, liǎng ge rén de xiǎngfǎ bú tài yíyàng. Sū Qíng xīwàng huódòng jiǎndān wēnnuǎn, Lín Ān què juéde yīnggāi zēngjiā yìxiē yǒuqù de yóuxì. Tāmen tǎolùn le hěn jiǔ, zuìhòu juédìng bǎ liǎng zhǒng xiǎngfǎ jiéhé qǐlái. Báitiān, tāmen máng zhe zhǔnbèi dōngxi; wǎnshang, tāmen zuò zài shūdiàn lǐ jiǎnchá měi yí ge xìjié. Suīrán hěn lèi, dànshì liǎng ge rén dōu juéde hěn kāixīn. Huódòng qián yì tiān, Sū Qíng kànzhe tiē mǎn hǎibào de qiáng, xiào zhe shuō: “Rúguǒ méiyǒu nǐ bāngmáng, wǒ yí ge rén kěndìng zuò bù hǎo.” Lín Ān huídá: “Zhè shì wǒmen yìqǐ zuò de shìqing, bú shì nǐ yí ge rén de shì.” Dì èr tiān, Táohuā jié zhōngyú kāishǐ le. Hěn duō rén láidào shūdiàn cānjiā huódòng, háizimen kāixīn de dú shū, dàrénmen yě rènzhēn de tiāoxuǎn zìjǐ xǐhuan de shū. Kàndào dàjiā de xiàoróng, Sū Qíng juéde suǒyǒu de nǔlì dōu zhídé. Lín Ān zhàn zài tā shēnbiān, yě lù chū le mǎnyì de xiàoróng. Tāmen míngbai le, yìqǐ nǔlì, bùdàn néng wánchéng gèng duō shìqing, yě néng ràng bǐcǐ de xīn kào de gèng jìn.",
+  textTh: "เทศกาลดอกท้อใกล้จะมาถึงแล้ว ผู้คนในเมืองเล็ก ๆ เริ่มยุ่งกันมาก ร้านหนังสือของซูฉิงเตรียมเข้าร่วมกิจกรรมครั้งนี้ เธอหวังว่าจะทำให้ผู้คนรักการอ่านมากขึ้น หลินอันอาสาช่วยเธอ ทั้งสองช่วยกันออกแบบโปสเตอร์ จัดหนังสือ และเตรียมกิจกรรมอ่านหนังสือเล็ก ๆ ตอนแรกทั้งคู่มีความคิดไม่เหมือนกัน ซูฉิงอยากให้กิจกรรมเรียบง่ายและอบอุ่น แต่หลินอันคิดว่าควรเพิ่มเกมสนุก ๆ เข้าไป พวกเขาพูดคุยกันอยู่นาน สุดท้ายก็ตัดสินใจนำความคิดทั้งสองแบบมารวมกัน ตอนกลางวันพวกเขายุ่งกับการเตรียมของ ส่วนตอนกลางคืนก็นั่งตรวจรายละเอียดทุกอย่างในร้านหนังสือ แม้จะเหนื่อยมาก แต่ทั้งคู่ก็มีความสุข วันก่อนเริ่มงาน ซูฉิงมองกำแพงที่เต็มไปด้วยโปสเตอร์แล้วยิ้มพูดว่า “ถ้าไม่มีเธอช่วย ฉันคนเดียวคงทำไม่สำเร็จแน่ ๆ” หลินอันตอบว่า “นี่เป็นสิ่งที่พวกเราทำด้วยกัน ไม่ใช่เรื่องของเธอคนเดียว” วันต่อมาเทศกาลดอกท้อก็เริ่มขึ้นในที่สุด ผู้คนมากมายมาร่วมกิจกรรมที่ร้านหนังสือ เด็ก ๆ อ่านหนังสืออย่างมีความสุข ส่วนผู้ใหญ่ก็ตั้งใจเลือกหนังสือที่ตัวเองชอบ เมื่อเห็นรอยยิ้มของทุกคน ซูฉิงรู้สึกว่าความพยายามทั้งหมดคุ้มค่า หลินอันยืนอยู่ข้าง ๆ เธอและยิ้มอย่างพอใจ ทั้งสองเข้าใจแล้วว่า การพยายามไปด้วยกันไม่เพียงช่วยให้ทำสิ่งต่าง ๆ ได้มากขึ้น แต่ยังทำให้หัวใจของทั้งคู่ใกล้ชิดกันมากขึ้นด้วย",
+  vocabulary: [
+    { word: "节日", pinyin: "jiérì", meaningTh: "เทศกาล" },
+    { word: "主动", pinyin: "zhǔdòng", meaningTh: "主动, ลงมือทำก่อน" },
+    { word: "设计", pinyin: "shèjì", meaningTh: "ออกแบบ" },
+    { word: "结合", pinyin: "jiéhé", meaningTh: "รวมเข้าด้วยกัน" },
+    { word: "值得", pinyin: "zhídé", meaningTh: "คุ้มค่า" }
+  ],
+  quoteZh: "一起努力，才能走得更远。",
+  quotePinyin: "Yìqǐ nǔlì, cái néng zǒu de gèng yuǎn.",
+  quoteTh: "เมื่อพยายามไปด้วยกัน เราจึงจะเดินไปได้ไกลกว่าเดิม"
+},
       { number: 6, titleZh: "迟到的解释", titleTh: "คำอธิบายที่มาช้า", textZh: "", pinyin: "", textTh: "", vocabulary: [], quoteZh: "", quotePinyin: "", quoteTh: "" },
       { number: 7, titleZh: "一起完成的事", titleTh: "สิ่งที่เราทำด้วยกัน", textZh: "", pinyin: "", textTh: "", vocabulary: [], quoteZh: "", quotePinyin: "", quoteTh: "" },
       { number: 8, titleZh: "误会的开始", titleTh: "จุดเริ่มต้นของความเข้าใจผิด", textZh: "", pinyin: "", textTh: "", vocabulary: [], quoteZh: "", quotePinyin: "", quoteTh: "" },
