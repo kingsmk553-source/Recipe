@@ -8,8 +8,25 @@ window.novelLibrary = [
     descriptionThai: "นิยายจีนแนวโรแมนติกเกี่ยวกับเพื่อนวัยเด็กที่กลับมาพบกันอีกครั้ง",
     totalChapters: 20,
     status: "planned",
-    chapters: [
-      { number: 1, titleZh: "重逢的春天", titleTh: "ฤดูใบไม้ผลิแห่งการพบกันอีกครั้ง", textZh: "", pinyin: "", textTh: "", vocabulary: [], quoteZh: "", quotePinyin: "", quoteTh: "" },
+    chapters: [ 
+{
+  number: 1,
+  titleZh: "重逢的春天",
+  titleTh: "ฤดูใบไม้ผลิแห่งการพบกันอีกครั้ง",
+  textZh: "春天来了，小镇上的桃花开了。三年以后，林安回到了自己的家乡。他走在熟悉的街道上，发现这里有很多变化，但是老地方还是没有变。当他走到一棵桃花树下时，看见一个女孩正在给花浇水。女孩听见脚步声，转过头来。原来她是苏晴，是他小时候最好的朋友。苏晴看着他，惊讶地说：“林安？真的是你吗？”林安笑着回答：“是我，好久不见。”两个人站在桃花树下，聊起以前的事情。虽然三年没有见面，但是他们还是像从前一样亲切。春风轻轻吹过，桃花落在他们的肩上。林安觉得，这次回来，也许会让他的生活发生新的变化。",
+  pinyin: "Chūntiān lái le, xiǎozhèn shàng de táohuā kāi le. Sān nián yǐhòu, Lín Ān huídào le zìjǐ de jiāxiāng. Tā zǒu zài shúxī de jiēdào shàng, fāxiàn zhèlǐ yǒu hěn duō biànhuà, dànshì lǎo dìfang háishi méiyǒu biàn. Dāng tā zǒu dào yì kē táohuā shù xià shí, kànjiàn yí ge nǚhái zhèngzài gěi huā jiāoshuǐ. Nǚhái tīngjiàn jiǎobù shēng, zhuǎnguò tóu lái. Yuánlái tā shì Sū Qíng, shì tā xiǎoshíhou zuì hǎo de péngyou. Sū Qíng kànzhe tā, jīngyà de shuō: “Lín Ān? Zhēn de shì nǐ ma?” Lín Ān xiào zhe huídá: “Shì wǒ, hǎo jiǔ bú jiàn.” Liǎng ge rén zhàn zài táohuā shù xià, liáo qǐ yǐqián de shìqing. Suīrán sān nián méiyǒu jiànmiàn, dànshì tāmen háishi xiàng cóngqián yíyàng qīnqiè. Chūnfēng qīngqīng chuīguò, táohuā luò zài tāmen de jiānbǎng shàng. Lín Ān juéde, zhè cì huílái, yěxǔ huì ràng tā de shēnghuó fāshēng xīn de biànhuà.",
+  textTh: "ฤดูใบไม้ผลิมาถึงแล้ว ดอกท้อในเมืองเล็ก ๆ เริ่มบาน หลังจากผ่านไปสามปี หลินอันก็กลับมายังบ้านเกิดของตัวเอง เขาเดินไปตามถนนที่คุ้นเคยและพบว่าที่นี่เปลี่ยนแปลงไปหลายอย่าง แต่สถานที่เก่า ๆ ยังคงเหมือนเดิม เมื่อเขาเดินมาถึงใต้ต้นดอกท้อ เขาก็เห็นเด็กสาวคนหนึ่งกำลังรดน้ำดอกไม้อยู่ เธอได้ยินเสียงฝีเท้าจึงหันกลับมา ที่แท้เธอคือซูฉิง เพื่อนสนิทที่สุดของเขาในวัยเด็ก ซูฉิงมองเขาด้วยความประหลาดใจแล้วพูดว่า “หลินอัน? เป็นเธอจริง ๆ เหรอ?” หลินอันยิ้มและตอบว่า “ฉันเอง ไม่ได้เจอกันนานเลยนะ” ทั้งสองยืนอยู่ใต้ต้นดอกท้อและพูดคุยถึงเรื่องในอดีต แม้จะไม่ได้พบกันมาสามปี แต่พวกเขาก็ยังสนิทสนมกันเหมือนเดิม สายลมฤดูใบไม้ผลิพัดผ่านเบา ๆ กลีบดอกท้อตกลงบนไหล่ของทั้งคู่ หลินอันรู้สึกว่าการกลับมาครั้งนี้อาจทำให้ชีวิตของเขาเกิดการเปลี่ยนแปลงครั้งใหม่",
+  vocabulary: [
+    { word: "家乡", pinyin: "jiāxiāng", meaningTh: "บ้านเกิด" },
+    { word: "熟悉", pinyin: "shúxī", meaningTh: "คุ้นเคย" },
+    { word: "变化", pinyin: "biànhuà", meaningTh: "การเปลี่ยนแปลง" },
+    { word: "惊讶", pinyin: "jīngyà", meaningTh: "ประหลาดใจ" },
+    { word: "亲切", pinyin: "qīnqiè", meaningTh: "สนิทสนม อบอุ่น" }
+  ],
+  quoteZh: "有些人离开很久，再见时还是很熟悉。",
+  quotePinyin: "Yǒuxiē rén líkāi hěn jiǔ, zàijiàn shí háishi hěn shúxī.",
+  quoteTh: "บางคนจากกันไปนาน แต่เมื่อกลับมาพบกันอีกครั้ง ก็ยังรู้สึกคุ้นเคยเหมือนเดิม"
+},
       { number: 2, titleZh: "旧书里的信", titleTh: "จดหมายในหนังสือเก่า", textZh: "", pinyin: "", textTh: "", vocabulary: [], quoteZh: "", quotePinyin: "", quoteTh: "" },
       { number: 3, titleZh: "没有说出口的话", titleTh: "คำพูดที่ไม่เคยเอ่ย", textZh: "", pinyin: "", textTh: "", vocabulary: [], quoteZh: "", quotePinyin: "", quoteTh: "" },
       { number: 4, titleZh: "雨中的伞", titleTh: "ร่มคันเดียวกลางสายฝน", textZh: "", pinyin: "", textTh: "", vocabulary: [], quoteZh: "", quotePinyin: "", quoteTh: "" },
