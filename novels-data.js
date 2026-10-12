@@ -99,7 +99,24 @@ window.novelLibrary = [
   quotePinyin: "Yìqǐ nǔlì, cái néng zǒu de gèng yuǎn.",
   quoteTh: "เมื่อพยายามไปด้วยกัน เราจึงจะเดินไปได้ไกลกว่าเดิม"
 },
-      { number: 6, titleZh: "迟到的解释", titleTh: "คำอธิบายที่มาช้า", textZh: "", pinyin: "", textTh: "", vocabulary: [], quoteZh: "", quotePinyin: "", quoteTh: "" },
+{
+  number: 6,
+  titleZh: "她的心事",
+  titleTh: "เรื่องที่เก็บไว้ในใจ",
+  textZh: "桃花节结束以后，书店又恢复了平静。一天晚上，林安发现苏晴一个人坐在柜台后面，看着一本旧账本发呆。林安走过去，轻声问：“你怎么了？今天好像不太开心。”苏晴摇摇头，说自己没事。可是林安看得出来，她一定有心事。过了一会儿，苏晴终于说出了自己的烦恼。最近，书店的生意不太好，房租也快到期了。她很喜欢这家书店，不想让它关门，但是不知道还能坚持多久。林安听完以后，没有马上回答。他先帮苏晴整理账本，又一起想办法减少不必要的花费。他还建议书店每周举办一次读书活动，让更多的人认识这里。苏晴担心这样会很麻烦，林安却笑着说：“我们可以慢慢来，不用一下子解决所有问题。”听了这些话，苏晴的心里轻松了许多。她终于明白，真正的朋友不只是陪你开心，也会在你遇到困难时陪着你。那天晚上，他们一起列出了新的计划。虽然未来还不确定，但苏晴不再觉得自己是一个人在努力。",
+  pinyin: "Táohuā jié jiéshù yǐhòu, shūdiàn yòu huīfù le píngjìng. Yì tiān wǎnshang, Lín Ān fāxiàn Sū Qíng yí ge rén zuò zài guìtái hòumiàn, kànzhe yì běn jiù zhàngběn fādāi. Lín Ān zǒu guòqù, qīngshēng wèn: “Nǐ zěnme le? Jīntiān hǎoxiàng bú tài kāixīn.” Sū Qíng yáo yáo tóu, shuō zìjǐ méi shì. Kěshì Lín Ān kàn de chūlái, tā yídìng yǒu xīnshì. Guò le yíhuìr, Sū Qíng zhōngyú shuō chū le zìjǐ de fánnǎo. Zuìjìn, shūdiàn de shēngyi bú tài hǎo, fángzū yě kuài dào qī le. Tā hěn xǐhuan zhè jiā shūdiàn, bù xiǎng ràng tā guānmén, dànshì bù zhīdào hái néng jiānchí duō jiǔ. Lín Ān tīng wán yǐhòu, méiyǒu mǎshàng huídá. Tā xiān bāng Sū Qíng zhěnglǐ zhàngběn, yòu yìqǐ xiǎng bànfǎ jiǎnshǎo bù bìyào de huāfèi. Tā hái jiànyì shūdiàn měi zhōu jǔbàn yí cì dúshū huódòng, ràng gèng duō de rén rènshi zhèlǐ. Sū Qíng dānxīn zhèyàng huì hěn máfan, Lín Ān què xiào zhe shuō: “Wǒmen kěyǐ mànmàn lái, bú yòng yíxiàzi jiějué suǒyǒu wèntí.” Tīng le zhèxiē huà, Sū Qíng de xīn lǐ qīngsōng le xǔduō. Tā zhōngyú míngbai, zhēnzhèng de péngyou bù zhǐ shì péi nǐ kāixīn, yě huì zài nǐ yùdào kùnnan shí péi zhe nǐ. Nà tiān wǎnshang, tāmen yìqǐ liè chū le xīn de jìhuà. Suīrán wèilái hái bù quèdìng, dàn Sū Qíng bú zài juéde zìjǐ shì yí ge rén zài nǔlì.",
+  textTh: "หลังเทศกาลดอกท้อจบลง ร้านหนังสือก็กลับมาเงียบสงบเหมือนเดิม คืนหนึ่ง หลินอันเห็นซูฉิงนั่งเหม่ออยู่หลังเคาน์เตอร์เพียงลำพัง เธอกำลังมองสมุดบัญชีเก่าเล่มหนึ่ง เขาเดินเข้าไปถามเบา ๆ ว่า “เธอเป็นอะไรหรือเปล่า? วันนี้ดูไม่ค่อยมีความสุขเลย” ซูฉิงส่ายหน้าและบอกว่าไม่มีอะไร แต่หลินอันดูออกว่าเธอต้องมีเรื่องไม่สบายใจอยู่แน่นอน ผ่านไปสักพัก ในที่สุดซูฉิงก็เล่าปัญหาของตัวเองให้เขาฟัง ช่วงนี้ร้านหนังสือขายไม่ค่อยดี และค่าเช่าร้านก็ใกล้ถึงกำหนดแล้ว เธอรักร้านหนังสือแห่งนี้และไม่อยากให้มันต้องปิดตัวลง แต่ก็ไม่รู้ว่าจะอดทนต่อไปได้นานแค่ไหน หลังฟังจบ หลินอันไม่ได้รีบตอบ เขาช่วยซูฉิงจัดสมุดบัญชีก่อน แล้วทั้งสองก็ช่วยกันคิดวิธีลดค่าใช้จ่ายที่ไม่จำเป็น เขายังเสนอให้ร้านจัดกิจกรรมอ่านหนังสือสัปดาห์ละครั้ง เพื่อให้ผู้คนรู้จักร้านนี้มากขึ้น ซูฉิงกังวลว่าจะยุ่งยากเกินไป แต่หลินอันยิ้มแล้วพูดว่า “เราค่อย ๆ ทำก็ได้ ไม่จำเป็นต้องแก้ทุกปัญหาให้เสร็จในครั้งเดียว” เมื่อได้ฟังคำพูดเหล่านี้ ซูฉิงก็รู้สึกสบายใจขึ้นมาก ในที่สุดเธอก็เข้าใจว่า เพื่อนแท้ไม่ได้อยู่กับเราเฉพาะตอนมีความสุข แต่จะอยู่เคียงข้างเมื่อเราเจอปัญหาด้วย คืนนั้นทั้งสองช่วยกันเขียนแผนใหม่ แม้อนาคตยังไม่แน่นอน แต่ซูฉิงก็ไม่รู้สึกอีกแล้วว่าตัวเองกำลังพยายามอยู่เพียงลำพัง",
+  vocabulary: [
+    { word: "账本", pinyin: "zhàngběn", meaningTh: "สมุดบัญชี" },
+    { word: "烦恼", pinyin: "fánnǎo", meaningTh: "ความกังวล" },
+    { word: "房租", pinyin: "fángzū", meaningTh: "ค่าเช่าบ้านหรือร้าน" },
+    { word: "坚持", pinyin: "jiānchí", meaningTh: "坚持, ยืนหยัด" },
+    { word: "花费", pinyin: "huāfèi", meaningTh: "ค่าใช้จ่าย" }
+  ],
+  quoteZh: "朋友之间，不应该什么事情都自己承担。",
+  quotePinyin: "Péngyou zhījiān, bù yīnggāi shénme shìqing dōu zìjǐ chéngdān.",
+  quoteTh: "ระหว่างเพื่อน ไม่ควรแบกรับทุกเรื่องไว้คนเดียว"
+},
       { number: 7, titleZh: "一起完成的事", titleTh: "สิ่งที่เราทำด้วยกัน", textZh: "", pinyin: "", textTh: "", vocabulary: [], quoteZh: "", quotePinyin: "", quoteTh: "" },
       { number: 8, titleZh: "误会的开始", titleTh: "จุดเริ่มต้นของความเข้าใจผิด", textZh: "", pinyin: "", textTh: "", vocabulary: [], quoteZh: "", quotePinyin: "", quoteTh: "" },
       { number: 9, titleZh: "没寄出的明信片", titleTh: "โปสการ์ดที่ไม่เคยส่ง", textZh: "", pinyin: "", textTh: "", vocabulary: [], quoteZh: "", quotePinyin: "", quoteTh: "" },
