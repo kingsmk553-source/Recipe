@@ -63,7 +63,24 @@ window.novelLibrary = [
   quotePinyin: "Wǒ xīwàng zìjǐ yě néng bāngzhù nǐ.",
   quoteTh: "ฉันหวังว่าตัวเองจะสามารถช่วยเธอได้เหมือนกัน"
 },
-      { number: 4, titleZh: "雨中的伞", titleTh: "ร่มคันเดียวกลางสายฝน", textZh: "", pinyin: "", textTh: "", vocabulary: [], quoteZh: "", quotePinyin: "", quoteTh: "" },
+{
+  number: 4,
+  titleZh: "没有寄出的信",
+  titleTh: "จดหมายที่ไม่เคยส่ง",
+  textZh: "一天，苏晴在书店整理旧东西时，发现了一个小盒子。盒子里放着几封信，信封上写着林安的名字，但是每一封信都没有寄出去。她犹豫了一会儿，最后还是决定把信交给林安。晚上，林安来到书店，苏晴把盒子放在桌子上，轻声说：“这些信是以前写给你的，我一直没有勇气送给你。”林安打开第一封信，慢慢地读了起来。信里写着他们小时候一起看书、一起散步的事情，也写着苏晴对未来的希望。读完以后，林安沉默了很久。他抬起头问：“你为什么从来没有告诉我？”苏晴低下头，说：“那时候我不知道你怎么想，也害怕说出来以后，我们连朋友都做不成。”林安认真地看着她，说：“谢谢你愿意把这些告诉我。以后有什么心事，我们可以一起面对。”苏晴终于露出了笑容。她觉得，有些话虽然说得晚了，但是只要愿意说出来，就还不算太晚。",
+  pinyin: "Yì tiān, Sū Qíng zài shūdiàn zhěnglǐ jiù dōngxi shí, fāxiàn le yí ge xiǎo hézi. Hézi lǐ fàng zhe jǐ fēng xìn, xìnfēng shàng xiězhe Lín Ān de míngzi, dànshì měi yì fēng xìn dōu méiyǒu jì chūqù. Tā yóuyù le yíhuìr, zuìhòu háishi juédìng bǎ xìn jiāo gěi Lín Ān. Wǎnshang, Lín Ān láidào shūdiàn, Sū Qíng bǎ hézi fàng zài zhuōzi shàng, qīngshēng shuō: “Zhèxiē xìn shì yǐqián xiě gěi nǐ de, wǒ yìzhí méiyǒu yǒngqì sòng gěi nǐ.” Lín Ān dǎkāi dì yī fēng xìn, mànmàn de dú le qǐlái. Xìn lǐ xiězhe tāmen xiǎoshíhou yìqǐ kàn shū, yìqǐ sànbù de shìqing, yě xiězhe Sū Qíng duì wèilái de xīwàng. Dú wán yǐhòu, Lín Ān chénmò le hěn jiǔ. Tā tái qǐ tóu wèn: “Nǐ wèishénme cónglái méiyǒu gàosu wǒ?” Sū Qíng dī xià tóu, shuō: “Nà shíhou wǒ bù zhīdào nǐ zěnme xiǎng, yě hàipà shuō chūlái yǐhòu, wǒmen lián péngyou dōu zuò bù chéng.” Lín Ān rènzhēn de kànzhe tā, shuō: “Xièxie nǐ yuànyì bǎ zhèxiē gàosu wǒ. Yǐhòu yǒu shénme xīnshì, wǒmen kěyǐ yìqǐ miànduì.” Sū Qíng zhōngyú lù chū le xiàoróng. Tā juéde, yǒuxiē huà suīrán shuō de wǎn le, dànshì zhǐyào yuànyì shuō chūlái, jiù hái bú suàn tài wǎn.",
+  textTh: "วันหนึ่ง ขณะที่ซูฉิงกำลังจัดของเก่าในร้านหนังสือ เธอก็พบกล่องใบเล็ก ๆ ใบหนึ่ง ข้างในมีจดหมายหลายฉบับ บนซองจดหมายเขียนชื่อหลินอันไว้ แต่จดหมายทุกฉบับไม่เคยถูกส่งออกไป เธอลังเลอยู่พักหนึ่ง สุดท้ายก็ตัดสินใจนำจดหมายไปให้หลินอัน ตอนเย็นหลินอันมาที่ร้านหนังสือ ซูฉิงวางกล่องลงบนโต๊ะแล้วพูดเบา ๆ ว่า “จดหมายพวกนี้ฉันเขียนถึงเธอเมื่อนานมาแล้ว แต่ฉันไม่เคยกล้าส่งให้เธอเลย” หลินอันเปิดจดหมายฉบับแรกแล้วค่อย ๆ อ่าน ข้างในเขียนถึงเรื่องที่พวกเขาเคยอ่านหนังสือและเดินเล่นด้วยกันตอนเด็ก ๆ รวมถึงความหวังของซูฉิงที่มีต่ออนาคต หลังอ่านจบ หลินอันเงียบไปนาน เขาเงยหน้าขึ้นถามว่า “ทำไมเธอไม่เคยบอกฉันเลย?” ซูฉิงก้มหน้าแล้วพูดว่า “ตอนนั้นฉันไม่รู้ว่าเธอคิดอย่างไร และกลัวว่าถ้าพูดออกไปแล้ว เราอาจเป็นแม้แต่เพื่อนกันไม่ได้อีก” หลินอันมองเธออย่างจริงจังแล้วพูดว่า “ขอบคุณที่ยอมบอกเรื่องเหล่านี้กับฉัน ต่อไปถ้ามีเรื่องอะไรอยู่ในใจ เรามาเผชิญหน้ากับมันด้วยกันได้” ในที่สุดซูฉิงก็ยิ้มออกมา เธอรู้สึกว่าบางคำพูดอาจพูดออกมาช้าไป แต่ถ้าเรายอมพูดออกมา ก็ยังไม่ถือว่าสายเกินไป",
+  vocabulary: [
+    { word: "整理", pinyin: "zhěnglǐ", meaningTh: "จัดระเบียบ" },
+    { word: "信封", pinyin: "xìnfēng", meaningTh: "ซองจดหมาย" },
+    { word: "犹豫", pinyin: "yóuyù", meaningTh: "ลังเล" },
+    { word: "勇气", pinyin: "yǒngqì", meaningTh: "ความกล้าหาญ" },
+    { word: "面对", pinyin: "miànduì", meaningTh: "เผชิญหน้า" }
+  ],
+  quoteZh: "只要愿意说出来，就还不算太晚。",
+  quotePinyin: "Zhǐyào yuànyì shuō chūlái, jiù hái bú suàn tài wǎn.",
+  quoteTh: "ขอเพียงยอมพูดออกมา ก็ยังไม่ถือว่าสายเกินไป"
+},
       { number: 5, titleZh: "她的梦想", titleTh: "ความฝันของเธอ", textZh: "", pinyin: "", textTh: "", vocabulary: [], quoteZh: "", quotePinyin: "", quoteTh: "" },
       { number: 6, titleZh: "迟到的解释", titleTh: "คำอธิบายที่มาช้า", textZh: "", pinyin: "", textTh: "", vocabulary: [], quoteZh: "", quotePinyin: "", quoteTh: "" },
       { number: 7, titleZh: "一起完成的事", titleTh: "สิ่งที่เราทำด้วยกัน", textZh: "", pinyin: "", textTh: "", vocabulary: [], quoteZh: "", quotePinyin: "", quoteTh: "" },
