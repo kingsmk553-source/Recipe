@@ -129,7 +129,8 @@ let showThai = true;
     const chinese = chapter.textZh || "";
     const thai = chapter.textTh || "";
     const pinyin = chapter.pinyin || "";
-
+    const chapters = selectedNovel?.chapters || [];
+    const currentIndex = chapters.indexOf(chapter);
     list.innerHTML = `
       <button type="button" id="backToChapters">← กลับไปสารบัญ</button>
 
@@ -193,8 +194,18 @@ let showThai = true;
           ? `<p>${escapeHTML(chapter.quoteTh)}</p>`
           : ""
       }
-    `;
 
+      <div class="chapter-navigation">
+        <button type="button" id="prevChapter"
+          ${currentIndex <= 0 ? "disabled" : ""}>
+          ← บทก่อนหน้า
+        </button>
+        <button type="button" id="nextChapter"
+          ${currentIndex < 0 || currentIndex >= chapters.length - 1 ? "disabled" : ""}>
+          บทถัดไป →
+        </button>
+      </div>
+    `;
     document.getElementById("backToChapters")
       .addEventListener("click", renderChapters);
 
@@ -208,6 +219,19 @@ let showThai = true;
       .addEventListener("click", () => {
         showThai = !showThai;
         renderChapter(chapter);
+      });
+    document.getElementById("prevChapter")
+      .addEventListener("click", () => {
+        if (currentIndex > 0) {
+          renderChapter(chapters[currentIndex - 1]);
+        }
+      });
+
+    document.getElementById("nextChapter")
+      .addEventListener("click", () => {
+        if (currentIndex >= 0 && currentIndex < chapters.length - 1) {
+          renderChapter(chapters[currentIndex + 1]);
+        }
       });
   }
 
