@@ -117,9 +117,61 @@ window.novelLibrary = [
   quotePinyin: "Péngyou zhījiān, bù yīnggāi shénme shìqing dōu zìjǐ chéngdān.",
   quoteTh: "ระหว่างเพื่อน ไม่ควรแบกรับทุกเรื่องไว้คนเดียว"
 },
-      { number: 7, titleZh: "一起完成的事", titleTh: "สิ่งที่เราทำด้วยกัน", textZh: "", pinyin: "", textTh: "", vocabulary: [], quoteZh: "", quotePinyin: "", quoteTh: "" },
-      { number: 8, titleZh: "误会的开始", titleTh: "จุดเริ่มต้นของความเข้าใจผิด", textZh: "", pinyin: "", textTh: "", vocabulary: [], quoteZh: "", quotePinyin: "", quoteTh: "" },
-      { number: 9, titleZh: "没寄出的明信片", titleTh: "โปสการ์ดที่ไม่เคยส่ง", textZh: "", pinyin: "", textTh: "", vocabulary: [], quoteZh: "", quotePinyin: "", quoteTh: "" },
+{
+  number: 7,
+  titleZh: "灯火下的笑容",
+  titleTh: "รอยยิ้มใต้แสงโคม",
+  textZh: "为了让书店有更多客人，苏晴和林安决定举办一次特别的读书会。活动那天，书店门口挂起了红色的灯笼，桌子上放着热茶和小点心。刚开始，苏晴有些紧张，担心没有人愿意参加。林安站在她身边，鼓励她说：“别担心，我们已经准备得很好了。”没过多久，第一位客人走了进来，接着又来了几位老人和孩子。苏晴慢慢放松下来，开始给大家介绍自己喜欢的书。一个小女孩听完故事后，开心地说：“姐姐，你讲得真好听！下次我还要来。”听到这句话，苏晴开心地笑了。活动结束后，林安帮她收拾桌子。他看着她的笑容，认真地说：“你知道吗？你笑起来的时候，整个书店都变得更温暖了。”苏晴听了，脸一下子红了。她小声说：“谢谢你一直陪着我。”林安回答：“因为你的梦想正在慢慢实现，我也替你开心。”那一晚，书店里充满了笑声。他们不仅让更多人走进书店，也让彼此的心更靠近了一些。",
+  pinyin: "Wèile ràng shūdiàn yǒu gèng duō kèrén, Sū Qíng hé Lín Ān juédìng jǔbàn yí cì tèbié de dúshū huì. Huódòng nà tiān, shūdiàn ménkǒu guà qǐ le hóngsè de dēnglong, zhuōzi shàng fàng zhe rè chá hé xiǎo diǎnxin. Gāng kāishǐ, Sū Qíng yǒuxiē jǐnzhāng, dānxīn méiyǒu rén yuànyì cānjiā. Lín Ān zhàn zài tā shēnbiān, gǔlì tā shuō: “Bié dānxīn, wǒmen yǐjīng zhǔnbèi de hěn hǎo le.” Méi guò duō jiǔ, dì yī wèi kèrén zǒu le jìnlái, jiēzhe yòu lái le jǐ wèi lǎorén hé háizi. Sū Qíng mànmàn fàngsōng xiàlái, kāishǐ gěi dàjiā jièshào zìjǐ xǐhuan de shū. Yí ge xiǎo nǚhái tīng wán gùshi hòu, kāixīn de shuō: “Jiějie, nǐ jiǎng de zhēn hǎotīng! Xià cì wǒ hái yào lái.” Tīngdào zhè jù huà, Sū Qíng kāixīn de xiào le. Huódòng jiéshù hòu, Lín Ān bāng tā shōushi zhuōzi. Tā kànzhe tā de xiàoróng, rènzhēn de shuō: “Nǐ zhīdào ma? Nǐ xiào qǐlái de shíhou, zhěng ge shūdiàn dōu biàn de gèng wēnnuǎn le.” Sū Qíng tīng le, liǎn yíxiàzi hóng le. Tā xiǎoshēng shuō: “Xièxie nǐ yìzhí péi zhe wǒ.” Lín Ān huídá: “Yīnwèi nǐ de mèngxiǎng zhèngzài mànmàn shíxiàn, wǒ yě tì nǐ kāixīn.” Nà yí wǎn, shūdiàn lǐ chōngmǎn le xiàoshēng. Tāmen bùjǐn ràng gèng duō rén zǒu jìn shūdiàn, yě ràng bǐcǐ de xīn gèng kàojìn le yìxiē.",
+  textTh: "เพื่อให้มีลูกค้าเข้าร้านหนังสือมากขึ้น ซูฉิงกับหลินอันตัดสินใจจัดกิจกรรมอ่านหนังสือแบบพิเศษ ในวันงาน หน้าร้านแขวนโคมสีแดงไว้ บนโต๊ะมีชาร้อนและขนมเล็ก ๆ วางอยู่ ตอนแรกซูฉิงรู้สึกประหม่า กลัวว่าจะไม่มีใครมาร่วมงาน หลินอันยืนอยู่ข้างเธอและให้กำลังใจว่า “ไม่ต้องกังวล พวกเราเตรียมตัวได้ดีแล้ว” ไม่นานลูกค้าคนแรกก็เดินเข้ามา จากนั้นก็มีผู้สูงอายุและเด็ก ๆ ตามมาอีกหลายคน ซูฉิงค่อย ๆ ผ่อนคลายและเริ่มแนะนำหนังสือที่เธอชอบ เด็กหญิงคนหนึ่งฟังเรื่องเล่าจบแล้วพูดอย่างมีความสุขว่า “พี่สาวเล่าเรื่องสนุกมากเลย! ครั้งหน้าหนูจะมาอีกนะ” เมื่อได้ยินเช่นนั้น ซูฉิงก็ยิ้มอย่างมีความสุข หลังจบกิจกรรม หลินอันช่วยเธอเก็บโต๊ะ เขามองรอยยิ้มของเธอแล้วพูดว่า “เวลาเธอยิ้ม ร้านหนังสือทั้งร้านก็ดูอบอุ่นขึ้นเลย” ซูฉิงหน้าแดงและขอบคุณที่เขาอยู่ข้างเธอมาตลอด หลินอันบอกว่าเขามีความสุขที่เห็นความฝันของเธอค่อย ๆ เป็นจริง คืนนั้นร้านหนังสือเต็มไปด้วยเสียงหัวเราะ พวกเขาทำให้ผู้คนเข้าร้านมากขึ้นและทำให้หัวใจใกล้ชิดกันกว่าเดิม",
+  vocabulary: [
+    { word: "举办", pinyin: "jǔbàn", meaningTh: "จัดงาน" },
+    { word: "紧张", pinyin: "jǐnzhāng", meaningTh: "ประหม่า" },
+    { word: "鼓励", pinyin: "gǔlì", meaningTh: "ให้กำลังใจ" },
+    { word: "点心", pinyin: "diǎnxin", meaningTh: "ขนม" },
+    { word: "实现", pinyin: "shíxiàn", meaningTh: "ทำให้เป็นจริง" }
+  ],
+  quoteZh: "因为你的梦想正在慢慢实现。",
+  quotePinyin: "Yīnwèi nǐ de mèngxiǎng zhèngzài mànmàn shíxiàn.",
+  quoteTh: "เพราะความฝันของเธอกำลังค่อย ๆ กลายเป็นจริง"
+},
+{
+  number: 8,
+  titleZh: "误会",
+  titleTh: "ความเข้าใจผิด",
+  textZh: "读书会结束后的一个下午，林安来到书店，准备和苏晴一起整理新到的书。可是刚走到门口，他就看见苏晴正在和一个年轻男人聊天。那个男人叫陈浩，是苏晴以前的大学同学。他们聊得很开心，还一起看着桌上的一张设计图。林安站在门外，没有马上进去。他不知道为什么，心里突然有些不舒服。他想，也许苏晴有了新的朋友，就不再需要自己了。那天，他没有像平常一样留下来帮忙，而是很快地离开了。第二天，苏晴发现林安变得不太爱说话，问他是不是遇到了什么问题。林安却说自己很忙，不想多聊。苏晴觉得奇怪，也有些难过。几天以后，两个人见面时还是很尴尬。晚上，林安一个人坐在桃花树下，终于明白自己为什么会不开心。原来他不只是把苏晴当成朋友，他还害怕失去她。他觉得自己应该说清楚心里的想法，而不是随便猜测。可是，他仍然不知道该怎么开口。与此同时，苏晴也在想，为什么最好的朋友突然离自己越来越远了。",
+  pinyin: "Dúshū huì jiéshù hòu de yí ge xiàwǔ, Lín Ān láidào shūdiàn, zhǔnbèi hé Sū Qíng yìqǐ zhěnglǐ xīn dào de shū. Kěshì gāng zǒu dào ménkǒu, tā jiù kànjiàn Sū Qíng zhèngzài hé yí ge niánqīng nánrén liáotiān. Nà ge nánrén jiào Chén Hào, shì Sū Qíng yǐqián de dàxué tóngxué. Tāmen liáo de hěn kāixīn, hái yìqǐ kànzhe zhuō shàng de yì zhāng shèjì tú. Lín Ān zhàn zài ménwài, méiyǒu mǎshàng jìnqù. Tā bù zhīdào wèishénme, xīn lǐ tūrán yǒuxiē bù shūfu. Tā xiǎng, yěxǔ Sū Qíng yǒu le xīn de péngyou, jiù bú zài xūyào zìjǐ le. Nà tiān, tā méiyǒu xiàng píngcháng yíyàng liú xiàlái bāngmáng, ér shì hěn kuài de líkāi le. Dì èr tiān, Sū Qíng fāxiàn Lín Ān biàn de bú tài ài shuōhuà, wèn tā shì bú shì yùdào le shénme wèntí. Lín Ān què shuō zìjǐ hěn máng, bù xiǎng duō liáo. Sū Qíng juéde qíguài, yě yǒuxiē nánguò. Jǐ tiān yǐhòu, liǎng ge rén jiànmiàn shí háishi hěn gāngà. Wǎnshang, Lín Ān yí ge rén zuò zài táohuā shù xià, zhōngyú míngbai zìjǐ wèishénme huì bù kāixīn. Yuánlái tā bù zhǐ shì bǎ Sū Qíng dàngchéng péngyou, tā hái hàipà shīqù tā. Tā juéde zìjǐ yīnggāi shuō qīngchu xīn lǐ de xiǎngfǎ, ér bú shì suíbiàn cāicè. Kěshì, tā réngrán bù zhīdào gāi zěnme kāikǒu. Yǔcǐ tóngshí, Sū Qíng yě zài xiǎng, wèishénme zuì hǎo de péngyou tūrán lí zìjǐ yuèláiyuè yuǎn le.",
+  textTh: "บ่ายวันหนึ่ง หลินอันมาที่ร้านหนังสือเพื่อช่วยซูฉิงจัดหนังสือใหม่ แต่เขากลับเห็นเธอกำลังคุยอย่างสนุกสนานกับเฉินฮ่าว เพื่อนมหาวิทยาลัยเก่าของเธอ ทั้งคู่กำลังดูแบบร่างการออกแบบด้วยกัน หลินอันยืนอยู่นอกร้านและรู้สึกไม่สบายใจ เขาคิดว่าซูฉิงอาจมีเพื่อนใหม่และไม่ต้องการเขาอีกแล้ว วันนั้นเขาจึงออกไปโดยไม่ได้ช่วยงานเหมือนปกติ วันต่อมา ซูฉิงเห็นว่าเขาพูดน้อยลงและถามว่าเกิดอะไรขึ้น แต่หลินอันบอกว่าตัวเองยุ่งและไม่อยากคุย ซูฉิงรู้สึกแปลกใจและเสียใจ หลายวันต่อมา ทั้งคู่ยังรู้สึกอึดอัดเมื่อพบกัน คืนนั้นหลินอันนั่งอยู่ใต้ต้นดอกท้อและเข้าใจในที่สุดว่าทำไมตัวเองจึงไม่มีความสุข เขาไม่ได้มองซูฉิงเป็นเพียงเพื่อน แต่ยังกลัวที่จะเสียเธอไป เขารู้ว่าควรพูดความรู้สึกให้ชัดเจนแทนการคาดเดา แต่ก็ยังไม่รู้ว่าจะเริ่มอย่างไร ขณะเดียวกัน ซูฉิงก็สงสัยว่าทำไมเพื่อนสนิทของเธอจึงค่อย ๆ ห่างเหินไป",
+  vocabulary: [
+    { word: "误会", pinyin: "wùhuì", meaningTh: "ความเข้าใจผิด" },
+    { word: "同学", pinyin: "tóngxué", meaningTh: "เพื่อนร่วมชั้น" },
+    { word: "尴尬", pinyin: "gāngà", meaningTh: "อึดอัด" },
+    { word: "猜测", pinyin: "cāicè", meaningTh: "คาดเดา" },
+    { word: "失去", pinyin: "shīqù", meaningTh: "สูญเสีย" }
+  ],
+  quoteZh: "有时候，不说出来的心事，反而会让误会越来越深。",
+  quotePinyin: "Yǒu shíhou, bù shuō chūlái de xīnshì, fǎn'ér huì ràng wùhuì yuèláiyuè shēn.",
+  quoteTh: "บางครั้ง เรื่องในใจที่ไม่ยอมพูดออกมา กลับทำให้ความเข้าใจผิดยิ่งลึกซึ้งขึ้น"
+},
+{
+  number: 9,
+  titleZh: "书店里的真相",
+  titleTh: "ความจริงในร้านหนังสือ",
+  textZh: "几天以后，苏晴决定主动找林安谈一谈。她来到桃花树下，发现林安正坐在那里看书。苏晴走到他面前，认真地问：“你最近为什么总是躲着我？是不是我做错了什么？”林安沉默了一会儿，终于说出了自己的想法。他告诉苏晴，自己看见她和陈浩聊天以后，心里很难受，还以为她不再需要自己了。苏晴听完，先是惊讶，接着忍不住笑了起来。她解释说，陈浩正在帮助她联系一个文化基金会，希望基金会能支持书店举办儿童阅读活动。桌上的设计图，就是他们为活动准备的计划。林安听完以后，觉得自己很不好意思。他低下头说：“对不起，我没有问清楚就乱想，让你难过了。”苏晴轻轻摇头，说：“我也应该早点告诉你。朋友之间，有事情就应该好好说。”林安点点头，答应以后不再随便猜测，而是直接问清楚。两个人终于说开了，心里的不安也慢慢消失。回到书店后，他们一起看了陈浩送来的活动计划，还想出了几个新的主意。林安明白了，信任比猜测更重要，而真诚的沟通可以让关系变得更加牢固。",
+  pinyin: "Jǐ tiān yǐhòu, Sū Qíng juédìng zhǔdòng zhǎo Lín Ān tán yì tán. Tā láidào táohuā shù xià, fāxiàn Lín Ān zhèng zuò zài nàli kàn shū. Sū Qíng zǒu dào tā miànqián, rènzhēn de wèn: “Nǐ zuìjìn wèishénme zǒng shì duǒ zhe wǒ? Shì bú shì wǒ zuò cuò le shénme?” Lín Ān chénmò le yíhuìr, zhōngyú shuō chū le zìjǐ de xiǎngfǎ. Tā gàosu Sū Qíng, zìjǐ kànjiàn tā hé Chén Hào liáotiān yǐhòu, xīn lǐ hěn nánshòu, hái yǐwéi tā bú zài xūyào zìjǐ le. Sū Qíng tīng wán, xiān shì jīngyà, jiēzhe rěn bu zhù xiào le qǐlái. Tā jiěshì shuō, Chén Hào zhèngzài bāngzhù tā liánxì yí ge wénhuà jījīnhuì, xīwàng jījīnhuì néng zhīchí shūdiàn jǔbàn értóng yuèdú huódòng. Zhuō shàng de shèjì tú, jiù shì tāmen wèi huódòng zhǔnbèi de jìhuà. Lín Ān tīng wán yǐhòu, juéde zìjǐ hěn bù hǎoyìsi. Tā dī xià tóu shuō: “Duìbuqǐ, wǒ méiyǒu wèn qīngchu jiù luàn xiǎng, ràng nǐ nánguò le.” Sū Qíng qīngqīng yáo tóu, shuō: “Wǒ yě yīnggāi zǎodiǎn gàosu nǐ. Péngyou zhījiān, yǒu shìqing jiù yīnggāi hǎohǎo shuō.” Lín Ān diǎndiǎn tóu, dāying yǐhòu bú zài suíbiàn cāicè, ér shì zhíjiē wèn qīngchu. Liǎng ge rén zhōngyú shuō kāi le, xīn lǐ de bù'ān yě mànmàn xiāoshī. Huí dào shūdiàn hòu, tāmen yìqǐ kàn le Chén Hào sòng lái de huódòng jìhuà, hái xiǎng chū le jǐ ge xīn de zhǔyi. Lín Ān míngbai le, xìnrèn bǐ cāicè gèng zhòngyào, ér zhēnchéng de gōutōng kěyǐ ràng guānxì biàn de gèngjiā láogù.",
+  textTh: "หลายวันต่อมา ซูฉิงตัดสินใจไปคุยกับหลินอันด้วยตัวเอง เธอมาที่ใต้ต้นดอกท้อและพบว่าเขากำลังอ่านหนังสืออยู่ เธอถามอย่างจริงจังว่า “ช่วงนี้ทำไมเธอถึงหลบหน้าฉัน? ฉันทำอะไรผิดหรือเปล่า?” หลินอันเงียบไปพักหนึ่งก่อนจะเล่าความคิดของตัวเอง เขาบอกว่าเมื่อเห็นเธอคุยกับเฉินฮ่าว เขารู้สึกไม่สบายใจและคิดไปเองว่าเธอไม่ต้องการเขาแล้ว ซูฉิงประหลาดใจ ก่อนจะหัวเราะออกมา เธออธิบายว่าเฉินฮ่าวกำลังช่วยติดต่อมูลนิธิวัฒนธรรม เพื่อขอให้สนับสนุนกิจกรรมการอ่านสำหรับเด็กของร้านหนังสือ แบบร่างบนโต๊ะคือแผนงานของพวกเขา หลินอันรู้สึกอับอายและขอโทษที่คิดไปเองโดยไม่ถามให้ชัดเจน ซูฉิงบอกว่าเธอเองก็ควรอธิบายให้เร็วกว่านี้ และเพื่อนควรพูดคุยกันดี ๆ เมื่อมีปัญหา หลินอันสัญญาว่าจะไม่คาดเดาเองอีก แต่จะถามให้ชัดเจน ทั้งคู่พูดความจริงกันจนความกังวลค่อย ๆ หายไป เมื่อกลับถึงร้าน พวกเขาช่วยกันดูแผนกิจกรรมและคิดไอเดียใหม่ ๆ หลินอันเข้าใจแล้วว่าความเชื่อใจสำคัญกว่าการคาดเดา และการสื่อสารอย่างจริงใจทำให้ความสัมพันธ์มั่นคงขึ้น",
+  vocabulary: [
+    { word: "主动", pinyin: "zhǔdòng", meaningTh: "เป็นฝ่ายเริ่มก่อน" },
+    { word: "解释", pinyin: "jiěshì", meaningTh: "อธิบาย" },
+    { word: "支持", pinyin: "zhīchí", meaningTh: "สนับสนุน" },
+    { word: "信任", pinyin: "xìnrèn", meaningTh: "เชื่อใจ" },
+    { word: "沟通", pinyin: "gōutōng", meaningTh: "สื่อสาร" }
+  ],
+  quoteZh: "信任比猜测更重要。",
+  quotePinyin: "Xìnrèn bǐ cāicè gèng zhòngyào.",
+  quoteTh: "ความเชื่อใจสำคัญกว่าการคาดเดา"
+},
+
       { number: 10, titleZh: "河边的夜谈", titleTh: "บทสนทนาริมแม่น้ำยามค่ำ", textZh: "", pinyin: "", textTh: "", vocabulary: [], quoteZh: "", quotePinyin: "", quoteTh: "" },
       { number: 11, titleZh: "远方的机会", titleTh: "โอกาสจากแดนไกล", textZh: "", pinyin: "", textTh: "", vocabulary: [], quoteZh: "", quotePinyin: "", quoteTh: "" },
       { number: 12, titleZh: "选择与勇气", titleTh: "การเลือกและความกล้า", textZh: "", pinyin: "", textTh: "", vocabulary: [], quoteZh: "", quotePinyin: "", quoteTh: "" },
