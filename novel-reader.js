@@ -14,9 +14,10 @@
     console.error("ไม่พบพื้นที่แสดงนิยาย: #novelList");
     return;
   }
-
-  let activeCategory = "all";
-  let selectedNovel = null;
+let activeCategory = "all";
+let selectedNovel = null;
+let showPinyin = true;
+let showThai = true;
 
   function escapeHTML(value) {
     return String(value ?? "").replace(/[&<>"']/g, char => ({
@@ -131,24 +132,44 @@
 
     list.innerHTML = `
       <button type="button" id="backToChapters">← กลับไปสารบัญ</button>
+
       <h2>บทที่ ${chapter.number}: ${escapeHTML(
         chapter.titleTh || chapter.titleZh || ""
       )}</h2>
+
+      <div class="reading-controls">
+        <button type="button" id="togglePinyin">
+          ${showPinyin ? "ซ่อนพินอิน" : "แสดงพินอิน"}
+        </button>
+        <button type="button" id="toggleThai">
+          ${showThai ? "ซ่อนคำแปลไทย" : "แสดงคำแปลไทย"}
+        </button>
+      </div>
+
       ${
         chinese
           ? `<h3>ภาษาจีน</h3><p class="story-text">${escapeHTML(chinese).replace(/\n/g, "<br>")}</p>`
           : `<p>เนื้อหาภาษาจีนของบทนี้ยังไม่ได้เพิ่ม</p>`
       }
+
       ${
         pinyin
-          ? `<h3>พินอิน</h3><p class="story-text">${escapeHTML(pinyin).replace(/\n/g, "<br>")}</p>`
+          ? `<div ${showPinyin ? "" : "hidden"}>
+               <h3>พินอิน</h3>
+               <p class="story-text">${escapeHTML(pinyin).replace(/\n/g, "<br>")}</p>
+             </div>`
           : ""
       }
+
       ${
         thai
-          ? `<h3>คำแปลภาษาไทย</h3><p class="story-text">${escapeHTML(thai).replace(/\n/g, "<br>")}</p>`
+          ? `<div ${showThai ? "" : "hidden"}>
+               <h3>คำแปลภาษาไทย</h3>
+               <p class="story-text">${escapeHTML(thai).replace(/\n/g, "<br>")}</p>
+             </div>`
           : `<p>คำแปลภาษาไทยของบทนี้ยังไม่ได้เพิ่ม</p>`
       }
+
       <h3>คำศัพท์สำคัญ</h3>
       ${
         chapter.vocabulary?.length
@@ -157,13 +178,16 @@
             ).join("")}</ul>`
           : "<p>ยังไม่ได้เพิ่มคำศัพท์</p>"
       }
+
       <h3>คำคมท้ายบท</h3>
       <p>${escapeHTML(chapter.quoteZh || chapter.quoteTh || "ยังไม่ได้เพิ่มคำคม")}</p>
+
       ${
         chapter.quotePinyin
           ? `<p>${escapeHTML(chapter.quotePinyin)}</p>`
           : ""
       }
+
       ${
         chapter.quoteTh
           ? `<p>${escapeHTML(chapter.quoteTh)}</p>`
@@ -173,9 +197,19 @@
 
     document.getElementById("backToChapters")
       .addEventListener("click", renderChapters);
-  }
 
-  search?.addEventListener("input", renderNovels);
+    document.getElementById("togglePinyin")
+      .addEventListener("click", () => {
+        showPinyin = !showPinyin;
+        renderChapter(chapter);
+      });
+
+    document.getElementById("toggleThai")
+      .addEventListener("click", () => {
+        showThai = !showThai;
+        renderChapter(chapter);
+      });
+  }
 
   categories?.querySelectorAll("[data-category]").forEach(button => {
     button.addEventListener("click", () => {
