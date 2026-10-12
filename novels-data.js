@@ -27,7 +27,24 @@ window.novelLibrary = [
   quotePinyin: "Yǒuxiē rén líkāi hěn jiǔ, zàijiàn shí háishi hěn shúxī.",
   quoteTh: "บางคนจากกันไปนาน แต่เมื่อกลับมาพบกันอีกครั้ง ก็ยังรู้สึกคุ้นเคยเหมือนเดิม"
 },
-      { number: 2, titleZh: "旧书里的信", titleTh: "จดหมายในหนังสือเก่า", textZh: "", pinyin: "", textTh: "", vocabulary: [], quoteZh: "", quotePinyin: "", quoteTh: "" },
+{
+  number: 2,
+  titleZh: "旧树下的约定",
+  titleTh: "คำสัญญาใต้ต้นไม้เก่า",
+  textZh: "苏晴带着林安来到小时候常去的桃花树下。树下有一张旧长椅，他们以前常常坐在那里聊天。苏晴从书包里拿出一本旧笔记本，笑着说：“你还记得这个吗？”林安接过笔记本，慢慢翻开。里面写着他们小时候的梦想：长大以后，要一起去很多地方旅行，还要帮助更多的人。林安看着熟悉的字，想起了以前快乐的日子。他说：“那时候我们什么都不怕，觉得只要努力，就一定能做到。”苏晴点点头，说：“现在我们长大了，可是不能忘记自己的梦想。”林安认真地看着她，答应以后不管遇到什么困难，都不会轻易放弃。两个人把新的愿望写在笔记本里，又约好明年春天一起回来看看桃花。夕阳慢慢落下，他们带着新的希望离开了老树。",
+  pinyin: "Sū Qíng dài zhe Lín Ān láidào xiǎoshíhou cháng qù de táohuā shù xià. Shù xià yǒu yì zhāng jiù chángyǐ, tāmen yǐqián chángcháng zuò zài nàli liáotiān. Sū Qíng cóng shūbāo lǐ ná chū yì běn jiù bǐjìběn, xiào zhe shuō: “Nǐ hái jìde zhège ma?” Lín Ān jiēguò bǐjìběn, mànmàn fānkāi. Lǐmiàn xiězhe tāmen xiǎoshíhou de mèngxiǎng: zhǎngdà yǐhòu, yào yìqǐ qù hěn duō dìfang lǚxíng, hái yào bāngzhù gèng duō de rén. Lín Ān kànzhe shúxī de zì, xiǎngqǐ le yǐqián kuàilè de rìzi. Tā shuō: “Nà shíhou wǒmen shénme dōu bú pà, juéde zhǐyào nǔlì, jiù yídìng néng zuòdào.” Sū Qíng diǎndiǎn tóu, shuō: “Xiànzài wǒmen zhǎngdà le, kěshì bù néng wàngjì zìjǐ de mèngxiǎng.” Lín Ān rènzhēn de kànzhe tā, dāying yǐhòu bùguǎn yùdào shénme kùnnan, dōu bú huì qīngyì fàngqì. Liǎng ge rén bǎ xīn de yuànwàng xiě zài bǐjìběn lǐ, yòu yuē hǎo míngnián chūntiān yìqǐ huílái kànkan táohuā. Xīyáng mànmàn luò xià, tāmen dài zhe xīn de xīwàng líkāi le lǎo shù.",
+  textTh: "ซูฉิงพาหลินอันมาที่ใต้ต้นดอกท้อซึ่งพวกเขาชอบมาเล่นด้วยกันตอนเด็ก ๆ ใต้ต้นไม้มีม้านั่งเก่า ๆ ตัวหนึ่ง เมื่อก่อนพวกเขามักนั่งคุยกันตรงนั้น ซูฉิงหยิบสมุดบันทึกเก่าออกจากกระเป๋าแล้วยิ้มถามว่า “เธอยังจำสิ่งนี้ได้ไหม?” หลินอันรับสมุดมาแล้วค่อย ๆ เปิดดู ข้างในมีความฝันของพวกเขาในวัยเด็กเขียนไว้ว่า เมื่อโตขึ้นจะเดินทางไปหลาย ๆ แห่งด้วยกัน และช่วยเหลือผู้คนให้มากขึ้น หลินอันมองตัวหนังสือที่คุ้นเคยและนึกถึงวันเวลาอันมีความสุข เขาพูดว่า “ตอนนั้นเราไม่กลัวอะไรเลย คิดว่าถ้าพยายามก็ต้องทำสำเร็จแน่นอน” ซูฉิงพยักหน้าแล้วพูดว่า “ตอนนี้เราโตแล้ว แต่ห้ามลืมความฝันของตัวเองนะ” หลินอันมองเธออย่างจริงจังและสัญญาว่า ไม่ว่าจะเจออุปสรรคอะไรในอนาคต เขาจะไม่ยอมแพ้ง่าย ๆ ทั้งสองเขียนความปรารถนาใหม่ลงในสมุด และนัดกันว่าฤดูใบไม้ผลิปีหน้าจะกลับมาดูดอกท้อด้วยกันอีกครั้ง แสงอาทิตย์ยามเย็นค่อย ๆ ลับลง พวกเขาจากต้นไม้เก่าไปพร้อมกับความหวังใหม่",
+  vocabulary: [
+    { word: "笔记本", pinyin: "bǐjìběn", meaningTh: "สมุดบันทึก" },
+    { word: "梦想", pinyin: "mèngxiǎng", meaningTh: "ความฝัน" },
+    { word: "努力", pinyin: "nǔlì", meaningTh: "พยายาม" },
+    { word: "困难", pinyin: "kùnnan", meaningTh: "ความยากลำบาก" },
+    { word: "放弃", pinyin: "fàngqì", meaningTh: "ยอมแพ้, ล้มเลิก" }
+  ],
+  quoteZh: "不管多忙，都不要忘记自己的梦想。",
+  quotePinyin: "Bùguǎn duō máng, dōu bú yào wàngjì zìjǐ de mèngxiǎng.",
+  quoteTh: "ไม่ว่าจะยุ่งแค่ไหน ก็อย่าลืมความฝันของตัวเอง"
+},
       { number: 3, titleZh: "没有说出口的话", titleTh: "คำพูดที่ไม่เคยเอ่ย", textZh: "", pinyin: "", textTh: "", vocabulary: [], quoteZh: "", quotePinyin: "", quoteTh: "" },
       { number: 4, titleZh: "雨中的伞", titleTh: "ร่มคันเดียวกลางสายฝน", textZh: "", pinyin: "", textTh: "", vocabulary: [], quoteZh: "", quotePinyin: "", quoteTh: "" },
       { number: 5, titleZh: "她的梦想", titleTh: "ความฝันของเธอ", textZh: "", pinyin: "", textTh: "", vocabulary: [], quoteZh: "", quotePinyin: "", quoteTh: "" },
