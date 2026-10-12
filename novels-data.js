@@ -279,9 +279,60 @@ window.novelLibrary = [
   quotePinyin: "Zhǐyào bù fàngqì, měi yì tiān dōu kěyǐ chéngwéi xīn de kāishǐ.",
   quoteTh: "ขอเพียงไม่ยอมแพ้ ทุกวันก็สามารถเป็นการเริ่มต้นใหม่ได้"
 },
-      { number: 16, titleZh: "回到故乡", titleTh: "กลับสู่บ้านเกิด", textZh: "", pinyin: "", textTh: "", vocabulary: [], quoteZh: "", quotePinyin: "", quoteTh: "" },
-      { number: 17, titleZh: "真心的答案", titleTh: "คำตอบจากหัวใจ", textZh: "", pinyin: "", textTh: "", vocabulary: [], quoteZh: "", quotePinyin: "", quoteTh: "" },
-      { number: 18, titleZh: "新的约定", titleTh: "คำสัญญาครั้งใหม่", textZh: "", pinyin: "", textTh: "", vocabulary: [], quoteZh: "", quotePinyin: "", quoteTh: "" },
+{
+  number: 16,
+  titleZh: "勇敢说出来",
+  titleTh: "กล้าพูดความในใจ",
+  textZh: "春天终于来了，桃花树上开满了粉红色的花。林安按照约定回到了小镇。苏晴早早地来到车站等他，看见他走出来时，脸上立刻露出了笑容。两个人一起回到书店，发现店里比以前更加热闹。苏晴带林安参观儿童阅读区，还告诉他最近举办的活动。林安认真地听着，发现苏晴已经变得更加独立，也更加自信。晚上，他们一起走到桃花树下。微风吹过，花瓣轻轻地落在地上。林安想起了这一年发生的事情，也想起自己曾经因为害怕而不敢说出心里的话。他深吸一口气，对苏晴说：“有一件事，我一直想告诉你。以前，我总觉得只要陪在你身边就够了，可是后来我发现，我对你的感情不只是朋友之间的感情。”苏晴安静地看着他，没有打断他。林安继续说：“我喜欢你。我不知道未来会发生什么，但我希望以后能和你一起面对。”说完以后，他紧张地等待着回答。苏晴的眼睛有些湿润，她轻轻地说：“我等这句话，已经等了很久了。我也喜欢你。”听到她的回答，林安终于放下心来。两个人站在桃花树下，第一次勇敢地说出了自己的心意。",
+  pinyin: "Chūntiān zhōngyú lái le, táohuā shù shàng kāi mǎn le fěnhóngsè de huā. Lín Ān ànzhào yuēdìng huí dào le xiǎozhèn. Sū Qíng zǎozǎo de láidào chēzhàn děng tā, kànjiàn tā zǒu chūlái shí, liǎn shàng lìkè lù chū le xiàoróng. Liǎng ge rén yìqǐ huí dào shūdiàn, fāxiàn diàn lǐ bǐ yǐqián gèngjiā rènào. Sū Qíng dài Lín Ān cānguān értóng yuèdú qū, hái gàosu tā zuìjìn jǔbàn de huódòng. Lín Ān rènzhēn de tīng zhe, fāxiàn Sū Qíng yǐjīng biàn de gèngjiā dúlì, yě gèngjiā zìxìn. Wǎnshang, tāmen yìqǐ zǒu dào táohuā shù xià. Wēifēng chuīguò, huābàn qīngqīng de luò zài dì shàng. Lín Ān xiǎngqǐ le zhè yì nián fāshēng de shìqing, yě xiǎngqǐ zìjǐ céngjīng yīnwèi hàipà ér bù gǎn shuō chū xīn lǐ de huà. Tā shēn xī yì kǒu qì, duì Sū Qíng shuō: “Yǒu yí jiàn shì, wǒ yìzhí xiǎng gàosu nǐ. Yǐqián, wǒ zǒng juéde zhǐyào péi zài nǐ shēnbiān jiù gòu le, kěshì hòulái wǒ fāxiàn, wǒ duì nǐ de gǎnqíng bù zhǐ shì péngyou zhījiān de gǎnqíng.” Sū Qíng ānjìng de kànzhe tā, méiyǒu dǎduàn tā. Lín Ān jìxù shuō: “Wǒ xǐhuan nǐ. Wǒ bù zhīdào wèilái huì fāshēng shénme, dàn wǒ xīwàng yǐhòu néng hé nǐ yìqǐ miànduì.” Shuō wán yǐhòu, tā jǐnzhāng de děngdài zhe huídá. Sū Qíng de yǎnjing yǒuxiē shīrùn, tā qīngqīng de shuō: “Wǒ děng zhè jù huà, yǐjīng děng le hěn jiǔ le. Wǒ yě xǐhuan nǐ.” Tīngdào tā de huídá, Lín Ān zhōngyú fàng xià xīn lái. Liǎng ge rén zhàn zài táohuā shù xià, dì yí cì yǒnggǎn de shuō chū le zìjǐ de xīnyì.",
+  textTh: "ในที่สุดฤดูใบไม้ผลิก็มาถึง ดอกท้อสีชมพูบานเต็มต้น หลินอันกลับมายังเมืองเล็ก ๆ ตามสัญญา ซูฉิงมารอเขาที่สถานีตั้งแต่เช้า เมื่อเห็นเขาเดินออกมา เธอก็ยิ้มทันที ทั้งสองกลับไปที่ร้านหนังสือด้วยกัน และพบว่าร้านคึกคักกว่าเดิม ซูฉิงพาหลินอันชมมุมอ่านหนังสือสำหรับเด็ก และเล่ากิจกรรมที่จัดขึ้นในช่วงที่ผ่านมาให้เขาฟัง หลินอันตั้งใจฟังและพบว่าซูฉิงเป็นคนที่พึ่งพาตัวเองได้มากขึ้นและมั่นใจขึ้นแล้ว ตอนเย็น ทั้งสองเดินไปใต้ต้นดอกท้อด้วยกัน สายลมพัดผ่าน กลีบดอกไม้ค่อย ๆ ร่วงลงบนพื้น หลินอันนึกถึงเรื่องราวที่เกิดขึ้นตลอดหนึ่งปี และนึกถึงตัวเองที่เคยไม่กล้าพูดความในใจเพราะความกลัว เขาสูดหายใจลึก ๆ แล้วพูดกับซูฉิงว่า “มีเรื่องหนึ่งที่ฉันอยากบอกเธอมาตลอด เมื่อก่อนฉันคิดแค่ว่า ขอเพียงได้อยู่ข้างเธอก็พอ แต่ต่อมาฉันพบว่า ความรู้สึกที่ฉันมีต่อเธอไม่ได้เป็นแค่ความรู้สึกของเพื่อน” ซูฉิงมองเขาอย่างเงียบ ๆ โดยไม่พูดขัด หลินอันพูดต่อว่า “ฉันชอบเธอ ฉันไม่รู้ว่าอนาคตจะเกิดอะไรขึ้น แต่ฉันหวังว่าจะได้เผชิญหน้ากับสิ่งต่าง ๆ ไปพร้อมกับเธอ” หลังพูดจบ เขาก็รอคำตอบอย่างประหม่า ดวงตาของซูฉิงเริ่มมีน้ำตาคลอ เธอพูดเบา ๆ ว่า “ฉันรอคำพูดนี้มานานมากแล้ว ฉันก็ชอบเธอเหมือนกัน” เมื่อได้ยินคำตอบ หลินอันก็โล่งใจ ในที่สุดทั้งสองก็กล้าพูดความรู้สึกของตัวเองออกมาใต้ต้นดอกท้อ",
+  vocabulary: [
+    { word: "按照", pinyin: "ànzhào", meaningTh: "ตาม, ตามที่กำหนด" },
+    { word: "独立", pinyin: "dúlì", meaningTh: "เป็นอิสระ, พึ่งพาตัวเอง" },
+    { word: "微风", pinyin: "wēifēng", meaningTh: "ลมอ่อน ๆ" },
+    { word: "打断", pinyin: "dǎduàn", meaningTh: "พูดขัด, ขัดจังหวะ" },
+    { word: "心意", pinyin: "xīnyì", meaningTh: "ความรู้สึกในใจ" }
+  ],
+  quoteZh: "如果一直不说，我可能会后悔一辈子。",
+  quotePinyin: "Rúguǒ yìzhí bù shuō, wǒ kěnéng huì hòuhuǐ yí bèizi.",
+  quoteTh: "ถ้าไม่พูดออกไป ฉันอาจเสียใจไปตลอดชีวิต"
+},
+{
+  number: 17,
+  titleZh: "一起实现梦想",
+  titleTh: "ทำความฝันให้เป็นจริงด้วยกัน",
+  textZh: "确定了彼此的心意以后，林安和苏晴开始一起计划未来。他们知道，喜欢一个人不只是说出好听的话，也要在生活中互相支持。林安决定继续学习设计知识，希望以后能帮助书店做出更好的宣传材料。苏晴则计划增加书店的活动，让更多孩子爱上阅读。一天，他们坐在桌前，把自己的想法写在纸上。林安负责设计新的海报和书店标志，苏晴负责安排活动内容和联系参加的人。刚开始，他们也遇到了不少问题。有时候，两个人对设计的颜色有不同的意见；有时候，活动报名的人数没有达到预期。但是，他们没有因为这些小问题而争吵，而是坐下来认真讨论。林安学会了听取苏晴的建议，苏晴也开始理解设计工作需要时间和耐心。几个月以后，新的海报贴在了书店门口，阅读活动也吸引了更多家庭。看到孩子们开心地读书，苏晴感到非常满足。林安看着她说：“以前我总觉得，实现梦想是一个人的事情。现在我发现，如果有人愿意和你一起努力，梦想就会变得更有力量。”苏晴握住他的手，笑着说：“那我们就继续一起努力吧。”他们明白，未来也许还会有困难，但只要互相理解、互相支持，就能一步一步接近自己的目标。",
+  pinyin: "Quèdìng le bǐcǐ de xīnyì yǐhòu, Lín Ān hé Sū Qíng kāishǐ yìqǐ jìhuà wèilái. Tāmen zhīdào, xǐhuan yí ge rén bù zhǐ shì shuō chū hǎotīng de huà, yě yào zài shēnghuó zhōng hùxiāng zhīchí. Lín Ān juédìng jìxù xuéxí shèjì zhīshi, xīwàng yǐhòu néng bāngzhù shūdiàn zuò chū gèng hǎo de xuānchuán cáiliào. Sū Qíng zé jìhuà zēngjiā shūdiàn de huódòng, ràng gèng duō háizi ài shàng yuèdú. Yì tiān, tāmen zuò zài zhuō qián, bǎ zìjǐ de xiǎngfǎ xiě zài zhǐ shàng. Lín Ān fùzé shèjì xīn de hǎibào hé shūdiàn biāozhì, Sū Qíng fùzé ānpái huódòng nèiróng hé liánxì cānjiā de rén. Gāng kāishǐ, tāmen yě yùdào le bù shǎo wèntí. Yǒu shíhou, liǎng ge rén duì shèjì de yánsè yǒu bù tóng de yìjiàn; yǒu shíhou, huódòng bàomíng de rénshù méiyǒu dádào yùqī. Dànshì, tāmen méiyǒu yīnwèi zhèxiē xiǎo wèntí ér zhēngchǎo, ér shì zuò xiàlái rènzhēn tǎolùn. Lín Ān xuéhuì le tīngqǔ Sū Qíng de jiànyì, Sū Qíng yě kāishǐ lǐjiě shèjì gōngzuò xūyào shíjiān hé nàixīn. Jǐ ge yuè yǐhòu, xīn de hǎibào tiē zài le shūdiàn ménkǒu, yuèdú huódòng yě xīyǐn le gèng duō jiātíng. Kàndào háizimen kāixīn de dú shū, Sū Qíng gǎndào fēicháng mǎnzú. Lín Ān kànzhe tā shuō: “Yǐqián wǒ zǒng juéde, shíxiàn mèngxiǎng shì yí ge rén de shìqing. Xiànzài wǒ fāxiàn, rúguǒ yǒu rén yuànyì hé nǐ yìqǐ nǔlì, mèngxiǎng jiù huì biàn de gèng yǒu lìliang.” Sū Qíng wò zhù tā de shǒu, xiào zhe shuō: “Nà wǒmen jiù jìxù yìqǐ nǔlì ba.” Tāmen míngbai, wèilái yěxǔ hái huì yǒu kùnnan, dàn zhǐyào hùxiāng lǐjiě, hùxiāng zhīchí, jiù néng yí bù yí bù jiējìn zìjǐ de mùbiāo.",
+  textTh: "หลังจากเข้าใจความรู้สึกของกันและกันแล้ว หลินอันกับซูฉิงก็เริ่มวางแผนอนาคตร่วมกัน พวกเขารู้ว่าการชอบใครสักคนไม่ได้หมายถึงการพูดคำหวานเท่านั้น แต่ยังต้องสนับสนุนกันในชีวิตจริงด้วย หลินอันตัดสินใจเรียนรู้เรื่องการออกแบบต่อไป โดยหวังว่าจะช่วยทำสื่อประชาสัมพันธ์ให้ร้านหนังสือได้ดีขึ้น ส่วนซูฉิงวางแผนเพิ่มกิจกรรมในร้าน เพื่อให้เด็ก ๆ สนใจการอ่านมากขึ้น วันหนึ่งพวกเขานั่งลงที่โต๊ะและเขียนความคิดของตัวเองลงบนกระดาษ หลินอันรับผิดชอบออกแบบโปสเตอร์และสัญลักษณ์ใหม่ของร้าน ส่วนซูฉิงจัดกิจกรรมและติดต่อผู้เข้าร่วม ในช่วงแรก พวกเขาพบปัญหาหลายอย่าง บางครั้งทั้งสองมีความคิดเห็นต่างกันเรื่องสีของงานออกแบบ บางครั้งจำนวนผู้สมัครเข้าร่วมกิจกรรมก็น้อยกว่าที่คาดไว้ แต่พวกเขาไม่ทะเลาะกันเพราะปัญหาเล็ก ๆ เหล่านี้ กลับนั่งลงพูดคุยกันอย่างจริงจัง หลินอันเรียนรู้ที่จะรับฟังคำแนะนำของซูฉิง ส่วนซูฉิงก็เริ่มเข้าใจว่างานออกแบบต้องใช้เวลาและความอดทน หลายเดือนต่อมา โปสเตอร์ใหม่ถูกติดไว้หน้าร้าน และกิจกรรมอ่านหนังสือก็ดึงดูดครอบครัวมากขึ้น เมื่อเห็นเด็ก ๆ อ่านหนังสืออย่างมีความสุข ซูฉิงก็รู้สึกอิ่มเอมใจ หลินอันมองเธอแล้วพูดว่า “เมื่อก่อนฉันคิดว่าการทำความฝันให้เป็นจริงเป็นเรื่องของคนคนเดียว แต่ตอนนี้ฉันเข้าใจแล้วว่า ถ้ามีคนเต็มใจพยายามไปกับเรา ความฝันก็จะมีพลังมากขึ้น” ซูฉิงจับมือเขาแล้วยิ้มว่า “ถ้าอย่างนั้น เราก็พยายามไปด้วยกันต่อเถอะ” พวกเขารู้ว่าอนาคตอาจยังมีอุปสรรค แต่หากเข้าใจและสนับสนุนกัน ก็จะค่อย ๆ เข้าใกล้เป้าหมายได้ทีละก้าว",
+  vocabulary: [
+    { word: "互相", pinyin: "hùxiāng", meaningTh: "ซึ่งกันและกัน" },
+    { word: "宣传", pinyin: "xuānchuán", meaningTh: "ประชาสัมพันธ์" },
+    { word: "安排", pinyin: "ānpái", meaningTh: "จัดการ, วางแผน" },
+    { word: "预期", pinyin: "yùqī", meaningTh: "คาดหวังไว้" },
+    { word: "目标", pinyin: "mùbiāo", meaningTh: "เป้าหมาย" }
+  ],
+  quoteZh: "有人一起努力，梦想会变得更有力量。",
+  quotePinyin: "Yǒu rén yìqǐ nǔlì, mèngxiǎng huì biàn de gèng yǒu lìliang.",
+  quoteTh: "เมื่อมีใครสักคนพยายามไปด้วยกัน ความฝันก็จะมีพลังมากขึ้น"
+},
+{
+  number: 18,
+  titleZh: "暴风雨的夜晚",
+  titleTh: "คืนที่พายุโหมกระหน่ำ",
+  textZh: "夏天的一个晚上，天气突然变得很差。天空乌云密布，雷声越来越大，暴风雨很快就来了。苏晴正在书店里整理第二天要用的书，听到外面的风声后，赶紧关好门窗。可是，风太大了，门口的招牌被吹倒，雨水也从窗户的缝隙里流了进来。苏晴担心书会被弄湿，马上拿来毛巾和纸箱，把靠近窗户的书搬到安全的地方。就在这时，林安打来了电话。他听到苏晴说店里进了水，立刻决定过去帮忙。虽然外面下着大雨，他还是带着工具赶到了书店。两个人一起移动书架、擦干地面，还把倒下的招牌重新固定好。忙碌的时候，苏晴不小心滑了一下，林安马上扶住了她。他关心地问：“你有没有受伤？”苏晴摇摇头，说自己没事，只是有点累。经过一番努力，雨水终于没有再进入店里，重要的书也都保存好了。暴风雨慢慢停下来时，两个人坐在地上休息，看着被整理好的书架，忍不住笑了。苏晴说：“幸好有你在，不然我一个人真不知道怎么办。”林安握住她的手，回答：“这家书店是我们一起珍惜的地方，我当然会和你一起保护它。”那一夜，他们更加明白，真正重要的东西，需要两个人共同守护。",
+  pinyin: "Xiàtiān de yí ge wǎnshang, tiānqì tūrán biàn de hěn chà. Tiānkōng wūyún mìbù, léishēng yuèláiyuè dà, bàofēngyǔ hěn kuài jiù lái le. Sū Qíng zhèngzài shūdiàn lǐ zhěnglǐ dì èr tiān yào yòng de shū, tīngdào wàimiàn de fēngshēng hòu, gǎnjǐn guān hǎo ménchuāng. Kěshì, fēng tài dà le, ménkǒu de zhāopái bèi chuī dǎo, yǔshuǐ yě cóng chuānghu de fèngxì lǐ liú le jìnlái. Sū Qíng dānxīn shū huì bèi nòng shī, mǎshàng ná lái máojīn hé zhǐxiāng, bǎ kàojìn chuānghu de shū bān dào ānquán de dìfang. Jiù zài zhè shí, Lín Ān dǎ lái le diànhuà. Tā tīngdào Sū Qíng shuō diàn lǐ jìn le shuǐ, lìkè juédìng guòqu bāngmáng. Suīrán wàimiàn xià zhe dàyǔ, tā háishi dài zhe gōngjù gǎn dào le shūdiàn. Liǎng ge rén yìqǐ yídòng shūjià, cā gān dìmiàn, hái bǎ dǎo xià de zhāopái chóngxīn gùdìng hǎo. Mánglù de shíhou, Sū Qíng bù xiǎoxīn huá le yíxià, Lín Ān mǎshàng fú zhù le tā. Tā guānxīn de wèn: “Nǐ yǒu méiyǒu shòushāng?” Sū Qíng yáo yáo tóu, shuō zìjǐ méi shì, zhǐ shì yǒudiǎn lèi. Jīngguò yì fān nǔlì, yǔshuǐ zhōngyú méiyǒu zài jìnrù diàn lǐ, zhòngyào de shū yě dōu bǎocún hǎo le. Bàofēngyǔ mànmàn tíng xiàlái shí, liǎng ge rén zuò zài dì shàng xiūxi, kànzhe bèi zhěnglǐ hǎo de shūjià, rěn bu zhù xiào le. Sū Qíng shuō: “Xìnghǎo yǒu nǐ zài, bùrán wǒ yí ge rén zhēn bù zhīdào zěnme bàn.” Lín Ān wò zhù tā de shǒu, huídá: “Zhè jiā shūdiàn shì wǒmen yìqǐ zhēnxī de dìfang, wǒ dāngrán huì hé nǐ yìqǐ bǎohù tā.” Nà yí yè, tāmen gèngjiā míngbai, zhēnzhèng zhòngyào de dōngxi, xūyào liǎng ge rén gòngtóng shǒuhù.",
+  textTh: "คืนหนึ่งในฤดูร้อน อากาศเปลี่ยนแปลงอย่างกะทันหัน ท้องฟ้ามีเมฆดำปกคลุม เสียงฟ้าร้องดังขึ้นเรื่อย ๆ และพายุก็มาถึงอย่างรวดเร็ว ซูฉิงกำลังจัดหนังสือที่จะใช้ในวันรุ่งขึ้นอยู่ในร้าน เมื่อได้ยินเสียงลมด้านนอก เธอก็รีบปิดประตูและหน้าต่างให้เรียบร้อย แต่ลมแรงมากจนป้ายหน้าร้านถูกพัดล้ม และน้ำฝนก็ไหลเข้ามาตามช่องว่างของหน้าต่าง ซูฉิงกลัวว่าหนังสือจะเปียก จึงรีบนำผ้าขนหนูและกล่องกระดาษมาช่วยย้ายหนังสือที่อยู่ใกล้หน้าต่างไปไว้ในที่ปลอดภัย ในเวลานั้นเอง หลินอันโทรมา เมื่อได้ยินซูฉิงบอกว่าน้ำเข้าร้าน เขาก็ตัดสินใจมาช่วยทันที แม้ข้างนอกฝนตกหนัก เขาก็ยังนำเครื่องมือมาถึงร้าน ทั้งสองช่วยกันย้ายชั้นหนังสือ เช็ดพื้น และยึดป้ายที่ล้มให้กลับมาแน่นเหมือนเดิม ระหว่างทำงาน ซูฉิงลื่นเกือบล้ม หลินอันจึงรีบประคองเธอไว้ เขาถามด้วยความเป็นห่วงว่า “เธอบาดเจ็บไหม?” ซูฉิงส่ายหน้าและบอกว่าไม่เป็นไร แค่เหนื่อยนิดหน่อย หลังจากพยายามช่วยกันอยู่พักใหญ่ น้ำฝนก็ไม่ไหลเข้าร้านอีก และหนังสือสำคัญทั้งหมดก็ปลอดภัย เมื่อพายุค่อย ๆ หยุด ทั้งสองนั่งพักบนพื้น มองชั้นหนังสือที่จัดเรียบร้อยแล้วและอดหัวเราะไม่ได้ ซูฉิงพูดว่า “โชคดีที่มีเธออยู่ ไม่อย่างนั้นฉันคงไม่รู้ว่าจะทำอย่างไร” หลินอันจับมือเธอแล้วตอบว่า “ร้านหนังสือนี้เป็นสถานที่ที่พวกเรารักและหวงแหนร่วมกัน แน่นอนว่าฉันจะช่วยเธอปกป้องมัน” คืนนั้นพวกเขาเข้าใจมากขึ้นว่า สิ่งที่สำคัญจริง ๆ ต้องได้รับการดูแลรักษาร่วมกัน",
+  vocabulary: [
+    { word: "暴风雨", pinyin: "bàofēngyǔ", meaningTh: "พายุฝนรุนแรง" },
+    { word: "乌云", pinyin: "wūyún", meaningTh: "เมฆดำ" },
+    { word: "缝隙", pinyin: "fèngxì", meaningTh: "ช่องว่าง, รอยแยก" },
+    { word: "受伤", pinyin: "shòushāng", meaningTh: "ได้รับบาดเจ็บ" },
+    { word: "守护", pinyin: "shǒuhù", meaningTh: "ปกป้อง, ดูแลรักษา" }
+  ],
+  quoteZh: "只要我们不放弃，就能保护好重要的东西。",
+  quotePinyin: "Zhǐyào wǒmen bù fàngqì, jiù néng bǎohù hǎo zhòngyào de dōngxi.",
+  quoteTh: "ขอเพียงเราไม่ยอมแพ้ เราก็จะปกป้องสิ่งสำคัญไว้ได้"
+},
       { number: 19, titleZh: "桃花再次盛开", titleTh: "ดอกท้อบานอีกครั้ง", textZh: "", pinyin: "", textTh: "", vocabulary: [], quoteZh: "", quotePinyin: "", quoteTh: "" },
       { number: 20, titleZh: "约定的答案", titleTh: "คำตอบของคำสัญญา", textZh: "", pinyin: "", textTh: "", vocabulary: [], quoteZh: "", quotePinyin: "", quoteTh: "" }
     ]
