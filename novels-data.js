@@ -225,9 +225,60 @@ window.novelLibrary = [
   quotePinyin: "Chéngshí de miànduì zìjǐ de xīn, cái bú huì liúxià yíhàn.",
   quoteTh: "การซื่อตรงต่อหัวใจตัวเอง จึงจะไม่ทิ้งความเสียใจไว้ภายหลัง"
 },
-      { number: 13, titleZh: "一场小小的告别", titleTh: "การจากลาครั้งเล็ก ๆ", textZh: "", pinyin: "", textTh: "", vocabulary: [], quoteZh: "", quotePinyin: "", quoteTh: "" },
-      { number: 14, titleZh: "城市里的消息", titleTh: "ข่าวจากเมืองใหญ่", textZh: "", pinyin: "", textTh: "", vocabulary: [], quoteZh: "", quotePinyin: "", quoteTh: "" },
-      { number: 15, titleZh: "她终于明白", titleTh: "ในที่สุดเธอก็เข้าใจ", textZh: "", pinyin: "", textTh: "", vocabulary: [], quoteZh: "", quotePinyin: "", quoteTh: "" },
+{
+  number: 13,
+  titleZh: "远方的电话",
+  titleTh: "โทรศัพท์จากแดนไกล",
+  textZh: "林安来到大城市实习已经一个星期了。每天早上，他很早就起床，坐地铁去公司。虽然工作很忙，也常常遇到不懂的问题，但是他一直努力学习。到了晚上，他最期待的事情就是给苏晴打电话。苏晴每天都会告诉他书店里发生的事情，比如今天来了哪些客人，又有谁借走了喜欢的书。林安也会分享自己在公司学到的新知识。虽然他们相隔很远，但是每次听到对方的声音，都觉得彼此并没有离开。一天晚上，林安因为工作出了问题，心情很不好。他觉得自己做得不够好，甚至开始怀疑自己能不能继续坚持下去。苏晴听出了他的难过，认真地安慰他说：“刚开始的时候，遇到困难是很正常的。你已经很努力了，不要因为一次失败就否定自己。”听了她的话，林安慢慢平静下来。他告诉苏晴，自己会继续努力，也会记得他们一起说过的话。挂电话以前，苏晴轻声说：“不管你在哪里，我都会支持你。”林安看着窗外的灯光，心里充满了力量。他明白，距离虽然让他们不能每天见面，却不能让真正的关心消失。",
+  pinyin: "Lín Ān láidào dà chéngshì shíxí yǐjīng yí ge xīngqī le. Měitiān zǎoshang, tā hěn zǎo jiù qǐchuáng, zuò dìtiě qù gōngsī. Suīrán gōngzuò hěn máng, yě chángcháng yùdào bù dǒng de wèntí, dànshì tā yìzhí nǔlì xuéxí. Dào le wǎnshang, tā zuì qīdài de shìqing jiù shì gěi Sū Qíng dǎ diànhuà. Sū Qíng měitiān dōu huì gàosu tā shūdiàn lǐ fāshēng de shìqing, bǐrú jīntiān lái le nǎxiē kèrén, yòu yǒu shéi jiè zǒu le xǐhuan de shū. Lín Ān yě huì fēnxiǎng zìjǐ zài gōngsī xué dào de xīn zhīshi. Suīrán tāmen xiānggé hěn yuǎn, dànshì měi cì tīngdào duìfāng de shēngyīn, dōu juéde bǐcǐ bìng méiyǒu líkāi. Yì tiān wǎnshang, Lín Ān yīnwèi gōngzuò chū le wèntí, xīnqíng hěn bù hǎo. Tā juéde zìjǐ zuò de bú gòu hǎo, shènzhì kāishǐ huáiyí zìjǐ néng bu néng jìxù jiānchí xiàqù. Sū Qíng tīng chū le tā de nánguò, rènzhēn de ānwèi tā shuō: “Gāng kāishǐ de shíhou, yùdào kùnnan shì hěn zhèngcháng de. Nǐ yǐjīng hěn nǔlì le, bú yào yīnwèi yí cì shībài jiù fǒudìng zìjǐ.” Tīng le tā de huà, Lín Ān mànmàn píngjìng xiàlái. Tā gàosu Sū Qíng, zìjǐ huì jìxù nǔlì, yě huì jìde tāmen yìqǐ shuō guò de huà. Guà diànhuà yǐqián, Sū Qíng qīngshēng shuō: “Bùguǎn nǐ zài nǎli, wǒ dōu huì zhīchí nǐ.” Lín Ān kànzhe chuāngwài de dēngguāng, xīn lǐ chōngmǎn le lìliang. Tā míngbai, jùlí suīrán ràng tāmen bù néng měitiān jiànmiàn, què bù néng ràng zhēnzhèng de guānxīn xiāoshī.",
+  textTh: "หลินอันมาฝึกงานในเมืองใหญ่ได้หนึ่งสัปดาห์แล้ว ทุกเช้าเขาตื่นแต่เช้าและนั่งรถไฟใต้ดินไปบริษัท แม้งานจะยุ่งและมักพบปัญหาที่ไม่เข้าใจ แต่เขาก็พยายามเรียนรู้อยู่เสมอ เมื่อถึงตอนเย็น สิ่งที่เขารอคอยมากที่สุดคือการโทรหาซูฉิง ทุกวันซูฉิงจะเล่าเรื่องที่เกิดขึ้นในร้านหนังสือให้เขาฟัง เช่น วันนี้มีลูกค้าคนไหนมาบ้าง และใครยืมหนังสือเล่มโปรดไป หลินอันก็เล่าเรื่องความรู้ใหม่ ๆ ที่ได้เรียนรู้จากบริษัทให้เธอฟัง แม้ทั้งสองจะอยู่ห่างกันมาก แต่ทุกครั้งที่ได้ยินเสียงของอีกฝ่าย พวกเขาก็รู้สึกเหมือนไม่ได้จากกันไปไหน คืนหนึ่ง หลินอันทำงานผิดพลาดและรู้สึกแย่มาก เขาคิดว่าตัวเองทำได้ไม่ดีพอ จนเริ่มสงสัยว่าจะอดทนต่อไปได้หรือไม่ ซูฉิงฟังออกว่าเขากำลังเสียใจ จึงปลอบใจอย่างจริงจังว่า “ช่วงเริ่มต้น การพบเจอปัญหาเป็นเรื่องปกติมาก เธอพยายามมากแล้ว อย่าเพิ่งปฏิเสธความสามารถของตัวเองเพียงเพราะความล้มเหลวครั้งเดียว” เมื่อได้ฟังคำพูดของเธอ หลินอันก็ค่อย ๆ สงบลง เขาบอกซูฉิงว่าจะพยายามต่อไปและจะจำคำพูดที่ทั้งสองเคยให้ไว้ ก่อนวางสาย ซูฉิงพูดเบา ๆ ว่า “ไม่ว่าเธอจะอยู่ที่ไหน ฉันก็จะสนับสนุนเธอ” หลินอันมองแสงไฟนอกหน้าต่าง หัวใจเต็มไปด้วยพลัง เขาเข้าใจแล้วว่า แม้ระยะทางจะทำให้พวกเขาไม่ได้พบกันทุกวัน แต่ก็ไม่อาจทำให้ความห่วงใยที่แท้จริงหายไปได้",
+  vocabulary: [
+    { word: "实习", pinyin: "shíxí", meaningTh: "ฝึกงาน" },
+    { word: "期待", pinyin: "qīdài", meaningTh: "ตั้งตารอ" },
+    { word: "相隔", pinyin: "xiānggé", meaningTh: "อยู่ห่างจากกัน" },
+    { word: "怀疑", pinyin: "huáiyí", meaningTh: "สงสัย" },
+    { word: "支持", pinyin: "zhīchí", meaningTh: "สนับสนุน" }
+  ],
+  quoteZh: "就算我们不在同一个地方，也不要忘记联系。",
+  quotePinyin: "Jiùsuàn wǒmen bú zài tóng yí ge dìfang, yě bú yào wàngjì liánxì.",
+  quoteTh: "แม้เราไม่ได้อยู่ที่เดียวกัน ก็อย่าลืมติดต่อกัน"
+},
+{
+  number: 14,
+  titleZh: "没有赶上的火车",
+  titleTh: "รถไฟที่ไปไม่ทัน",
+  textZh: "实习的第一个月结束后，林安终于得到几天假期。他提前告诉苏晴，自己会坐火车回家。苏晴听到这个消息，非常高兴，还特意准备了林安喜欢吃的点心。可是，出发那天早上，苏晴去车站的路上遇到了交通堵塞。她看着时间越来越近，心里越来越着急。等她赶到车站时，火车已经开走了。苏晴站在站台上，难过得不知道该怎么办。她马上给林安打电话，向他解释发生的事情，并为自己没有赶上火车道歉。电话那边的林安沉默了一会儿，然后温柔地说：“别着急，你没有做错什么。我们可以再想办法见面。”苏晴担心他会失望，林安却告诉她，自己最在意的不是能不能马上见面，而是她有没有好好照顾自己。后来，他们一起查看了其他车次，决定改到第二天见面。虽然计划被打乱了，但两个人都没有生气。晚上，苏晴回到书店，把准备好的点心放进冰箱。她告诉自己，明天一定要早点出门。林安则在电话里笑着说：“这一次的分别，并不是故事的结束。明天见面的时候，我们还有很多话要说。”听到这句话，苏晴终于露出了笑容。",
+  pinyin: "Shíxí de dì yí ge yuè jiéshù hòu, Lín Ān zhōngyú dédào jǐ tiān jiàqī. Tā tíqián gàosu Sū Qíng, zìjǐ huì zuò huǒchē huí jiā. Sū Qíng tīngdào zhège xiāoxi, fēicháng gāoxìng, hái tèyì zhǔnbèi le Lín Ān xǐhuan chī de diǎnxin. Kěshì, chūfā nà tiān zǎoshang, Sū Qíng qù chēzhàn de lù shàng yùdào le jiāotōng dǔsè. Tā kànzhe shíjiān yuèláiyuè jìn, xīn lǐ yuèláiyuè zháojí. Děng tā gǎn dào chēzhàn shí, huǒchē yǐjīng kāi zǒu le. Sū Qíng zhàn zài zhàntái shàng, nánguò de bù zhīdào gāi zěnme bàn. Tā mǎshàng gěi Lín Ān dǎ diànhuà, xiàng tā jiěshì fāshēng de shìqing, bìng wèi zìjǐ méiyǒu gǎn shàng huǒchē dàoqiàn. Diànhuà nà biān de Lín Ān chénmò le yíhuìr, ránhòu wēnróu de shuō: “Bié zháojí, nǐ méiyǒu zuò cuò shénme. Wǒmen kěyǐ zài xiǎng bànfǎ jiànmiàn.” Sū Qíng dānxīn tā huì shīwàng, Lín Ān què gàosu tā, zìjǐ zuì zàiyì de bú shì néng bu néng mǎshàng jiànmiàn, ér shì tā yǒu méiyǒu hǎohǎo zhàogù zìjǐ. Hòulái, tāmen yìqǐ chákàn le qítā chēcì, juédìng gǎi dào dì èr tiān jiànmiàn. Suīrán jìhuà bèi dǎluàn le, dàn liǎng ge rén dōu méiyǒu shēngqì. Wǎnshang, Sū Qíng huí dào shūdiàn, bǎ zhǔnbèi hǎo de diǎnxin fàng jìn bīngxiāng. Tā gàosu zìjǐ, míngtiān yídìng yào zǎodiǎn chūmén. Lín Ān zé zài diànhuà lǐ xiào zhe shuō: “Zhè yí cì de fēnbié, bìng bú shì gùshi de jiéshù. Míngtiān jiànmiàn de shíhou, wǒmen hái yǒu hěn duō huà yào shuō.” Tīngdào zhè jù huà, Sū Qíng zhōngyú lù chū le xiàoróng.",
+  textTh: "หลังจากฝึกงานครบเดือนแรก ในที่สุดหลินอันก็ได้วันหยุดหลายวัน เขาบอกซูฉิงล่วงหน้าว่าจะนั่งรถไฟกลับบ้าน ซูฉิงดีใจมากเมื่อได้ยินข่าวนี้ และตั้งใจเตรียมขนมที่หลินอันชอบกินเป็นพิเศษ แต่เช้าวันเดินทาง ระหว่างที่ซูฉิงกำลังไปสถานี เธอกลับเจอรถติด เธอมองเวลาที่ใกล้เข้ามาเรื่อย ๆ และเริ่มร้อนใจมากขึ้น เมื่อไปถึงสถานี รถไฟก็ออกไปแล้ว ซูฉิงยืนอยู่บนชานชาลาอย่างเสียใจจนไม่รู้จะทำอย่างไร เธอรีบโทรหาหลินอัน อธิบายสิ่งที่เกิดขึ้นและขอโทษที่ไปขึ้นรถไฟไม่ทัน หลินอันเงียบไปครู่หนึ่ง ก่อนพูดอย่างอ่อนโยนว่า “ไม่ต้องรีบร้อน เธอไม่ได้ทำอะไรผิด พวกเรายังหาวิธีพบกันได้อีก” ซูฉิงกลัวว่าเขาจะผิดหวัง แต่หลินอันบอกว่าสิ่งที่เขาใส่ใจที่สุดไม่ใช่การจะได้พบกันทันทีหรือไม่ แต่เป็นการที่เธอดูแลตัวเองดีหรือเปล่า ต่อมาพวกเขาช่วยกันตรวจสอบเที่ยวรถไฟอื่น ๆ และตัดสินใจเลื่อนไปพบกันในวันถัดไป แม้แผนจะเปลี่ยนไป แต่ทั้งคู่ก็ไม่ได้โกรธกัน ตอนเย็นซูฉิงกลับถึงร้านหนังสือและนำขนมที่เตรียมไว้ใส่ตู้เย็น เธอบอกตัวเองว่าพรุ่งนี้จะต้องออกจากบ้านให้เร็วขึ้น ส่วนหลินอันพูดทางโทรศัพท์พร้อมรอยยิ้มว่า “การจากลากันครั้งนี้ไม่ได้หมายความว่าเรื่องราวจบลง พอเราได้พบกันพรุ่งนี้ ยังมีเรื่องอีกมากที่ต้องคุยกัน” เมื่อได้ยินเช่นนั้น ซูฉิงก็ยิ้มออกมาในที่สุด",
+  vocabulary: [
+    { word: "假期", pinyin: "jiàqī", meaningTh: "วันหยุด" },
+    { word: "堵塞", pinyin: "dǔsè", meaningTh: "ติดขัด" },
+    { word: "站台", pinyin: "zhàntái", meaningTh: "ชานชาลา" },
+    { word: "失望", pinyin: "shīwàng", meaningTh: "ผิดหวัง" },
+    { word: "打乱", pinyin: "dǎluàn", meaningTh: "ทำให้ยุ่งเหยิง, ทำให้แผนเปลี่ยน" }
+  ],
+  quoteZh: "这一次的分别，并不是故事的结束。",
+  quotePinyin: "Zhè yí cì de fēnbié, bìng bú shì gùshi de jiéshù.",
+  quoteTh: "การจากลากันครั้งนี้ ไม่ได้หมายความว่าเรื่องราวจะจบลง"
+},
+{
+  number: 15,
+  titleZh: "桃花再次盛开",
+  titleTh: "ดอกท้อบานอีกครั้ง",
+  textZh: "第二天，苏晴早早地来到车站，终于见到了林安。她把准备好的点心交给他，两个人开心地聊了起来。短暂的假期很快就过去了，林安又回到大城市继续实习。分别以后，苏晴没有每天只想着等待他的电话，而是开始认真计划自己的生活。她把书店的一角整理出来，设置了一个儿童阅读区，欢迎附近的孩子来这里看书。刚开始，来的人不多，但苏晴没有放弃。她设计了有趣的阅读活动，还邀请附近的老师来分享故事。渐渐地，越来越多的孩子和家长来到书店。书店变得比以前热闹了，苏晴也越来越有信心。林安在电话里听说这些变化，为她感到高兴。他告诉苏晴，自己在公司学到了很多，也开始明白怎样把想法变成真正的计划。两个人都在努力成为更好的人。春天快要到来的时候，林安答应苏晴，等下一次桃花盛开，他就会回来。他们约好，到时候一起坐在桃花树下，聊一聊这一年发生的事情。苏晴看着窗外的桃花树，心里充满了期待。她明白，等待并不意味着停在原地。只要不放弃，每一天都可以成为新的开始。",
+  pinyin: "Dì èr tiān, Sū Qíng zǎozǎo de láidào chēzhàn, zhōngyú jiàn dào le Lín Ān. Tā bǎ zhǔnbèi hǎo de diǎnxin jiāo gěi tā, liǎng ge rén kāixīn de liáo le qǐlái. Duǎnzàn de jiàqī hěn kuài jiù guòqù le, Lín Ān yòu huídào dà chéngshì jìxù shíxí. Fēnbié yǐhòu, Sū Qíng méiyǒu měitiān zhǐ xiǎngzhe děngdài tā de diànhuà, ér shì kāishǐ rènzhēn jìhuà zìjǐ de shēnghuó. Tā bǎ shūdiàn de yì jiǎo zhěnglǐ chūlái, shèzhì le yí ge értóng yuèdú qū, huānyíng fùjìn de háizi lái zhèlǐ kàn shū. Gāng kāishǐ, lái de rén bù duō, dàn Sū Qíng méiyǒu fàngqì. Tā shèjì le yǒuqù de yuèdú huódòng, hái yāoqǐng fùjìn de lǎoshī lái fēnxiǎng gùshi. Jiànjiàn de, yuèláiyuè duō de háizi hé jiāzhǎng láidào shūdiàn. Shūdiàn biàn de bǐ yǐqián rènào le, Sū Qíng yě yuèláiyuè yǒu xìnxīn. Lín Ān zài diànhuà lǐ tīngshuō zhèxiē biànhuà, wèi tā gǎndào gāoxìng. Tā gàosu Sū Qíng, zìjǐ zài gōngsī xué dào le hěn duō, yě kāishǐ míngbai zěnyàng bǎ xiǎngfǎ biànchéng zhēnzhèng de jìhuà. Liǎng ge rén dōu zài nǔlì chéngwéi gèng hǎo de rén. Chūntiān kuài yào dàolái de shíhou, Lín Ān dāying Sū Qíng, děng xià yí cì táohuā shèngkāi, tā jiù huì huílái. Tāmen yuē hǎo, dào shíhou yìqǐ zuò zài táohuā shù xià, liáo yì liáo zhè yì nián fāshēng de shìqing. Sū Qíng kànzhe chuāngwài de táohuā shù, xīn lǐ chōngmǎn le qīdài. Tā míngbai, děngdài bìng bú yìwèizhe tíng zài yuándì. Zhǐyào bù fàngqì, měi yì tiān dōu kěyǐ chéngwéi xīn de kāishǐ.",
+  textTh: "วันต่อมา ซูฉิงมาถึงสถานีแต่เช้าและได้พบหลินอันในที่สุด เธอมอบขนมที่เตรียมไว้ให้เขา แล้วทั้งสองก็คุยกันอย่างมีความสุข วันหยุดสั้น ๆ ผ่านไปอย่างรวดเร็ว หลินอันกลับไปเมืองใหญ่เพื่อฝึกงานต่อ หลังจากแยกจากกัน ซูฉิงไม่ได้เอาแต่รอสายโทรศัพท์ของเขาทุกวันอีกต่อไป แต่เริ่มวางแผนชีวิตของตัวเองอย่างจริงจัง เธอจัดมุมหนึ่งของร้านหนังสือให้เป็นพื้นที่อ่านหนังสือสำหรับเด็ก และต้อนรับเด็ก ๆ ในละแวกนั้นให้เข้ามาอ่านหนังสือ ช่วงแรกมีคนมาไม่มาก แต่ซูฉิงไม่ยอมแพ้ เธอออกแบบกิจกรรมอ่านหนังสือที่สนุกสนาน และเชิญครูในละแวกใกล้เคียงมาแบ่งปันเรื่องเล่า ค่อย ๆ มีเด็กและผู้ปกครองเข้ามาที่ร้านมากขึ้น ร้านหนังสือคึกคักกว่าเดิม และซูฉิงก็มีความมั่นใจมากขึ้น หลินอันได้ยินเรื่องการเปลี่ยนแปลงเหล่านี้ทางโทรศัพท์และรู้สึกดีใจกับเธอ เขาบอกซูฉิงว่าตัวเองได้เรียนรู้อะไรมากมายจากบริษัท และเริ่มเข้าใจว่าจะเปลี่ยนความคิดให้กลายเป็นแผนที่ทำได้จริงอย่างไร ทั้งสองต่างพยายามพัฒนาตัวเองให้ดีขึ้น เมื่อฤดูใบไม้ผลิใกล้มาถึง หลินอันสัญญากับซูฉิงว่า เมื่อดอกท้อบานครั้งหน้า เขาจะกลับมา พวกเขานัดกันว่าเมื่อถึงเวลานั้น จะนั่งใต้ต้นดอกท้อด้วยกันและเล่าเรื่องราวที่เกิดขึ้นตลอดหนึ่งปี ซูฉิงมองต้นดอกท้อนอกหน้าต่างด้วยหัวใจที่เต็มไปด้วยความคาดหวัง เธอเข้าใจแล้วว่า การรอคอยไม่ได้หมายถึงการหยุดอยู่กับที่ ขอเพียงไม่ยอมแพ้ ทุกวันก็สามารถเป็นการเริ่มต้นใหม่ได้",
+  vocabulary: [
+    { word: "短暂", pinyin: "duǎnzàn", meaningTh: "ช่วงสั้น ๆ" },
+    { word: "整理", pinyin: "zhěnglǐ", meaningTh: "จัดระเบียบ" },
+    { word: "设置", pinyin: "shèzhì", meaningTh: "จัดตั้ง, กำหนด" },
+    { word: "渐渐", pinyin: "jiànjiàn", meaningTh: "ค่อย ๆ" },
+    { word: "期待", pinyin: "qīdài", meaningTh: "คาดหวัง, ตั้งตารอ" }
+  ],
+  quoteZh: "只要不放弃，每一天都可以成为新的开始。",
+  quotePinyin: "Zhǐyào bù fàngqì, měi yì tiān dōu kěyǐ chéngwéi xīn de kāishǐ.",
+  quoteTh: "ขอเพียงไม่ยอมแพ้ ทุกวันก็สามารถเป็นการเริ่มต้นใหม่ได้"
+},
       { number: 16, titleZh: "回到故乡", titleTh: "กลับสู่บ้านเกิด", textZh: "", pinyin: "", textTh: "", vocabulary: [], quoteZh: "", quotePinyin: "", quoteTh: "" },
       { number: 17, titleZh: "真心的答案", titleTh: "คำตอบจากหัวใจ", textZh: "", pinyin: "", textTh: "", vocabulary: [], quoteZh: "", quotePinyin: "", quoteTh: "" },
       { number: 18, titleZh: "新的约定", titleTh: "คำสัญญาครั้งใหม่", textZh: "", pinyin: "", textTh: "", vocabulary: [], quoteZh: "", quotePinyin: "", quoteTh: "" },
