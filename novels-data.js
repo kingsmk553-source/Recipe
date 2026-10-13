@@ -530,8 +530,172 @@ Tā wàng xiàng chuāngwài, kànjiàn shùyè suízhe wēifēng qīngqīng yá
   quotePinyin: "Yǒu shíhou, yǒuyì cóng chuāngbiān de yí ge xiǎoxiǎo zuòwèi kāishǐ.",
   quoteTh: "บางครั้ง มิตรภาพก็เริ่มต้นจากที่นั่งเล็ก ๆ ข้างหน้าต่าง"
 },
-      { number: 3, titleTh: "ร่มสีฟ้า", titleZh: "蓝色的雨伞", textTh: "", textZh: "", pinyin: "", vocabulary: [], quoteTh: "", quoteZh: "", quotePinyin: "" },
-      { number: 4, titleTh: "งานกลุ่มที่ไม่ง่าย", titleZh: "并不简单的小组作业", textTh: "", textZh: "", pinyin: "", vocabulary: [], quoteTh: "", quoteZh: "", quotePinyin: "" },
+ {
+  number: 3,
+  titleTh: "ร่มสีฟ้า",
+  titleZh: "蓝色的雨伞",
+  textTh: `หลังจากรู้จักกันได้หลายวัน เมษากับธามก็เริ่มพูดคุยกันมากขึ้น ทุกเช้าเมษาจะเดินเข้าห้องเรียนและเห็นธามนั่งอยู่ที่เดิม บางวันเขากำลังอ่านหนังสือ บางวันก็กำลังวาดรูปลงในสมุด
+
+วันศุกร์หลังเลิกเรียน เมษาเห็นร่มสีฟ้าคันหนึ่งวางอยู่ข้างโต๊ะของธาม เธอจำได้ทันทีว่านี่คือร่มที่เขาใช้ช่วยเธอในวันแรกที่โรงเรียน
+
+“ธาม ร่มคันนี้เป็นของเธอใช่ไหม?” เมษาถาม
+
+ธามพยักหน้า “ใช่ ทำไมเหรอ?”
+
+“วันนั้นฉันยังไม่ได้ขอบคุณเธอดี ๆ เลย ถ้าไม่มีร่มของเธอ ฉันคงเปียกฝนไปทั้งตัว”
+
+ธามหัวเราะ “เรื่องเล็กน้อยเอง ไม่ต้องคิดมากหรอก”
+
+เมษาหยิบร่มขึ้นมาดู แล้วสังเกตว่าด้ามร่มมีรอยขีดเล็ก ๆ เธอจึงถามว่า “ร่มคันนี้ใช้มานานแล้วเหรอ?”
+
+ธามเงียบไปครู่หนึ่งก่อนตอบว่า “แม่ซื้อให้ฉันตอนเริ่มเรียนมัธยม แม่บอกว่าเวลาฝนตก เราควรมีร่มไว้ดูแลตัวเอง แต่ถ้ามีคนต้องการความช่วยเหลือ เราก็ควรแบ่งปันร่มให้เขาด้วย”
+
+เมษารู้สึกอบอุ่นเมื่อได้ยินคำพูดนั้น เธอไม่เคยคิดว่าร่มธรรมดาคันหนึ่งจะมีความหมายมากขนาดนี้
+
+วันนั้นทั้งสองเดินกลับบ้านด้วยกัน ระหว่างทางฝนเริ่มตกลงมาอีกครั้ง ธามกางร่มสีฟ้าและขยับเข้ามาใกล้เมษาเพื่อไม่ให้เธอเปียกฝน
+
+“คราวนี้ฉันจะจำไว้ว่า ต้องพกร่มมาด้วย” เมษาพูดพลางหัวเราะ
+
+“จำไว้ก็ดี แต่ถ้าลืมอีกก็ไม่เป็นไร” ธามตอบ “เรายังเดินกลับด้วยกันได้”
+
+เมษายิ้มโดยไม่ได้พูดอะไร เธอรู้สึกว่าความห่วงใยไม่จำเป็นต้องเป็นคำพูดที่ยิ่งใหญ่ บางครั้งมันอาจเป็นเพียงร่มหนึ่งคันที่มีคนยินดีแบ่งให้
+
+เมื่อถึงบ้าน เมษาหันกลับไปมองธามที่กำลังเดินจากไป ร่มสีฟ้าค่อย ๆ ห่างออกไปตามถนน แต่ความทรงจำในวันนั้นยังคงอยู่ในใจของเธอ`,
+  textZh: `认识了几天以后，梅莎和塔姆开始有了更多的交流。每天早上，梅莎走进教室时，都会看见塔姆坐在原来的位置上。有时候他在看书，有时候他在笔记本上画画。
+
+星期五放学后，梅莎看见一把蓝色的雨伞放在塔姆的桌子旁边。她马上想起了第一天上学时，他用这把伞帮助自己的情景。
+
+“塔姆，这把伞是你的吗？”梅莎问。
+
+塔姆点了点头。“是啊，怎么了？”
+
+“那天我还没有好好谢谢你。如果没有你的伞，我可能全身都会被雨淋湿。”
+
+塔姆笑了。“只是一件小事，不用想太多。”
+
+梅莎拿起雨伞看了看，发现伞柄上有一道小小的划痕。于是她问：“这把伞用了很久了吗？”
+
+塔姆沉默了一会儿，然后回答：“这是我刚上初中时妈妈买给我的。妈妈说，下雨的时候，我们应该带伞照顾好自己。但是，如果有人需要帮助，我们也应该把伞分给对方。”
+
+听了这句话，梅莎觉得心里暖暖的。她从来没想过，一把普通的雨伞也可以有这么重要的意义。
+
+那天，两个人一起走回家。路上又开始下雨了。塔姆撑开蓝色的雨伞，靠近梅莎一些，不让她被雨淋湿。
+
+“这次我会记住带伞了。”梅莎笑着说。
+
+“记住就好。不过，下次忘了也没关系。”塔姆回答，“我们还可以一起走回去。”
+
+梅莎笑了笑，没有说话。她觉得，关心一个人不一定需要说出多么伟大的话。有时候，它只是一把愿意与别人分享的雨伞。
+
+到家以后，梅莎回头看着塔姆渐渐远去的身影。蓝色的雨伞慢慢消失在街道的另一头，但是那天的回忆仍然留在她的心里。`,
+  pinyin: `Rènshi le jǐ tiān yǐhòu, Méishā hé Tǎmǔ kāishǐ yǒu le gèng duō de jiāoliú. Měitiān zǎoshang, Méishā zǒu jìn jiàoshì shí, dōu huì kànjiàn Tǎmǔ zuò zài yuánlái de wèizhi shàng. Yǒu shíhou tā zài kàn shū, yǒu shíhou tā zài bǐjìběn shàng huà huà.
+
+Xīngqīwǔ fàngxué hòu, Méishā kànjiàn yì bǎ lánsè de yǔsǎn fàng zài Tǎmǔ de zhuōzi pángbiān. Tā mǎshàng xiǎngqǐ le dì yī tiān shàngxué shí, tā yòng zhè bǎ sǎn bāngzhù zìjǐ de qíngjǐng.
+
+“Tǎmǔ, zhè bǎ sǎn shì nǐ de ma?” Méishā wèn.
+
+Tǎmǔ diǎn le diǎn tóu. “Shì a, zěnme le?”
+
+“Nà tiān wǒ hái méiyǒu hǎohāo xièxie nǐ. Rúguǒ méiyǒu nǐ de sǎn, wǒ kěnéng quán shēn dōu huì bèi yǔ lín shī.”
+
+Tǎmǔ xiào le. “Zhǐ shì yí jiàn xiǎoshì, bú yòng xiǎng tài duō.”
+
+Méishā ná qǐ yǔsǎn kàn le kàn, fāxiàn sǎnbǐng shàng yǒu yí dào xiǎoxiǎo de huáhén. Yúshì tā wèn: “Zhè bǎ sǎn yòng le hěn jiǔ le ma?”
+
+Tǎmǔ chénmò le yíhuìr, ránhòu huídá: “Zhè shì wǒ gāng shàng chūzhōng shí māma mǎi gěi wǒ de. Māma shuō, xiàyǔ de shíhou, wǒmen yīnggāi dài sǎn zhàogù hǎo zìjǐ. Dànshì, rúguǒ yǒu rén xūyào bāngzhù, wǒmen yě yīnggāi bǎ sǎn fēn gěi duìfāng.”
+
+Tīng le zhè jù huà, Méishā juéde xīnli nuǎnnuǎn de. Tā cónglái méi xiǎng guò, yì bǎ pǔtōng de yǔsǎn yě kěyǐ yǒu zhème zhòngyào de yìyì.
+
+Nà tiān, liǎng ge rén yìqǐ zǒu huí jiā. Lù shàng yòu kāishǐ xiàyǔ le. Tǎmǔ chēng kāi lánsè de yǔsǎn, kàojìn Méishā yìxiē, bù ràng tā bèi yǔ lín shī.
+
+“Zhè cì wǒ huì jìzhù dài sǎn le.” Méishā xiào zhe shuō.
+
+“Jìzhù jiù hǎo. Búguò, xià cì wàng le yě méi guānxi.” Tǎmǔ huídá, “Wǒmen hái kěyǐ yìqǐ zǒu huíqù.”
+
+Méishā xiào le xiào, méiyǒu shuō huà. Tā juéde, guānxīn yí ge rén bù yídìng xūyào shuō chū duōme wěidà de huà. Yǒu shíhou, tā zhǐ shì yì bǎ yuànyì yǔ biérén fēnxiǎng de yǔsǎn.
+
+Dào jiā yǐhòu, Méishā huítóu kànzhe Tǎmǔ jiànjiàn yuǎnqù de shēnyǐng. Lánsè de yǔsǎn mànmàn xiāoshī zài jiēdào de lìng yì tóu, dànshì nà tiān de huíyì réngrán liú zài tā de xīnli.`,
+  vocabulary: [
+    { word: "交流", pinyin: "jiāoliú", meaningTh: "พูดคุยแลกเปลี่ยน" },
+    { word: "情景", pinyin: "qíngjǐng", meaningTh: "เหตุการณ์ ภาพที่เกิดขึ้น" },
+    { word: "划痕", pinyin: "huáhén", meaningTh: "รอยขีดข่วน" },
+    { word: "沉默", pinyin: "chénmò", meaningTh: "เงียบ ไม่พูด" },
+    { word: "初中", pinyin: "chūzhōng", meaningTh: "โรงเรียนมัธยมต้น" },
+    { word: "照顾", pinyin: "zhàogù", meaningTh: "ดูแล" },
+    { word: "分享", pinyin: "fēnxiǎng", meaningTh: "แบ่งปัน" },
+    { word: "意义", pinyin: "yìyì", meaningTh: "ความหมาย" },
+    { word: "关心", pinyin: "guānxīn", meaningTh: "ห่วงใย" },
+    { word: "回忆", pinyin: "huíyì", meaningTh: "ความทรงจำ" }
+  ],
+  quoteZh: "真正的关心，有时候只是一把愿意分享的雨伞。",
+  quotePinyin: "Zhēnzhèng de guānxīn, yǒu shíhou zhǐ shì yì bǎ yuànyì fēnxiǎng de yǔsǎn.",
+  quoteTh: "ความห่วงใยที่แท้จริง บางครั้งก็เป็นเพียงร่มหนึ่งคันที่เราเต็มใจแบ่งปัน"
+},     
+{
+  number: 4,
+  titleTh: "งานกลุ่มที่ไม่ง่าย",
+  titleZh: "并不简单的小组作业",
+  textTh: `เช้าวันจันทร์ ครูประจำชั้นประกาศข่าวสำคัญให้นักเรียนทุกคนฟัง ในสัปดาห์หน้าแต่ละกลุ่มจะต้องนำเสนอผลงานเกี่ยวกับสิ่งที่พวกเขาอยากเปลี่ยนแปลงในโรงเรียน
+ครูแบ่งนักเรียนออกเป็นกลุ่มละสี่คน เมษา ธาม พลอย และนทีอยู่กลุ่มเดียวกัน ทุกคนต้องช่วยกันคิดหัวข้อ ค้นหาข้อมูล และเตรียมการนำเสนอ
+ตอนแรกเมษารู้สึกตื่นเต้น เธอคิดว่างานนี้จะเป็นโอกาสที่ดีให้ทุกคนได้รู้จักกันมากขึ้น แต่เมื่อเริ่มประชุม เธอก็พบว่าการทำงานกลุ่มไม่ได้ง่ายอย่างที่คิด
+พลอยอยากทำเรื่องการเพิ่มพื้นที่สีเขียวในโรงเรียน ส่วนนทีอยากเสนอให้มีอุปกรณ์กีฬาเพิ่มขึ้น ธามเสนอให้ทำเรื่องห้องสมุด เพราะนักเรียนบางคนไม่มีสถานที่เงียบ ๆ สำหรับอ่านหนังสือ
+ทุกคนต่างคิดว่าความคิดของตัวเองดีที่สุด จึงไม่มีใครยอมเปลี่ยนหัวข้อ
+“ถ้าเราเลือกหัวข้อของฉัน เราจะหาข้อมูลได้ง่ายกว่า” นทีพูด
+พลอยขมวดคิ้ว “แต่ต้นไม้ก็สำคัญนะ โรงเรียนของเรามีพื้นที่สีเขียวน้อยเกินไป”
+เมื่อเสียงพูดคุยเริ่มดังขึ้น เมษาจึงลองเสนอว่า “เราลองฟังเหตุผลของแต่ละคนก่อนดีไหม แล้วค่อยเลือกหัวข้อที่ช่วยนักเรียนได้มากที่สุด”
+ทุกคนเงียบลงเล็กน้อย ธามพยักหน้าและช่วยจดข้อดีของแต่ละหัวข้อ พวกเขาพบว่าทุกความคิดมีประโยชน์ แต่ถ้าต้องการทำงานให้เสร็จทันเวลา พวกเขาจำเป็นต้องเลือกเพียงหนึ่งเรื่อง
+หลังจากพูดคุยกันอีกพักหนึ่ง ทั้งสี่คนจึงตัดสินใจทำหัวข้อ “การสร้างโรงเรียนที่น่าอยู่สำหรับทุกคน” โดยแบ่งงานออกเป็นสามส่วน ได้แก่ พื้นที่สีเขียว ห้องสมุด และอุปกรณ์กีฬา
+เมษารับหน้าที่รวบรวมข้อมูล ธามดูแลภาพประกอบ พลอยสำรวจพื้นที่ในโรงเรียน และนทีจัดทำตารางสรุป ทุกคนเริ่มเข้าใจว่าการทำงานร่วมกันไม่ได้หมายความว่าทุกคนต้องคิดเหมือนกัน แต่ต้องรู้จักรับฟังและช่วยกันหาทางออก
+ก่อนกลับบ้าน ธามหันมาบอกเมษาว่า “เมื่อกี้เธอช่วยให้พวกเราคุยกันดีขึ้นนะ”
+เมษายิ้ม “ฉันแค่คิดว่า ถ้าเราไม่ฟังกัน งานก็คงไม่เสร็จ”
+ธามพยักหน้า เขาเริ่มเห็นว่าเมษาไม่ได้เป็นเพียงคนเงียบ ๆ ที่นั่งข้างหน้าต่าง แต่ยังเป็นคนที่พยายามเข้าใจผู้อื่นด้วย
+แม้งานกลุ่มจะยังมีอีกหลายอย่างต้องทำ แต่ทั้งสี่คนก็เริ่มต้นได้ดี และเมษาก็ได้เรียนรู้บทเรียนสำคัญที่ไม่มีอยู่ในหนังสือเรียน`,
+  textZh: `星期一早上，班主任向全班同学宣布了一件重要的事情。下个星期，每个小组都要介绍一个自己希望在学校里改变的地方。
+老师把学生分成每组四个人。梅莎、塔姆、小芳和纳提被分在同一个小组。大家需要一起想主题、查找资料，还要准备展示。
+一开始，梅莎觉得很兴奋。她认为这次作业是一个让大家更加了解彼此的好机会。但是，开始讨论以后，她发现小组作业并没有想象中那么简单。
+小芳想讨论增加学校里的绿色空间，纳提则希望学校增加体育器材。塔姆提出了图书馆这个主题，因为有些学生没有安静的地方看书。
+每个人都觉得自己的想法最好，所以谁也不愿意改变主题。
+“如果选我的主题，我们会更容易找到资料。”纳提说。
+小芳皱起眉头说：“可是树木也很重要啊！我们学校的绿色空间太少了。”
+看到大家越说越大声，梅莎试着提出建议：“我们先听听每个人的理由，好不好？然后再选择一个最能帮助学生的主题。”
+大家稍微安静了一些。塔姆点了点头，开始记录每个主题的优点。他们发现，每个想法都有用，但是如果想按时完成作业，他们就必须选出一个主题。
+又讨论了一会儿以后，四个人决定以“建设一个适合所有人的校园”为主题，并把任务分成三个部分：绿色空间、图书馆和体育器材。
+梅莎负责收集资料，塔姆负责图片，小芳调查学校里的空间，纳提整理总结表。大家开始明白，合作并不意味着每个人都要有相同的想法，而是要学会倾听，一起寻找解决办法。
+回家以前，塔姆转过头对梅莎说：“刚才你帮助大家更好地交流了。”
+梅莎笑着说：“我只是觉得，如果我们不互相倾听，作业就可能无法完成。”
+塔姆点了点头。他开始发现，梅莎不只是一个安静地坐在窗边的女孩，也是一个愿意理解别人的人。
+虽然小组作业还有很多事情要做，但是四个人已经有了一个好的开始。梅莎也学到了一个课本上没有的重要道理。`,
+  pinyin: `Xīngqīyī zǎoshang, bānzhǔrèn xiàng quán bān tóngxué xuānbù le yí jiàn zhòngyào de shìqing. Xià ge xīngqī, měi ge xiǎozǔ dōu yào jièshào yí ge zìjǐ xīwàng zài xuéxiào lǐ gǎibiàn de dìfang.
+Lǎoshī bǎ xuésheng fēn chéng měi zǔ sì ge rén. Méishā, Tǎmǔ, Xiǎofāng hé Nàtí bèi fēn zài tóng yí ge xiǎozǔ. Dàjiā xūyào yìqǐ xiǎng zhǔtí, cházhǎo zīliào, hái yào zhǔnbèi zhǎnshì.
+Yì kāishǐ, Méishā juéde hěn xīngfèn. Tā rènwéi zhè cì zuòyè shì yí ge ràng dàjiā gèngjiā liǎojiě bǐcǐ de hǎo jīhuì. Dànshì, kāishǐ tǎolùn yǐhòu, tā fāxiàn xiǎozǔ zuòyè bìng méiyǒu xiǎngxiàng zhōng nàme jiǎndān.
+Xiǎofāng xiǎng tǎolùn zēngjiā xuéxiào lǐ de lǜsè kōngjiān, Nàtí zé xīwàng xuéxiào zēngjiā tǐyù qìcái. Tǎmǔ tíchū le túshūguǎn zhège zhǔtí, yīnwèi yǒuxiē xuésheng méiyǒu ānjìng de dìfang kàn shū.
+Měi ge rén dōu juéde zìjǐ de xiǎngfǎ zuì hǎo, suǒyǐ shéi yě bù yuànyì gǎibiàn zhǔtí.
+“Rúguǒ xuǎn wǒ de zhǔtí, wǒmen huì gèng róngyì zhǎodào zīliào.” Nàtí shuō.
+Xiǎofāng zhòu qǐ méitóu shuō: “Kěshì shùmù yě hěn zhòngyào a! Wǒmen xuéxiào de lǜsè kōngjiān tài shǎo le.”
+Kàndào dàjiā yuè shuō yuè dàshēng, Méishā shìzhe tíchū jiànyì: “Wǒmen xiān tīngting měi ge rén de lǐyóu, hǎo bù hǎo? Ránhòu zài xuǎnzé yí ge zuì néng bāngzhù xuésheng de zhǔtí.”
+Dàjiā shāowēi ānjìng le yìxiē. Tǎmǔ diǎn le diǎn tóu, kāishǐ jìlù měi ge zhǔtí de yōudiǎn. Tāmen fāxiàn, měi ge xiǎngfǎ dōu yǒu yòng, dànshì rúguǒ xiǎng ànshí wánchéng zuòyè, tāmen jiù bìxū xuǎn chū yí ge zhǔtí.
+Yòu tǎolùn le yíhuìr yǐhòu, sì ge rén juédìng yǐ “jiànshè yí ge shìhé suǒyǒu rén de xiàoyuán” wéi zhǔtí, bìng bǎ rènwu fēn chéng sān ge bùfen: lǜsè kōngjiān, túshūguǎn hé tǐyù qìcái.
+Méishā fùzé shōují zīliào, Tǎmǔ fùzé túpiàn, Xiǎofāng diàochá xuéxiào lǐ de kōngjiān, Nàtí zhěnglǐ zǒngjiébiǎo. Dàjiā kāishǐ míngbai, hézuò bìng bù yìwèizhe měi ge rén dōu yào yǒu xiāngtóng de xiǎngfǎ, ér shì yào xuéhuì qīngtīng, yìqǐ xúnzhǎo jiějué bànfǎ.
+Huí jiā yǐqián, Tǎmǔ zhuǎn guò tóu duì Méishā shuō: “Gāngcái nǐ bāngzhù dàjiā gèng hǎo de jiāoliú le.”
+Méishā xiào zhe shuō: “Wǒ zhǐshì juéde, rúguǒ wǒmen bù hùxiāng qīngtīng, zuòyè jiù kěnéng wúfǎ wánchéng.”
+Tǎmǔ diǎn le diǎn tóu. Tā kāishǐ fāxiàn, Méishā bù zhǐ shì yí ge ānjìng de zuò zài chuāngbiān de nǚhái, yě shì yí ge yuànyì lǐjiě biérén de rén.
+Suīrán xiǎozǔ zuòyè hái yǒu hěn duō shìqing yào zuò, dànshì sì ge rén yǐjīng yǒu le yí ge hǎo de kāishǐ. Méishā yě xué dào le yí ge kèběn shàng méiyǒu de zhòngyào dàolǐ.`,
+  vocabulary: [
+    { word: "宣布", pinyin: "xuānbù", meaningTh: "ประกาศ" },
+    { word: "分成", pinyin: "fēn chéng", meaningTh: "แบ่งออกเป็น" },
+    { word: "主题", pinyin: "zhǔtí", meaningTh: "หัวข้อ" },
+    { word: "资料", pinyin: "zīliào", meaningTh: "ข้อมูล" },
+    { word: "绿色空间", pinyin: "lǜsè kōngjiān", meaningTh: "พื้นที่สีเขียว" },
+    { word: "体育器材", pinyin: "tǐyù qìcái", meaningTh: "อุปกรณ์กีฬา" },
+    { word: "建议", pinyin: "jiànyì", meaningTh: "ข้อเสนอแนะ" },
+    { word: "优点", pinyin: "yōudiǎn", meaningTh: "ข้อดี" },
+    { word: "合作", pinyin: "hézuò", meaningTh: "ร่วมมือ" },
+    { word: "倾听", pinyin: "qīngtīng", meaningTh: "ตั้งใจรับฟัง" }
+  ],
+  quoteZh: "合作不是每个人都想得一样，而是愿意一起寻找答案。",
+  quotePinyin: "Hézuò bú shì měi ge rén dōu xiǎng de yíyàng, ér shì yuànyì yìqǐ xúnzhǎo dá'àn.",
+  quoteTh: "การร่วมมือไม่ใช่การที่ทุกคนคิดเหมือนกัน แต่คือการเต็มใจช่วยกันหาคำตอบ"
+},
       { number: 5, titleTh: "ข้อความตอนเที่ยงคืน", titleZh: "午夜的信息", textTh: "", textZh: "", pinyin: "", vocabulary: [], quoteTh: "", quoteZh: "", quotePinyin: "" },
       { number: 6, titleTh: "ความลับของนนท์", titleZh: "นนท์的秘密", textTh: "", textZh: "", pinyin: "", vocabulary: [], quoteTh: "", quoteZh: "", quotePinyin: "" },
       { number: 7, titleTh: "วันที่สอบย่อย", titleZh: "小测验的日子", textTh: "", textZh: "", pinyin: "", vocabulary: [], quoteTh: "", quoteZh: "", quotePinyin: "" },
