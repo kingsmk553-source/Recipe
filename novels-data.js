@@ -455,7 +455,18 @@ Dào le xuéxiào, Tǎmǔ dài Méishā zǒu dào jiàoxuélóu, hái gàosu tā
 Méishā kànzhe Tǎmǔ jiànjiàn yuǎnqù de bèiyǐng. Tā bù zhīdào cóng jīntiān yǐhòu huì fāshēng shénme shì, dànshì tā juéde, zhè suǒ xīn xuéxiào yěxǔ méiyǒu zìjǐ xiǎngxiàng de nàme kěpà.
 
 Chuāngwài de yǔ hái zài xià, ér nàge zǎochen de xiāngyù, yě chéng le yí ge gùshi de kāishǐ. Zhège gùshi de fāzhǎn, shì tāmen liǎng ge rén dōu méi yǒu xiǎngdào de.`,
-  vocabulary: [],
+  vocabulary: [
+  { word: "转学", pinyin: "zhuǎnxué", meaningTh: "ย้ายโรงเรียน" },
+  { word: "熟悉", pinyin: "shúxī", meaningTh: "คุ้นเคย" },
+  { word: "天空", pinyin: "tiānkōng", meaningTh: "ท้องฟ้า" },
+  { word: "突然", pinyin: "tūrán", meaningTh: "ทันใดนั้น" },
+  { word: "下雨", pinyin: "xiàyǔ", meaningTh: "ฝนตก" },
+  { word: "屋檐", pinyin: "wūyán", meaningTh: "ชายคา" },
+  { word: "雨伞", pinyin: "yǔsǎn", meaningTh: "ร่ม" },
+  { word: "紧张", pinyin: "jǐnzhāng", meaningTh: "ประหม่า" },
+  { word: "微笑", pinyin: "wēixiào", meaningTh: "ยิ้ม" },
+  { word: "相遇", pinyin: "xiāngyù", meaningTh: "พบกัน" }
+],
   quoteTh: "บางครั้ง การพบกันโดยบังเอิญ ก็อาจเป็นจุดเริ่มต้นของเรื่องราวที่สำคัญ",
   quoteZh: "有时候，一次偶然的相遇，也可能是一个重要故事的开始。",
   quotePinyin: "Yǒu shíhou, yí cì ǒurán de xiāngyù, yě kěnéng shì yí ge zhòngyào gùshi de kāishǐ。"
