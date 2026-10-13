@@ -137,7 +137,13 @@ let showThai = true;
       <h2>บทที่ ${chapter.number}: ${escapeHTML(
         chapter.titleTh || chapter.titleZh || ""
       )}</h2>
-
+${
+        chapter.image
+          ? `<img src="${escapeHTML(chapter.image)}"
+                 alt="${escapeHTML(chapter.titleTh || chapter.titleZh || "ภาพประกอบ")}"
+                 style="display:block;max-width:100%;height:auto;margin:16px auto;border-radius:8px;">`
+          : ""
+      }
       <div class="reading-controls">
         <button type="button" id="togglePinyin">
           ${showPinyin ? "ซ่อนพินอิน" : "แสดงพินอิน"}
