@@ -382,7 +382,84 @@ window.novelLibrary = [
     totalChapters: 20,
     status: "planned",
     chapters: [
-      { number: 1, titleTh: "วันแรกในโรงเรียนใหม่", titleZh: "新学校的第一天", textTh: "", textZh: "", pinyin: "", vocabulary: [], quoteTh: "", quoteZh: "", quotePinyin: "" },
+    {
+  number: 1,
+  titleTh: "วันที่ฝนตก",
+  titleZh: "下雨的那一天",
+  textTh: `เช้าวันจันทร์ เมษาตื่นเร็วกว่าปกติ เพราะวันนี้เป็นวันแรกที่เธอย้ายมาเรียนในโรงเรียนแห่งใหม่ เธอไม่รู้จักใครเลย และยังไม่คุ้นเคยกับสถานที่แห่งนี้
+
+เมษาเตรียมกระเป๋านักเรียน ตรวจดูตารางเรียน แล้วรีบออกจากบ้าน แต่เมื่อเดินไปได้ไม่นาน ท้องฟ้าที่เคยสดใสก็เริ่มมืดลง ไม่นานฝนก็ตกลงมาอย่างหนัก
+
+เธอรีบวิ่งไปหลบฝนใต้หลังคาหน้าร้านเล็ก ๆ ระหว่างที่กำลังคิดว่าจะไปโรงเรียนอย่างไรดี ก็มีเด็กผู้ชายคนหนึ่งเดินเข้ามาหยุดข้าง ๆ เขาถือร่มสีฟ้าไว้ในมือ
+
+“เธอกำลังจะไปโรงเรียนใช่ไหม?” เด็กผู้ชายถาม
+
+เมษาพยักหน้า “ใช่ แต่ฉันไม่ได้เอาร่มมา วันนี้คงไปสายแน่เลย”
+
+เด็กผู้ชายยิ้มเล็กน้อยแล้วพูดว่า “ถ้าไปโรงเรียนเดียวกัน เราเดินไปด้วยกันก็ได้”
+
+เมษามองเขาด้วยความแปลกใจ ก่อนจะยิ้มตอบ “ขอบคุณนะ ฉันชื่อเมษา แล้วเธอล่ะ?”
+
+“ฉันชื่อธาม อยู่ชั้นเดียวกับเธอ”
+
+ทั้งสองคนเดินไปตามถนนใต้ร่มคันเดียวกัน แม้ทางเดินจะเปียกและรองเท้าจะเลอะน้ำ แต่เมษากลับรู้สึกกังวลน้อยลง
+
+เมื่อมาถึงโรงเรียน ธามพาเมษาไปยังอาคารเรียนและช่วยบอกทางไปห้องเรียนของเธอ ก่อนจะแยกกัน เขาพูดว่า “ไม่ต้องกังวลนะ วันแรกอาจจะยากหน่อย แต่เดี๋ยวเธอก็ชินเอง”
+
+เมษามองแผ่นหลังของธามที่เดินห่างออกไป เธอไม่รู้ว่าหลังจากวันนี้จะเกิดอะไรขึ้นบ้าง แต่เธอรู้สึกว่าโรงเรียนแห่งใหม่นี้อาจไม่น่ากลัวอย่างที่คิด
+
+ฝนยังคงตกอยู่ด้านนอกหน้าต่าง และการพบกันในเช้าวันนั้นก็กลายเป็นจุดเริ่มต้นของเรื่องราวที่ทั้งสองคนยังไม่เคยคาดคิดมาก่อน`,
+  textZh: `星期一早上，梅莎比平时起得更早，因为今天是她转到新学校上学的第一天。她一个人也不认识，也还不熟悉这个地方。
+
+梅莎准备好书包，检查了课程表，然后匆匆出门。可是，她走了没多久，原本晴朗的天空就渐渐暗了下来。不一会儿，大雨就下了起来。
+
+她赶紧跑到一家小店的屋檐下避雨。正当她想着该怎么去学校时，一个男生走过来，停在她身边。他的手里拿着一把蓝色的雨伞。
+
+“你要去学校吗？”男生问。
+
+梅莎点了点头，说：“是啊，可是我没带伞。今天我肯定要迟到了。”
+
+男生微微一笑，说：“如果我们去同一所学校，可以一起走。”
+
+梅莎有些惊讶地看着他，然后笑着回答：“谢谢你，我叫梅莎。你呢？”
+
+“我叫塔姆，和你在同一个年级。”
+
+两个人撑着同一把伞，沿着街道向学校走去。虽然路面很湿，鞋子也被雨水弄湿了，但是梅莎觉得自己没有那么紧张了。
+
+到了学校，塔姆带梅莎走到教学楼，还告诉她怎么去自己的教室。分别之前，他说：“别担心，第一天可能会有点困难，不过你很快就会习惯的。”
+
+梅莎看着塔姆渐渐远去的背影。她不知道从今天以后会发生什么事，但是她觉得，这所新学校也许没有自己想象的那么可怕。
+
+窗外的雨还在下，而那个早晨的相遇，也成了一个故事的开始。这个故事的发展，是他们两个人都没有想到的。`,
+  pinyin: `Xīngqīyī zǎoshang, Méishā bǐ píngshí qǐ de gèng zǎo, yīnwèi jīntiān shì tā zhuǎn dào xīn xuéxiào shàngxué de dì yī tiān. Tā yí ge rén yě bù rènshi, yě hái bù shúxī zhège dìfang.
+
+Méishā zhǔnbèi hǎo shūbāo, jiǎnchá le kèchéngbiǎo, ránhòu cōngcōng chūmén. Kěshì, tā zǒu le méi duōjiǔ, yuánběn qínglǎng de tiānkōng jiù jiànjiàn àn le xiàlái. Bù yíhuìr, dàyǔ jiù xià le qǐlái.
+
+Tā gǎnjǐn pǎo dào yì jiā xiǎodiàn de wūyán xià bìyǔ. Zhèngdāng tā xiǎngzhe gāi zěnme qù xuéxiào shí, yí ge nánshēng zǒu guòlái, tíng zài tā shēnbiān. Tā de shǒu lǐ názhe yì bǎ lánsè de yǔsǎn.
+
+“Nǐ yào qù xuéxiào ma?” Nánshēng wèn.
+
+Méishā diǎn le diǎn tóu, shuō: “Shì a, kěshì wǒ méi dài sǎn. Jīntiān wǒ kěndìng yào chídào le.”
+
+Nánshēng wēiwēi yí xiào, shuō: “Rúguǒ wǒmen qù tóng yì suǒ xuéxiào, kěyǐ yìqǐ zǒu.”
+
+Méishā yǒuxiē jīngyà de kànzhe tā, ránhòu xiào zhe huídá: “Xièxie nǐ, wǒ jiào Méishā. Nǐ ne?”
+
+“Wǒ jiào Tǎmǔ, hé nǐ zài tóng yí ge niánjí.”
+
+Liǎng ge rén chēngzhe tóng yì bǎ sǎn, yánzhe jiēdào xiàng xuéxiào zǒu qù. Suīrán lùmiàn hěn shī, xiézi yě bèi yǔshuǐ nòng shī le, dànshì Méishā juéde zìjǐ méiyǒu nàme jǐnzhāng le.
+
+Dào le xuéxiào, Tǎmǔ dài Méishā zǒu dào jiàoxuélóu, hái gàosu tā zěnme qù zìjǐ de jiàoshì. Fēnbié zhīqián, tā shuō: “Bié dānxīn, dì yī tiān kěnéng huì yǒudiǎn kùnnan, búguò nǐ hěn kuài jiù huì xíguàn de.”
+
+Méishā kànzhe Tǎmǔ jiànjiàn yuǎnqù de bèiyǐng. Tā bù zhīdào cóng jīntiān yǐhòu huì fāshēng shénme shì, dànshì tā juéde, zhè suǒ xīn xuéxiào yěxǔ méiyǒu zìjǐ xiǎngxiàng de nàme kěpà.
+
+Chuāngwài de yǔ hái zài xià, ér nàge zǎochen de xiāngyù, yě chéng le yí ge gùshi de kāishǐ. Zhège gùshi de fāzhǎn, shì tāmen liǎng ge rén dōu méi yǒu xiǎngdào de.`,
+  vocabulary: [],
+  quoteTh: "บางครั้ง การพบกันโดยบังเอิญ ก็อาจเป็นจุดเริ่มต้นของเรื่องราวที่สำคัญ",
+  quoteZh: "有时候，一次偶然的相遇，也可能是一个重要故事的开始。",
+  quotePinyin: "Yǒu shíhou, yí cì ǒurán de xiāngyù, yě kěnéng shì yí ge zhòngyào gùshi de kāishǐ。"
+},
       { number: 2, titleTh: "ที่นั่งริมหน้าต่าง", titleZh: "靠窗的座位", textTh: "", textZh: "", pinyin: "", vocabulary: [], quoteTh: "", quoteZh: "", quotePinyin: "" },
       { number: 3, titleTh: "ร่มสีฟ้า", titleZh: "蓝色的雨伞", textTh: "", textZh: "", pinyin: "", vocabulary: [], quoteTh: "", quoteZh: "", quotePinyin: "" },
       { number: 4, titleTh: "งานกลุ่มที่ไม่ง่าย", titleZh: "并不简单的小组作业", textTh: "", textZh: "", pinyin: "", vocabulary: [], quoteTh: "", quoteZh: "", quotePinyin: "" },
