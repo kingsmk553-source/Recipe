@@ -471,7 +471,65 @@ Chuāngwài de yǔ hái zài xià, ér nàge zǎochen de xiāngyù, yě chéng l
   quoteZh: "有时候，一次偶然的相遇，也可能是一个重要故事的开始。",
   quotePinyin: "Yǒu shíhou, yí cì ǒurán de xiāngyù, yě kěnéng shì yí ge zhòngyào gùshi de kāishǐ。"
 },
-      { number: 2, titleTh: "ที่นั่งริมหน้าต่าง", titleZh: "靠窗的座位", textTh: "", textZh: "", pinyin: "", vocabulary: [], quoteTh: "", quoteZh: "", quotePinyin: "" },
+  {
+  number: 2,
+  titleTh: "ที่นั่งริมหน้าต่าง",
+  titleZh: "靠窗的座位",
+  textTh: `เช้าวันต่อมา เมษามาถึงโรงเรียนก่อนเวลาเล็กน้อย เธอเดินเข้าไปในห้องเรียนพร้อมหนังสือและสมุดหลายเล่ม เพื่อน ๆ ในห้องกำลังพูดคุยกันอย่างสนุกสนาน แต่เธอยังไม่รู้จักใครมากนัก จึงเลือกยืนอยู่ข้างประตูอย่างเงียบ ๆ
+ไม่นาน ธามก็เดินเข้ามา เขาวางกระเป๋าลงบนโต๊ะริมหน้าต่างแล้วหันมายิ้มให้เธอ
+“เมษา ตรงนี้ยังว่างนะ เธออยากนั่งตรงนี้ไหม?”
+เมษามองไปยังที่นั่งข้างหน้าต่าง แสงแดดยามเช้าส่องเข้ามาอย่างอ่อนโยน เธอชอบที่นั่งตรงนี้ตั้งแต่แรกเห็น จึงพยักหน้าตอบตกลง
+“ขอบคุณนะ ฉันชอบนั่งใกล้หน้าต่าง เพราะมองเห็นต้นไม้ข้างนอกด้วย”
+ธามยิ้มแล้วพูดว่า “ฉันก็ชอบเหมือนกัน เวลาเรียนเหนื่อย ๆ มองออกไปข้างนอกแล้วรู้สึกสบายใจขึ้น”
+หลังจากนั้นครูประจำชั้นก็เข้ามาแนะนำเมษาให้เพื่อนทุกคนรู้จัก เมษาลุกขึ้นแนะนำตัวด้วยเสียงเบา ๆ แม้เธอจะรู้สึกประหม่า แต่เพื่อนหลายคนก็ยิ้มให้และต้อนรับเธออย่างเป็นมิตร
+ช่วงพักกลางวัน ธามพาเมษาไปโรงอาหาร เขาแนะนำอาหารที่นักเรียนชอบให้เธอรู้จัก ทั้งสองนั่งกินข้าวด้วยกันและพูดคุยถึงวิชาที่ชอบ งานอดิเรก และความฝันในอนาคต
+เมษาบอกว่าเธออยากเรียนภาษาต่างประเทศให้เก่ง เพราะอยากเดินทางไปหลายประเทศและพูดคุยกับผู้คนจากวัฒนธรรมที่แตกต่างกัน
+ธามฟังอย่างตั้งใจ แล้วบอกว่าเขาชอบถ่ายรูปและอยากเก็บภาพเรื่องราวเล็ก ๆ ในชีวิตเอาไว้
+“ถ้ามีเวลาว่าง ฉันจะพาเธอไปดูสถานที่สวย ๆ รอบโรงเรียนนะ” ธามพูด
+เมษายิ้มกว้างขึ้น เธอเริ่มรู้สึกว่าโรงเรียนแห่งใหม่นี้ไม่ได้เงียบเหงาอย่างที่เคยคิด และที่นั่งริมหน้าต่างตัวนั้นก็อาจกลายเป็นจุดเริ่มต้นของมิตรภาพที่ดี
+เธอมองออกไปนอกหน้าต่าง เห็นใบไม้ไหวเบา ๆ ตามสายลม วันธรรมดาวันหนึ่งค่อย ๆ กลายเป็นวันที่น่าจดจำสำหรับเธอ`,
+  textZh: `第二天早上，梅莎提前一点儿来到了学校。她拿着几本书和笔记本走进教室。同学们正在开心地聊天，但是她还不认识多少人，所以安静地站在门边。
+没过多久，塔姆走了进来。他把书包放在靠窗的桌子上，然后转过头来对她微笑。
+“梅莎，这里还没有人坐。你想坐这里吗？”
+梅莎看了看窗边的座位。早晨的阳光温柔地照进教室。她一眼就喜欢上了这个位置，于是点头答应了。
+“谢谢你！我喜欢坐在窗边，因为还可以看到外面的树。”
+塔姆笑着说：“我也喜欢。上课累的时候，看看窗外，心情就会好一些。”
+后来，班主任走进教室，把梅莎介绍给大家。梅莎站起来，轻声地介绍自己。虽然她有点儿紧张，但是很多同学都对她微笑，友好地欢迎她。
+午休的时候，塔姆带梅莎去了食堂。他给她介绍了学生们喜欢吃的食物。两个人坐在一起吃饭，聊起了喜欢的科目、兴趣爱好和未来的梦想。
+梅莎说，她想学好外语，因为她希望去很多国家旅行，也希望和来自不同文化的人交流。
+塔姆认真地听着，然后告诉她，他喜欢拍照，也想把生活中的小故事记录下来。
+“有空的时候，我带你去看看学校周围美丽的地方吧。”塔姆说。
+梅莎笑得更开心了。她开始觉得，这所新学校并不像自己以前想的那么冷清，而那个靠窗的座位，也许会成为一段美好友谊的开始。
+她望向窗外，看见树叶随着微风轻轻摇动。一个普通的日子，慢慢变成了值得她记住的一天。`,
+  pinyin: `Dì èr tiān zǎoshang, Méishā tíqián yìdiǎnr láidào le xuéxiào. Tā názhe jǐ běn shū hé bǐjìběn zǒu jìn jiàoshì. Tóngxuémen zhèngzài kāixīn de liáotiān, dànshì tā hái bù rènshi duōshao rén, suǒyǐ ānjìng de zhàn zài ménbiān.
+Méi guò duōjiǔ, Tǎmǔ zǒu le jìnlái. Tā bǎ shūbāo fàng zài kàochuāng de zhuōzi shàng, ránhòu zhuǎn guò tóu lái duì tā wēixiào.
+“Méishā, zhèlǐ hái méiyǒu rén zuò. Nǐ xiǎng zuò zhèlǐ ma?”
+Méishā kàn le kàn chuāngbiān de zuòwèi. Zǎochén de yángguāng wēnróu de zhào jìn jiàoshì. Tā yì yǎn jiù xǐhuan shàng le zhège wèizi, yúshì diǎntóu dāying le.
+“Xièxie nǐ! Wǒ xǐhuan zuò zài chuāngbiān, yīnwèi hái kěyǐ kàn dào wàimiàn de shù.”
+Tǎmǔ xiào zhe shuō: “Wǒ yě xǐhuan. Shàngkè lèi de shíhou, kànkan chuāngwài, xīnqíng jiù huì hǎo yìxiē.”
+Hòulái, bānzhǔrèn zǒu jìn jiàoshì, bǎ Méishā jièshào gěi dàjiā. Méishā zhàn qǐlái, qīngshēng de jièshào zìjǐ. Suīrán tā yǒudiǎnr jǐnzhāng, dànshì hěn duō tóngxué dōu duì tā wēixiào, yǒuhǎo de huānyíng tā.
+Wǔxiū de shíhou, Tǎmǔ dài Méishā qù le shítáng. Tā gěi tā jièshào le xuéshēngmen xǐhuan chī de shíwù. Liǎng ge rén zuò zài yìqǐ chīfàn, liáo qǐ le xǐhuan de kēmù, xìngqù àihào hé wèilái de mèngxiǎng.
+Méishā shuō, tā xiǎng xué hǎo wàiyǔ, yīnwèi tā xīwàng qù hěn duō guójiā lǚxíng, yě xīwàng hé láizì bùtóng wénhuà de rén jiāoliú.
+Tǎmǔ rènzhēn de tīngzhe, ránhòu gàosu tā, tā xǐhuan pāizhào, yě xiǎng bǎ shēnghuó zhōng de xiǎo gùshi jìlù xiàlái.
+“Yǒu kòng de shíhou, wǒ dài nǐ qù kànkan xuéxiào zhōuwéi měilì de dìfang ba.” Tǎmǔ shuō.
+Méishā xiào de gèng kāixīn le. Tā kāishǐ juéde, zhè suǒ xīn xuéxiào bìng bù xiàng zìjǐ yǐqián xiǎng de nàme lěngqīng, ér nàge kàochuāng de zuòwèi, yěxǔ huì chéngwéi yí duàn měihǎo yǒuyì de kāishǐ.
+Tā wàng xiàng chuāngwài, kànjiàn shùyè suízhe wēifēng qīngqīng yáodòng. Yí ge pǔtōng de rìzi, mànmàn biànchéng le zhídé tā jìzhù de yì tiān.`,
+  vocabulary: [
+    { word: "提前", pinyin: "tíqián", meaningTh: "ล่วงหน้า" },
+    { word: "笔记本", pinyin: "bǐjìběn", meaningTh: "สมุดบันทึก" },
+    { word: "靠窗", pinyin: "kàochuāng", meaningTh: "อยู่ติดหน้าต่าง" },
+    { word: "阳光", pinyin: "yángguāng", meaningTh: "แสงแดด" },
+    { word: "班主任", pinyin: "bānzhǔrèn", meaningTh: "ครูประจำชั้น" },
+    { word: "紧张", pinyin: "jǐnzhāng", meaningTh: "ประหม่า" },
+    { word: "友好", pinyin: "yǒuhǎo", meaningTh: "เป็นมิตร" },
+    { word: "兴趣", pinyin: "xìngqù", meaningTh: "ความสนใจ" },
+    { word: "梦想", pinyin: "mèngxiǎng", meaningTh: "ความฝัน" },
+    { word: "记录", pinyin: "jìlù", meaningTh: "บันทึก" }
+  ],
+  quoteZh: "有时候，友谊从窗边的一个小小座位开始。",
+  quotePinyin: "Yǒu shíhou, yǒuyì cóng chuāngbiān de yí ge xiǎoxiǎo zuòwèi kāishǐ.",
+  quoteTh: "บางครั้ง มิตรภาพก็เริ่มต้นจากที่นั่งเล็ก ๆ ข้างหน้าต่าง"
+},
       { number: 3, titleTh: "ร่มสีฟ้า", titleZh: "蓝色的雨伞", textTh: "", textZh: "", pinyin: "", vocabulary: [], quoteTh: "", quoteZh: "", quotePinyin: "" },
       { number: 4, titleTh: "งานกลุ่มที่ไม่ง่าย", titleZh: "并不简单的小组作业", textTh: "", textZh: "", pinyin: "", vocabulary: [], quoteTh: "", quoteZh: "", quotePinyin: "" },
       { number: 5, titleTh: "ข้อความตอนเที่ยงคืน", titleZh: "午夜的信息", textTh: "", textZh: "", pinyin: "", vocabulary: [], quoteTh: "", quoteZh: "", quotePinyin: "" },
