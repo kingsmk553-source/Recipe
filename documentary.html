@@ -4,147 +4,132 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>ห้องสารคดี | ห้องสมุดออนไลน์</title>
+  <title>ห้องสารคดีไทย–จีน</title>
   <style>
     * { box-sizing: border-box; }
+
     body {
       margin: 0;
       font-family: Arial, sans-serif;
-      background: #f5f4ef;
-      color: #34434b;
+      background: #f8f5ef;
+      color: #342c2a;
     }
+
     header {
-      background: #155e50;
-      color: white;
-      padding: 28px 18px;
+      padding: 30px 18px;
       text-align: center;
-    }
-    header h1 { margin: 0 0 10px; }
-    header p { margin: 0; }
-    .back {
-      display: inline-block;
-      margin-top: 18px;
       color: white;
-      text-decoration: none;
-      background: #287b68;
-      padding: 10px 18px;
-      border-radius: 10px;
+      background: linear-gradient(135deg, #593c65, #a56b80);
     }
-    .banner {
-      background: linear-gradient(120deg, #244c55, #456b70);
-      color: white;
-      text-align: center;
-      padding: 55px 15px;
+
+    header h1 { margin: 0 0 10px; font-size: 28px; }
+    header p { margin: 0; line-height: 1.8; }
+
+    main {
+      width: min(100% - 28px, 960px);
+      margin: 24px auto;
     }
-    .banner h2 { font-size: 38px; margin: 0 0 12px; }
-    .container {
-      max-width: 1100px;
-      margin: auto;
-      padding: 28px 16px;
-    }
-    .categories {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-      gap: 18px;
-    }
-    .category {
+
+    .intro, .library {
+      padding: 20px;
+      margin-bottom: 20px;
       background: white;
       border-radius: 16px;
-      padding: 24px;
-      box-shadow: 0 3px 12px #00000012;
-      text-decoration: none;
-      color: #34434b;
-      border: 1px solid #e5e5df;
+      box-shadow: 0 3px 14px #0000000a;
     }
-    .category h3 {
-      color: #176b55;
-      margin-top: 0;
-      font-size: 21px;
+
+    .search {
+      width: 100%;
+      padding: 13px;
+      margin: 12px 0;
+      border: 1px solid #ddd1d8;
+      border-radius: 10px;
+      font-size: 16px;
     }
-    .category p { line-height: 1.7; }
-    .category span { font-size: 35px; }
-    .category:hover { background: #edf7f1; }
-    .section {
-      margin-top: 35px;
-      padding: 22px;
-      background: white;
-      border-radius: 14px;
+
+    .categories {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin: 16px 0;
     }
-    .section h2 { color: #176b55; }
-    footer {
+
+    .categories button {
+      padding: 9px 13px;
+      border: 1px solid #e2d4de;
+      border-radius: 20px;
+      background: #fff9fc;
+      color: #593c65;
+      cursor: pointer;
+    }
+
+    .categories button.active {
+      background: #593c65;
+      color: white;
+    }
+
+    .empty {
+      padding: 28px 12px;
       text-align: center;
-      padding: 25px;
-      color: #777;
+      line-height: 1.9;
+      color: #766b72;
+      background: #fcf9fb;
+      border-radius: 12px;
+    }
+
+    footer {
+      padding: 22px;
+      text-align: center;
+      color: #766b72;
+      font-size: 13px;
     }
   </style>
 </head>
+
 <body>
+  <header>
+    <h1>📖 ห้องสารคดีไทย–จีน</h1>
+    <p>อ่านสองภาษา เรียนรู้คำศัพท์ และเปิดโลกความรู้</p>
+    <p>中文阅读 · 泰语阅读 · 双语学习</p>
+  </header>
 
-<header>
-  <h1>📚 ห้องสมุดออนไลน์</h1>
-  <p>อ่าน เรียนรู้ และเปิดมุมมองใหม่ให้ชีวิต</p>
-  <a class="back" href="index.html">← กลับหน้าหลัก</a>
-</header>
+  <main>
+    <section class="intro">
+      <h2>ยินดีต้อนรับสู่ห้องสารคดี</h2>
+      <p>เรียนรู้ภาษาจีนและภาษาไทยผ่านสุภาษิต คำคม ปรัชญา และความรู้รอบตัว</p>
+    </section>
 
-<div class="banner">
-  <h2>📖 ห้องสารคดี</h2>
-  <p>เรื่องราวดี ๆ ที่ให้ความรู้และข้อคิดในการใช้ชีวิต</p>
-</div>
+    <section class="library">
+      <h2>ค้นหาบทอ่าน</h2>
 
-<main class="container">
-  <h2>หมวดหมู่สารคดี</h2>
-  <p>เลือกหมวดที่สนใจเพื่อเริ่มอ่าน</p>
+      <input
+        class="search"
+        id="searchInput"
+        type="search"
+        placeholder="ค้นหาชื่อเรื่อง หรือชื่อภาษาจีน..."
+      >
 
-  <div class="categories">
-    <a class="category" href="#proverbs">
-      <span>📜</span>
-      <h3>1. สุภาษิตและคำพังเพย</h3>
-      <p>สุภาษิตจากบุคคลและประเทศต่าง ๆ พร้อมความหมายและที่มา</p>
-    </a>
+      <div class="categories" id="categories">
+        <button class="active" data-category="all">ทั้งหมด</button>
+        <button data-category="proverbs">สุภาษิตและคำพังเพย</button>
+        <button data-category="quotes">คำคมและคำพูด</button>
+        <button data-category="philosophy">ปรัชญาและข้อคิดชีวิต</button>
+        <button data-category="knowledge">ความรู้รอบตัว</button>
+      </div>
 
-    <a class="category" href="#quotes">
-      <span>🎙️</span>
-      <h3>2. คำคมและคำพูด</h3>
-      <p>คำพูดของบุคคลที่มีชื่อเสียง พร้อมประวัติและความหมาย</p>
-    </a>
+      <div class="empty" id="documentaryList">
+        <h3>📖 กำลังเตรียมห้องสารคดี</h3>
+        <p>เราจะเพิ่มบทอ่านภาษาจีนและภาษาไทยในขั้นตอนต่อไป</p>
+        <p>中文 · 拼音 · ภาษาไทย · คำศัพท์</p>
+      </div>
+    </section>
+  </main>
 
-    <a class="category" href="#philosophy">
-      <span>📚</span>
-      <h3>3. ปรัชญาและข้อคิดชีวิต</h3>
-      <p>แนวคิดเกี่ยวกับชีวิต ความสำเร็จ ความรัก และการเติบโต</p>
-    </a>
+  <footer>
+    ห้องสารคดีไทย–จีน · 阅读与学习
+  </footer>
 
-    <a class="category" href="#knowledge">
-      <span>🌍</span>
-      <h3>4. ความรู้รอบตัว</h3>
-      <p>ความรู้ด้านวิทยาศาสตร์ ธรรมชาติ วัฒนธรรม และเรื่องทั่วไป</p>
-    </a>
-  </div>
-
-  <div class="section" id="proverbs">
-    <h2>📜 สุภาษิตและคำพังเพย</h2>
-    <p>เนื้อหาสุภาษิตและคำพังเพยจะเพิ่มในหมวดนี้</p>
-  </div>
-
-  <div class="section" id="quotes">
-    <h2>🎙️ คำคมและคำพูด</h2>
-    <p>เนื้อหาคำคมและคำพูดจะเพิ่มในหมวดนี้</p>
-  </div>
-
-  <div class="section" id="philosophy">
-    <h2>📚 ปรัชญาและข้อคิดชีวิต</h2>
-    <p>เนื้อหาปรัชญาและข้อคิดชีวิตจะเพิ่มในหมวดนี้</p>
-  </div>
-
-  <div class="section" id="knowledge">
-    <h2>🌍 ความรู้รอบตัว</h2>
-    <p>เนื้อหาความรู้รอบตัวจะเพิ่มในหมวดนี้</p>
-  </div>
-</main>
-
-<footer>
-  ห้องสมุดออนไลน์ | พื้นที่แห่งการอ่านและการเรียนรู้
-</footer>
-
+  <script src="documentary-data.js"></script>
+  <script src="documentary-reader.js"></script>
 </body>
 </html>
